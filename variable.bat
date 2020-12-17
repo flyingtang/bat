@@ -1,0 +1,6 @@
+@echo off
+
+@REM  /p ???????
+set /p num=
+
+echo %num%
