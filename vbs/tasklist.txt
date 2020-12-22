@@ -1,0 +1,1884 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+
+映像名称:     System Idle Process
+PID:          0
+会话名      : Services
+会话#   :     0
+内存使用 :    4 K
+状态  :       Unknown
+用户名   :    NT AUTHORITY\SYSTEM
+CPU 时间:     184:11:12
+窗口标题    : 暂缺
+
+映像名称:     System
+PID:          4
+会话名      : Services
+会话#   :     0
+内存使用 :    1,824,764 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     1:46:22
+窗口标题    : 暂缺
+
+映像名称:     smss.exe
+PID:          316
+会话名      : Services
+会话#   :     0
+内存使用 :    520 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     csrss.exe
+PID:          496
+会话名      : Services
+会话#   :     0
+内存使用 :    1,644 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     csrss.exe
+PID:          616
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    26,100 K
+状态  :       Running
+用户名   :    暂缺
+CPU 时间:     0:02:11
+窗口标题    : 暂缺
+
+映像名称:     wininit.exe
+PID:          636
+会话名      : Services
+会话#   :     0
+内存使用 :    1,120 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     winlogon.exe
+PID:          708
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    6,804 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     services.exe
+PID:          752
+会话名      : Services
+会话#   :     0
+内存使用 :    5,076 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:10
+窗口标题    : 暂缺
+
+映像名称:     lsass.exe
+PID:          764
+会话名      : Services
+会话#   :     0
+内存使用 :    9,716 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:19
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          852
+会话名      : Services
+会话#   :     0
+内存使用 :    10,688 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:05
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          908
+会话名      : Services
+会话#   :     0
+内存使用 :    6,512 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:25
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          1016
+会话名      : Services
+会话#   :     0
+内存使用 :    14,292 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:01:53
+窗口标题    : 暂缺
+
+映像名称:     dwm.exe
+PID:          520
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    202,916 K
+状态  :       Running
+用户名   :    暂缺
+CPU 时间:     0:07:12
+窗口标题    : DWM Notification Window
+
+映像名称:     svchost.exe
+PID:          528
+会话名      : Services
+会话#   :     0
+内存使用 :    14,928 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:15
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          8
+会话名      : Services
+会话#   :     0
+内存使用 :    15,976 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:45
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          940
+会话名      : Services
+会话#   :     0
+内存使用 :    33,532 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:20:14
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          980
+会话名      : Services
+会话#   :     0
+内存使用 :    262,340 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:01:00
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          1028
+会话名      : Services
+会话#   :     0
+内存使用 :    4,872 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:08
+窗口标题    : 暂缺
+
+映像名称:     atiesrxx.exe
+PID:          1092
+会话名      : Services
+会话#   :     0
+内存使用 :    1,944 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     atieclxx.exe
+PID:          1448
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    8,044 K
+状态  :       Running
+用户名   :    暂缺
+CPU 时间:     0:00:34
+窗口标题    : AMD EEU Client
+
+映像名称:     dasHost.exe
+PID:          1504
+会话名      : Services
+会话#   :     0
+内存使用 :    11,772 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          1800
+会话名      : Services
+会话#   :     0
+内存使用 :    23,064 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:55
+窗口标题    : 暂缺
+
+映像名称:     spoolsv.exe
+PID:          1816
+会话名      : Services
+会话#   :     0
+内存使用 :    13,472 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          1992
+会话名      : Services
+会话#   :     0
+内存使用 :    11,504 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:04
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          2000
+会话名      : Services
+会话#   :     0
+内存使用 :    4,676 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     mDNSResponder.exe
+PID:          2008
+会话名      : Services
+会话#   :     0
+内存使用 :    3,112 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:11
+窗口标题    : 暂缺
+
+映像名称:     AlibabaProtect.exe
+PID:          1416
+会话名      : Services
+会话#   :     0
+内存使用 :    57,672 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:17:27
+窗口标题    : 暂缺
+
+映像名称:     wrapper.exe
+PID:          1328
+会话名      : Services
+会话#   :     0
+内存使用 :    1,044 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     pcas.exe
+PID:          1932
+会话名      : Services
+会话#   :     0
+内存使用 :    7,936 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:03:49
+窗口标题    : 暂缺
+
+映像名称:     AGSService.exe
+PID:          824
+会话名      : Services
+会话#   :     0
+内存使用 :    9,852 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     AGMService.exe
+PID:          2052
+会话名      : Services
+会话#   :     0
+内存使用 :    5,012 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          2084
+会话名      : Services
+会话#   :     0
+内存使用 :    2,992 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     QQProtect.exe
+PID:          2096
+会话名      : Services
+会话#   :     0
+内存使用 :    9,996 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:06
+窗口标题    : 暂缺
+
+映像名称:     SunloginClient.exe
+PID:          2128
+会话名      : Services
+会话#   :     0
+内存使用 :    4,828 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:21
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          2168
+会话名      : Services
+会话#   :     0
+内存使用 :    8,628 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:05
+窗口标题    : 暂缺
+
+映像名称:     SESecurityCenter.exe
+PID:          2188
+会话名      : Services
+会话#   :     0
+内存使用 :    8,068 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     vmnetdhcp.exe
+PID:          2236
+会话名      : Services
+会话#   :     0
+内存使用 :    1,096 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     vmware-authd.exe
+PID:          2244
+会话名      : Services
+会话#   :     0
+内存使用 :    9,116 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:01:07
+窗口标题    : 暂缺
+
+映像名称:     vmware-usbarbitrator64.exe
+PID:          2556
+会话名      : Services
+会话#   :     0
+内存使用 :    2,520 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     wlanext.exe
+PID:          2564
+会话名      : Services
+会话#   :     0
+内存使用 :    3,864 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:21
+窗口标题    : 暂缺
+
+映像名称:     vmnat.exe
+PID:          2756
+会话名      : Services
+会话#   :     0
+内存使用 :    1,328 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     MsMpEng.exe
+PID:          2808
+会话名      : Services
+会话#   :     0
+内存使用 :    253,112 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:15:31
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          2852
+会话名      : Services
+会话#   :     0
+内存使用 :    3,600 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     zxAgent.exe
+PID:          2884
+会话名      : Services
+会话#   :     0
+内存使用 :    9,304 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:22
+窗口标题    : 暂缺
+
+映像名称:     wwbizsrv.exe
+PID:          2892
+会话名      : Services
+会话#   :     0
+内存使用 :    4,016 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     unsecapp.exe
+PID:          3272
+会话名      : Services
+会话#   :     0
+内存使用 :    1,796 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     java.exe
+PID:          3336
+会话名      : Services
+会话#   :     0
+内存使用 :    11,068 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     conhost.exe
+PID:          3436
+会话名      : Services
+会话#   :     0
+内存使用 :    436 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     vmware-hostd.exe
+PID:          3672
+会话名      : Services
+会话#   :     0
+内存使用 :    27,720 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     WmiPrvSE.exe
+PID:          3820
+会话名      : Services
+会话#   :     0
+内存使用 :    16,840 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     1:08:49
+窗口标题    : 暂缺
+
+映像名称:     SunloginClient.exe
+PID:          4348
+会话名      : Services
+会话#   :     0
+内存使用 :    536 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     NisSrv.exe
+PID:          4632
+会话名      : Services
+会话#   :     0
+内存使用 :    9,944 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:14
+窗口标题    : 暂缺
+
+映像名称:     sihost.exe
+PID:          5300
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    3,852 K
+状态  :       Not Responding
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     taskhostw.exe
+PID:          5504
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    5,400 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:32
+窗口标题    : Task Host Window
+
+映像名称:     explorer.exe
+PID:          5612
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    60,800 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:03:18
+窗口标题    : 暂缺
+
+映像名称:     ChsIME.exe
+PID:          5700
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    14,708 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:06
+窗口标题    : 暂缺
+
+映像名称:     RuntimeBroker.exe
+PID:          5788
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    5,892 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:08
+窗口标题    : 暂缺
+
+映像名称:     SCMainFrame.exe
+PID:          5856
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    408 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     ShellExperienceHost.exe
+PID:          6116
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    2,500 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:06
+窗口标题    : 网络连接
+
+映像名称:     SearchIndexer.exe
+PID:          6388
+会话名      : Services
+会话#   :     0
+内存使用 :    36,492 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:01:00
+窗口标题    : 暂缺
+
+映像名称:     InstallAgent.exe
+PID:          6616
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    184 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     baidupinyin.exe
+PID:          6896
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    13,044 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:14
+窗口标题    : 暂缺
+
+映像名称:     RadeonSettings.exe
+PID:          3788
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    3,772 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:07
+窗口标题    : RADEON 设置
+
+映像名称:     HuYanBao.exe
+PID:          8464
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    3,728 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 护眼宝工具窗
+
+映像名称:     vmware-tray.exe
+PID:          8732
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    332 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : vmware-tray Main UI Window
+
+映像名称:     WeChat.exe
+PID:          9020
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    82,136 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:03:02
+窗口标题    : 微信
+
+映像名称:     WeChatWeb.exe
+PID:          8108
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    1,476 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     WeChatWeb.exe
+PID:          8776
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    1,240 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     ComputerZTray.exe
+PID:          1056
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    22,588 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:08:15
+窗口标题    : 暂缺
+
+映像名称:     ComputerZService.exe
+PID:          1524
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    29,204 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:11:21
+窗口标题    : ComputerZ_HardwareDll_LuaWnd
+
+映像名称:     unsecapp.exe
+PID:          2768
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    2,344 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:03:55
+窗口标题    : OleMainThreadWndName
+
+映像名称:     WeChatApp.exe
+PID:          4192
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    7,188 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:08
+窗口标题    : 暂缺
+
+映像名称:     DrvMgr.exe
+PID:          8204
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    6,928 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:21
+窗口标题    : 暂缺
+
+映像名称:     RtkNGUI64.exe
+PID:          8984
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    1,012 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : Realtek HD Audio New GUI background window
+
+映像名称:     SQLyog.exe
+PID:          6676
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    55,104 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:02:57
+窗口标题    : SQLyog Ultimate 64 - [67/ops_center - gsuser@192.168.1.67*]
+
+映像名称:     fontdrvhost.exe
+PID:          784
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    1,004 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          6404
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    184 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     AlibabaprotectUI.exe
+PID:          8696
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    3,352 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 闃块噷瀹夊叏鍔╂墜SDK{9BA72AE3-D5CA-450C-B849-5E4C4EA731B3}
+
+映像名称:     goland64.exe
+PID:          5036
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    219,692 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:32:24
+窗口标题    : cloud – app.conf GoLand
+
+映像名称:     fsnotifier64.exe
+PID:          576
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    408 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:09
+窗口标题    : 暂缺
+
+映像名称:     wuapihost.exe
+PID:          8312
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    832 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     svchost.exe
+PID:          9772
+会话名      : Services
+会话#   :     0
+内存使用 :    3,828 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     ApplicationFrameHost.exe
+PID:          9476
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    5,684 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 计算器
+
+映像名称:     Calculator.exe
+PID:          9840
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    2,044 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:08
+窗口标题    : 计算器
+
+映像名称:     WinStore.Mobile.exe
+PID:          5916
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    864 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 应用商店
+
+映像名称:     SecureCRT.exe
+PID:          9492
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    12,660 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:05:40
+窗口标题    : root@GsOs-V2:/geesunn/app/ops_nginx
+
+映像名称:     WmiPrvSE.exe
+PID:          4176
+会话名      : Services
+会话#   :     0
+内存使用 :    38,176 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:11:43
+窗口标题    : 暂缺
+
+映像名称:     WmiPrvSE.exe
+PID:          5364
+会话名      : Services
+会话#   :     0
+内存使用 :    8,084 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:03
+窗口标题    : 暂缺
+
+映像名称:     ___3go_build_main_go.exe
+PID:          5768
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    13,912 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:02:12
+窗口标题    : 暂缺
+
+映像名称:     conhost.exe
+PID:          8508
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    272 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     hh.exe
+PID:          3768
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    2,628 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : Windows 脚本技术
+
+映像名称:     ShadowsocksR-dotnet4.0.exe
+PID:          5280
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    26,276 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:25
+窗口标题    : 暂缺
+
+映像名称:     ShadowsocksR-dotnet4.0.exe
+PID:          9348
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    2,028 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : PrivoxyTrayWindow
+
+映像名称:     vbsedit.exe
+PID:          11032
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    9,752 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:55
+窗口标题    : test3.vbs * - VbsEdit
+
+映像名称:     chrome.exe
+PID:          13892
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    183,452 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:04:52
+窗口标题    : (13条消息) windows 显示进程的命令 TASKLIST 详解_Kevin的专栏-CSDN博客 - Google Chrome
+
+映像名称:     chrome.exe
+PID:          516
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    984 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          12572
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    180,460 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:03:32
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          15080
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    31,736 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:01:10
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          13492
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    6,784 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          15084
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    60,520 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:14
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          11672
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    5,156 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          14364
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    66,620 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:46
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          12664
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    22,076 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:23
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          11648
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    2,976 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          14876
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    13,196 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          11336
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    3,012 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          2080
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    85,672 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:01:30
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          11096
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    9,728 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     RDCMan.exe
+PID:          11796
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    34,496 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:08
+窗口标题    : Windows2003-64bit_192.168.1.129 (192.168.1.129) - Remote Desktop Connection Manager v2.7
+
+映像名称:     winpty-agent.exe
+PID:          14080
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    752 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    :  
+
+映像名称:     conhost.exe
+PID:          9436
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    748 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     cmd.exe
+PID:          10604
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    196 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          13588
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    12,296 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:03
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          2632
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    164,896 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:05:51
+窗口标题    : 暂缺
+
+映像名称:     SystemSettingsBroker.exe
+PID:          5580
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    488 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     NetworkUXBroker.exe
+PID:          7808
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    6,264 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:09
+窗口标题    : 暂缺
+
+映像名称:     hh.exe
+PID:          7592
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    4,720 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:03
+窗口标题    : Windows 脚本技术
+
+映像名称:     powershell.exe
+PID:          11472
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    7,076 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 选择Windows PowerShell
+
+映像名称:     conhost.exe
+PID:          11676
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    1,060 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : GDI+ Window
+
+映像名称:     powershell.exe
+PID:          15232
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    7,696 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 选择Windows PowerShell
+
+映像名称:     conhost.exe
+PID:          11484
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    1,012 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : GDI+ Window
+
+映像名称:     chrome.exe
+PID:          5196
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    53,120 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:01:48
+窗口标题    : 暂缺
+
+映像名称:     mmc.exe
+PID:          900
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    8,044 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:03
+窗口标题    : 计算机管理
+
+映像名称:     MpCmdRun.exe
+PID:          11660
+会话名      : Services
+会话#   :     0
+内存使用 :    11,248 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     notepad++.exe
+PID:          2200
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    2,812 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:40
+窗口标题    : C:\Users\geesunn\Desktop\脚本\win2003\windows_more.ps1 - Notepad++
+
+映像名称:     SearchUI.exe
+PID:          11908
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    3,864 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : Cortana
+
+映像名称:     chrome.exe
+PID:          6096
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    19,232 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:08
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          8896
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    7,492 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          12880
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    7,300 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          15036
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    43,044 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:05
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          5276
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    55,628 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:05
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          12808
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    5,344 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          10704
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    4,172 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          12700
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    3,932 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          3320
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    4,420 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          1460
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    72,876 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:04
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          12504
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    9,576 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          10900
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    15,900 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:06
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          13452
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    13,696 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:05
+窗口标题    : 暂缺
+
+映像名称:     cmd.exe
+PID:          12192
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    1,316 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : C:\Windows\System32\cmd.exe - cscript  tasklist.vbs 
+
+映像名称:     conhost.exe
+PID:          1624
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    12,276 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:35
+窗口标题    : GDI+ Window
+
+映像名称:     chrome.exe
+PID:          11504
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    96,488 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:18
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          7504
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    24,020 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          11512
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    63,660 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:11
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          11100
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    59,516 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          5132
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    65,596 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          2404
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    12,388 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          2744
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    5,264 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          720
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    15,420 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          11480
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    103,848 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:32
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          10212
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    86,340 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:13
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          6672
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    88,316 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:04
+窗口标题    : 暂缺
+
+映像名称:     Code.exe
+PID:          7028
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    34,700 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:05
+窗口标题    : tasklist.txt - bat - Visual Studio Code
+
+映像名称:     Code.exe
+PID:          12280
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    556 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     Code.exe
+PID:          16012
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    116,416 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:08
+窗口标题    : 暂缺
+
+映像名称:     Code.exe
+PID:          12964
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    7,184 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     Code.exe
+PID:          13248
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    137,528 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:31
+窗口标题    : 暂缺
+
+映像名称:     Code.exe
+PID:          11420
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    42,336 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:03
+窗口标题    : 暂缺
+
+映像名称:     CodeHelper.exe
+PID:          2640
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    3,792 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     conhost.exe
+PID:          15316
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    276 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     Code.exe
+PID:          12112
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    8,424 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     Code.exe
+PID:          15296
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    35,696 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:04
+窗口标题    : 暂缺
+
+映像名称:     cmd.exe
+PID:          15936
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    216 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 选择C:\Windows\System32\cmd.exe
+
+映像名称:     conhost.exe
+PID:          9608
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    460 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : CicMarshalWnd
+
+映像名称:     Code.exe
+PID:          8460
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    60,296 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:08
+窗口标题    : 暂缺
+
+映像名称:     Code.exe
+PID:          15844
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    10,508 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     CodeHelper.exe
+PID:          13552
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    28 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     conhost.exe
+PID:          15804
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    240 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     tasklist.exe
+PID:          4944
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    236 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     more.com
+PID:          14316
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    196 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          12424
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    106,788 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     LockAppHost.exe
+PID:          11028
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    3,028 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : OleMainThreadWndName
+
+映像名称:     csrss.exe
+PID:          6816
+会话名      : Console
+会话#   :     3
+内存使用 :    4,248 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     winlogon.exe
+PID:          9284
+会话名      : Console
+会话#   :     3
+内存使用 :    6,688 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     LogonUI.exe
+PID:          12360
+会话名      : Console
+会话#   :     3
+内存使用 :    55,320 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     dwm.exe
+PID:          3388
+会话名      : Console
+会话#   :     3
+内存使用 :    23,472 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     atieclxx.exe
+PID:          8484
+会话名      : Console
+会话#   :     3
+内存使用 :    8,340 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     ChsIME.exe
+PID:          11012
+会话名      : Console
+会话#   :     3
+内存使用 :    6,512 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     rdpclip.exe
+PID:          14624
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    3,032 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          3908
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    111,992 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          9500
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    105,852 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     WmiApSrv.exe
+PID:          10428
+会话名      : Services
+会话#   :     0
+内存使用 :    7,284 K
+状态  :       Unknown
+用户名   :    暂缺
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          12364
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    104,388 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:01
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          10728
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    118,240 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:02
+窗口标题    : 暂缺
+
+映像名称:     chrome.exe
+PID:          14024
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    21,128 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     notepad.exe
+PID:          14816
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    15,792 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : tasklist.txt - 记事本
+
+映像名称:     cscript.exe
+PID:          11568
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    9,400 K
+状态  :       Running
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+
+映像名称:     tasklist.exe
+PID:          7536
+会话名      : RDP-Tcp#5
+会话#   :     1
+内存使用 :    10,476 K
+状态  :       Unknown
+用户名   :    DESKTOP-JK64T46\geesunn
+CPU 时间:     0:00:00
+窗口标题    : 暂缺
+

@@ -1,0 +1,103 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+Availability: 
+BytesPerSector: 512
+Caption: KINGSTON SA400S37120G
+CompressionMethod: 
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_DiskDrive
+DefaultBlockSize: 
+Description: 磁盘驱动器
+DeviceID: \\.\PHYSICALDRIVE0
+ErrorCleared: 
+ErrorDescription: 
+ErrorMethodology: 
+FirmwareRevision: SBFK61K1
+Index: 0
+InstallDate: 
+InterfaceType: IDE
+LastErrorCode: 
+Manufacturer: (标准磁盘驱动器)
+MaxBlockSize: 
+MaxMediaSize: 
+MediaLoaded: True
+MediaType: Fixed hard disk media
+MinBlockSize: 
+Model: KINGSTON SA400S37120G
+Name: \\.\PHYSICALDRIVE0
+NeedsCleaning: 
+NumberOfMediaSupported: 
+Partitions: 3
+PNPDeviceID: SCSI\DISK&VEN_&PROD_KINGSTON_SA400S3\4&13C63C29&0&000000
+PowerManagementCapabilities: 
+PowerManagementSupported: 
+SCSIBus: 0
+SCSILogicalUnit: 0
+SCSIPort: 0
+SCSITargetId: 0
+SectorsPerTrack: 63
+SerialNumber: 50026B72821755F4
+Signature: 
+Size: 120031511040
+Status: OK
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TotalCylinders: 14593
+TotalHeads: 255
+TotalSectors: 234436545
+TotalTracks: 3721215
+TracksPerCylinder: 255
+
+Availability: 
+BytesPerSector: 512
+Caption: WDC WD10EZEX-60WN4A0
+CompressionMethod: 
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_DiskDrive
+DefaultBlockSize: 
+Description: 磁盘驱动器
+DeviceID: \\.\PHYSICALDRIVE1
+ErrorCleared: 
+ErrorDescription: 
+ErrorMethodology: 
+FirmwareRevision: 01.01A01
+Index: 1
+InstallDate: 
+InterfaceType: IDE
+LastErrorCode: 
+Manufacturer: (标准磁盘驱动器)
+MaxBlockSize: 
+MaxMediaSize: 
+MediaLoaded: True
+MediaType: Fixed hard disk media
+MinBlockSize: 
+Model: WDC WD10EZEX-60WN4A0
+Name: \\.\PHYSICALDRIVE1
+NeedsCleaning: 
+NumberOfMediaSupported: 
+Partitions: 3
+PNPDeviceID: SCSI\DISK&VEN_WDC&PROD_WD10EZEX-60WN4A0\4&13C63C29&0&030000
+PowerManagementCapabilities: 
+PowerManagementSupported: 
+SCSIBus: 3
+SCSILogicalUnit: 0
+SCSIPort: 0
+SCSITargetId: 0
+SectorsPerTrack: 63
+SerialNumber:      WD-WCC6Y0LYF3J7
+Signature: 
+Size: 1000202273280
+Status: OK
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TotalCylinders: 121601
+TotalHeads: 255
+TotalSectors: 1953520065
+TotalTracks: 31008255
+TracksPerCylinder: 255
+

@@ -1,0 +1,1412 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+SysCaption=Microsoft Windows 10 企业版
+SysCSName=DESKTOP-JK64T46
+SysDescription: 
+SysFreePhysicalMemory: 8028712
+SysFreeSpaceInPagingFiles: 9538272
+SysFreeVirtualMemory: 11774576
+SysLargeSystemCache: 
+SysManufacturer: Microsoft Corporation
+SysMaxNumberOfProcesses: -1
+SysMaxProcessMemorySize: 137438953344
+SysName: Microsoft Windows 10 企业版
+SysNumberOfLicensedUsers: 
+SysNumberOfProcesses: 170
+SysNumberOfUsers: 2
+SysOSArchitecture: 64 位
+SysSerialNumber: 00329-00000-00003-AA066
+SysTotalSwapSpaceSize: 
+SysTotalVirtualMemorySize: 26640156
+SysTotalVisibleMemorySize: 16678684
+SysVersion: 10.0.10240
+Sysruntime=1天5小时17分钟42秒
+CpuAddressWidth: 64
+CpuCaption: Intel64 Family 6 Model 158 Stepping 10
+CpuCpuStatus: 1
+CpuCreationClassName: Win32_Processor
+CpuCurrentClockSpeed: 3000
+CpuCurrentVoltage: 9
+CpuDataWidth: 64
+CpuDescription: Intel64 Family 6 Model 158 Stepping 10
+CpuLoadPercentage: 5
+CpuManufacturer: GenuineIntel
+CpuMaxClockSpeed: 3000
+CpuName: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+CpuNumberOfCores: 6
+CpuNumberOfEnabledCore: 6
+CpuNumberOfLogicalProcessors: 6
+CpuProcessorId: BFEBFBFF000906EA
+CpuProcessorType: 3
+CpuRevision: 
+CpuRole: CPU
+CpuSecondLevelAddressTranslationExtensions: True
+CpuSerialNumber:  
+CpuSocketDesignation: U3E1
+CpuSystemName: DESKTOP-JK64T46
+CpuThreadCount: 6
+CpuVirtualizationFirmwareEnabled: True
+CpuVMMonitorModeExtensions: True
+CpuCount:1
+=====================xxxxxxxxxxxxxxxx16678684
+ProcessProcessId: 0
+ProcessName: System Idle Process
+ProcessParentProcessId: 0
+ProcessThreadCount: 6
+ProcessHandleCount: 0
+ProcessCpuTime:6047428.75
+ProcessWorkingSetSize: 4096
+ProcessProMemPercent: 0
+ProcessProcessId: 4
+ProcessName: System
+ProcessParentProcessId: 0
+ProcessThreadCount: 166
+ProcessHandleCount: 1771
+ProcessCpuTime:63114.375
+ProcessWorkingSetSize: 1216921600
+ProcessProMemPercent: 0
+ProcessProcessId: 316
+ProcessName: smss.exe
+ProcessParentProcessId: 4
+ProcessThreadCount: 2
+ProcessHandleCount: 49
+ProcessCpuTime:6.875
+ProcessWorkingSetSize: 417792
+ProcessProMemPercent: 0
+ProcessProcessId: 496
+ProcessName: csrss.exe
+ProcessParentProcessId: 440
+ProcessThreadCount: 13
+ProcessHandleCount: 530
+ProcessCpuTime:19687500.515625
+ProcessWorkingSetSize: 1429504
+ProcessProMemPercent: 0
+ProcessProcessId: 616
+ProcessName: csrss.exe
+ProcessParentProcessId: 608
+ProcessThreadCount: 12
+ProcessHandleCount: 952
+ProcessCpuTime:12217187502.0156
+ProcessWorkingSetSize: 19841024
+ProcessProMemPercent: 0
+ProcessProcessId: 636
+ProcessName: wininit.exe
+ProcessParentProcessId: 440
+ProcessThreadCount: 1
+ProcessHandleCount: 86
+ProcessCpuTime:.3125
+ProcessWorkingSetSize: 1060864
+ProcessProMemPercent: 0
+ProcessProcessId: 708
+ProcessName: winlogon.exe
+ProcessParentProcessId: 608
+ProcessThreadCount: 4
+ProcessHandleCount: 204
+ProcessCpuTime:140625.0625
+ProcessWorkingSetSize: 3686400
+ProcessProMemPercent: 0
+ProcessProcessId: 752
+ProcessName: services.exe
+ProcessParentProcessId: 636
+ProcessThreadCount: 5
+ProcessHandleCount: 307
+ProcessCpuTime:360937506.015625
+ProcessWorkingSetSize: 4624384
+ProcessProMemPercent: 0
+ProcessProcessId: 764
+ProcessName: lsass.exe
+ProcessParentProcessId: 636
+ProcessThreadCount: 6
+ProcessHandleCount: 1434
+ProcessCpuTime:7359375010.35937
+ProcessWorkingSetSize: 9256960
+ProcessProMemPercent: 0
+ProcessProcessId: 852
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 24
+ProcessHandleCount: 652
+ProcessCpuTime:337500001.15625
+ProcessWorkingSetSize: 9736192
+ProcessProMemPercent: 0
+ProcessProcessId: 908
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 12
+ProcessHandleCount: 735
+ProcessCpuTime:7125000017.1875
+ProcessWorkingSetSize: 6418432
+ProcessProMemPercent: 0
+ProcessProcessId: 1016
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 26
+ProcessHandleCount: 1030
+ProcessCpuTime:78437500026.8281
+ProcessWorkingSetSize: 12447744
+ProcessProMemPercent: 0
+ProcessProcessId: 520
+ProcessName: dwm.exe
+ProcessParentProcessId: 708
+ProcessThreadCount: 10
+ProcessHandleCount: 935
+ProcessCpuTime:1407656250261.39
+ProcessWorkingSetSize: 65630208
+ProcessProMemPercent: 0
+ProcessProcessId: 528
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 35
+ProcessHandleCount: 686
+ProcessCpuTime:720312508.171875
+ProcessWorkingSetSize: 16244736
+ProcessProMemPercent: 0
+ProcessProcessId: 8
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 27
+ProcessHandleCount: 945
+ProcessCpuTime:20609375023.2813
+ProcessWorkingSetSize: 14159872
+ProcessProMemPercent: 0
+ProcessProcessId: 940
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 58
+ProcessHandleCount: 1998
+ProcessCpuTime:1778437500914.33
+ProcessWorkingSetSize: 32608256
+ProcessProMemPercent: 0
+ProcessProcessId: 980
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 57
+ProcessHandleCount: 1097
+ProcessCpuTime:16265625018.2031
+ProcessWorkingSetSize: 15032320
+ProcessProMemPercent: 0
+ProcessProcessId: 1028
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 13
+ProcessHandleCount: 300
+ProcessCpuTime:315625005.015625
+ProcessWorkingSetSize: 4993024
+ProcessProMemPercent: 0
+ProcessProcessId: 1092
+ProcessName: atiesrxx.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 4
+ProcessHandleCount: 124
+ProcessCpuTime:.15625
+ProcessWorkingSetSize: 1286144
+ProcessProMemPercent: 0
+ProcessProcessId: 1448
+ProcessName: atieclxx.exe
+ProcessParentProcessId: 1092
+ProcessThreadCount: 8
+ProcessHandleCount: 211
+ProcessCpuTime:2904687504.64063
+ProcessWorkingSetSize: 5730304
+ProcessProMemPercent: 0
+ProcessProcessId: 1504
+ProcessName: dasHost.exe
+ProcessParentProcessId: 1016
+ProcessThreadCount: 12
+ProcessHandleCount: 364
+ProcessCpuTime:6718750.984375
+ProcessWorkingSetSize: 12169216
+ProcessProMemPercent: 0
+ProcessProcessId: 1800
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 26
+ProcessHandleCount: 577
+ProcessCpuTime:37843750014.6719
+ProcessWorkingSetSize: 21532672
+ProcessProMemPercent: 0
+ProcessProcessId: 1816
+ProcessName: spoolsv.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 20
+ProcessHandleCount: 598
+ProcessCpuTime:14531250.65625
+ProcessWorkingSetSize: 9637888
+ProcessProMemPercent: 0
+ProcessProcessId: 1992
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 14
+ProcessHandleCount: 454
+ProcessCpuTime:153125003.125
+ProcessWorkingSetSize: 11681792
+ProcessProMemPercent: 0
+ProcessProcessId: 2000
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 8
+ProcessHandleCount: 277
+ProcessCpuTime:137500001.046875
+ProcessWorkingSetSize: 5050368
+ProcessProMemPercent: 0
+ProcessProcessId: 2008
+ProcessName: mDNSResponder.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 4
+ProcessHandleCount: 144
+ProcessCpuTime:793750002.890625
+ProcessWorkingSetSize: 3039232
+ProcessProMemPercent: 0
+ProcessProcessId: 1416
+ProcessName: AlibabaProtect.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 52
+ProcessHandleCount: 926
+ProcessCpuTime:4171562500571.88
+ProcessWorkingSetSize: 71639040
+ProcessProMemPercent: 0
+ProcessProcessId: 1328
+ProcessName: wrapper.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 3
+ProcessHandleCount: 106
+ProcessCpuTime:31250.015625
+ProcessWorkingSetSize: 667648
+ProcessProMemPercent: 0
+ProcessProcessId: 1932
+ProcessName: pcas.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 6
+ProcessHandleCount: 280
+ProcessCpuTime:20140625001.8125
+ProcessWorkingSetSize: 9900032
+ProcessProMemPercent: 0
+ProcessProcessId: 824
+ProcessName: AGSService.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 3
+ProcessHandleCount: 289
+ProcessCpuTime:1250000.53125
+ProcessWorkingSetSize: 6770688
+ProcessProMemPercent: 0
+ProcessProcessId: 2052
+ProcessName: AGMService.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 3
+ProcessHandleCount: 197
+ProcessCpuTime:15625.03125
+ProcessWorkingSetSize: 5406720
+ProcessProMemPercent: 0
+ProcessProcessId: 2084
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 6
+ProcessHandleCount: 248
+ProcessCpuTime:140625.046875
+ProcessWorkingSetSize: 1970176
+ProcessProMemPercent: 0
+ProcessProcessId: 2096
+ProcessName: QQProtect.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 22
+ProcessHandleCount: 409
+ProcessCpuTime:246875003.5
+ProcessWorkingSetSize: 10711040
+ProcessProMemPercent: 0
+ProcessProcessId: 2128
+ProcessName: SunloginClient.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 24
+ProcessHandleCount: 479
+ProcessCpuTime:1253125008.57813
+ProcessWorkingSetSize: 4218880
+ProcessProMemPercent: 0
+ProcessProcessId: 2168
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 7
+ProcessHandleCount: 241
+ProcessCpuTime:131250003.640625
+ProcessWorkingSetSize: 9728000
+ProcessProMemPercent: 0
+ProcessProcessId: 2188
+ProcessName: SESecurityCenter.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 23
+ProcessHandleCount: 250
+ProcessCpuTime:5625000.828125
+ProcessWorkingSetSize: 8925184
+ProcessProMemPercent: 0
+ProcessProcessId: 2236
+ProcessName: vmnetdhcp.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 2
+ProcessHandleCount: 64
+ProcessCpuTime:15625.015625
+ProcessWorkingSetSize: 659456
+ProcessProMemPercent: 0
+ProcessProcessId: 2244
+ProcessName: vmware-authd.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 6
+ProcessHandleCount: 261
+ProcessCpuTime:48515625011.6875
+ProcessWorkingSetSize: 8732672
+ProcessProMemPercent: 0
+ProcessProcessId: 2556
+ProcessName: vmware-usbarbitrator64.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 3
+ProcessHandleCount: 188
+ProcessCpuTime:31250.03125
+ProcessWorkingSetSize: 1634304
+ProcessProMemPercent: 0
+ProcessProcessId: 2564
+ProcessName: wlanext.exe
+ProcessParentProcessId: 1016
+ProcessThreadCount: 10
+ProcessHandleCount: 152
+ProcessCpuTime:1718750004.60938
+ProcessWorkingSetSize: 3870720
+ProcessProMemPercent: 0
+ProcessProcessId: 2756
+ProcessName: vmnat.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 4
+ProcessHandleCount: 131
+ProcessCpuTime:78125.046875
+ProcessWorkingSetSize: 1003520
+ProcessProMemPercent: 0
+ProcessProcessId: 2808
+ProcessName: MsMpEng.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 35
+ProcessHandleCount: 838
+ProcessCpuTime:2567187500645.09
+ProcessWorkingSetSize: 262860800
+ProcessProMemPercent: 0
+ProcessProcessId: 2852
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 25
+ProcessHandleCount: 309
+ProcessCpuTime:7031250.515625
+ProcessWorkingSetSize: 3993600
+ProcessProMemPercent: 0
+ProcessProcessId: 2884
+ProcessName: zxAgent.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 11
+ProcessHandleCount: 159
+ProcessCpuTime:1696875003.73438
+ProcessWorkingSetSize: 9379840
+ProcessProMemPercent: 0
+ProcessProcessId: 2892
+ProcessName: wwbizsrv.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 8
+ProcessHandleCount: 209
+ProcessCpuTime:312500.328125
+ProcessWorkingSetSize: 3756032
+ProcessProMemPercent: 0
+ProcessProcessId: 3272
+ProcessName: unsecapp.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 3
+ProcessHandleCount: 101
+ProcessCpuTime:.15625
+ProcessWorkingSetSize: 1851392
+ProcessProMemPercent: 0
+ProcessProcessId: 3336
+ProcessName: java.exe
+ProcessParentProcessId: 1328
+ProcessThreadCount: 17
+ProcessHandleCount: 284
+ProcessCpuTime:1875000.421875
+ProcessWorkingSetSize: 5709824
+ProcessProMemPercent: 0
+ProcessProcessId: 3436
+ProcessName: conhost.exe
+ProcessParentProcessId: 3336
+ProcessThreadCount: 2
+ProcessHandleCount: 53
+ProcessCpuTime:.15625
+ProcessWorkingSetSize: 425984
+ProcessProMemPercent: 0
+ProcessProcessId: 3672
+ProcessName: vmware-hostd.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 17
+ProcessHandleCount: 359
+ProcessCpuTime:1093750.8125
+ProcessWorkingSetSize: 28082176
+ProcessProMemPercent: 0
+ProcessProcessId: 3820
+ProcessName: WmiPrvSE.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 9
+ProcessHandleCount: 294
+ProcessCpuTime:28401093750866.8
+ProcessWorkingSetSize: 13639680
+ProcessProMemPercent: 0
+ProcessProcessId: 4348
+ProcessName: SunloginClient.exe
+ProcessParentProcessId: 2128
+ProcessThreadCount: 3
+ProcessHandleCount: 191
+ProcessCpuTime:312500.171875
+ProcessWorkingSetSize: 446464
+ProcessProMemPercent: 0
+ProcessProcessId: 4632
+ProcessName: NisSrv.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 14
+ProcessHandleCount: 202
+ProcessCpuTime:2890625010.85938
+ProcessWorkingSetSize: 10776576
+ProcessProMemPercent: 0
+ProcessProcessId: 5300
+ProcessName: sihost.exe
+ProcessParentProcessId: 940
+ProcessThreadCount: 9
+ProcessHandleCount: 445
+ProcessCpuTime:8281250.78125
+ProcessWorkingSetSize: 15716352
+ProcessProMemPercent: 0
+ProcessProcessId: 5504
+ProcessName: taskhostw.exe
+ProcessParentProcessId: 940
+ProcessThreadCount: 10
+ProcessHandleCount: 404
+ProcessCpuTime:18640625012.9688
+ProcessWorkingSetSize: 21815296
+ProcessProMemPercent: 0
+ProcessProcessId: 5612
+ProcessName: explorer.exe
+ProcessParentProcessId: 5564
+ProcessThreadCount: 91
+ProcessHandleCount: 2409
+ProcessCpuTime:113156250066.625
+ProcessWorkingSetSize: 107249664
+ProcessProMemPercent: 0
+ProcessProcessId: 5700
+ProcessName: ChsIME.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 11
+ProcessHandleCount: 713
+ProcessCpuTime:278125003.171875
+ProcessWorkingSetSize: 39583744
+ProcessProMemPercent: 0
+ProcessProcessId: 5788
+ProcessName: RuntimeBroker.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 17
+ProcessHandleCount: 588
+ProcessCpuTime:340625004.296875
+ProcessWorkingSetSize: 24903680
+ProcessProMemPercent: 0
+ProcessProcessId: 5856
+ProcessName: SCMainFrame.exe
+ProcessParentProcessId: 2188
+ProcessThreadCount: 3
+ProcessHandleCount: 116
+ProcessCpuTime:1250000.125
+ProcessWorkingSetSize: 2789376
+ProcessProMemPercent: 0
+ProcessProcessId: 6116
+ProcessName: ShellExperienceHost.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 73
+ProcessHandleCount: 983
+ProcessCpuTime:178125003.421875
+ProcessWorkingSetSize: 78454784
+ProcessProMemPercent: 0
+ProcessProcessId: 6388
+ProcessName: SearchIndexer.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 18
+ProcessHandleCount: 709
+ProcessCpuTime:15656250040.4375
+ProcessWorkingSetSize: 37462016
+ProcessProMemPercent: 0
+ProcessProcessId: 6616
+ProcessName: InstallAgent.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 1
+ProcessHandleCount: 160
+ProcessCpuTime:62500.046875
+ProcessWorkingSetSize: 4481024
+ProcessProMemPercent: 0
+ProcessProcessId: 6896
+ProcessName: baidupinyin.exe
+ProcessParentProcessId: 6844
+ProcessThreadCount: 33
+ProcessHandleCount: 4979
+ProcessCpuTime:845312505.8125
+ProcessWorkingSetSize: 119140352
+ProcessProMemPercent: 0
+ProcessProcessId: 3788
+ProcessName: RadeonSettings.exe
+ProcessParentProcessId: 5340
+ProcessThreadCount: 21
+ProcessHandleCount: 710
+ProcessCpuTime:434375002.6875
+ProcessWorkingSetSize: 27586560
+ProcessProMemPercent: 0
+ProcessProcessId: 8464
+ProcessName: HuYanBao.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 13
+ProcessHandleCount: 366
+ProcessCpuTime:11250000.921875
+ProcessWorkingSetSize: 18268160
+ProcessProMemPercent: 0
+ProcessProcessId: 8732
+ProcessName: vmware-tray.exe
+ProcessParentProcessId: 8692
+ProcessThreadCount: 3
+ProcessHandleCount: 149
+ProcessCpuTime:.09375
+ProcessWorkingSetSize: 4149248
+ProcessProMemPercent: 0
+ProcessProcessId: 9020
+ProcessName: WeChat.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 56
+ProcessHandleCount: 1383
+ProcessCpuTime:699531250101.031
+ProcessWorkingSetSize: 124477440
+ProcessProMemPercent: 0
+ProcessProcessId: 8108
+ProcessName: WeChatWeb.exe
+ProcessParentProcessId: 9020
+ProcessThreadCount: 10
+ProcessHandleCount: 465
+ProcessCpuTime:1875000.234375
+ProcessWorkingSetSize: 4251648
+ProcessProMemPercent: 0
+ProcessProcessId: 8776
+ProcessName: WeChatWeb.exe
+ProcessParentProcessId: 9020
+ProcessThreadCount: 11
+ProcessHandleCount: 244
+ProcessCpuTime:781250.421875
+ProcessWorkingSetSize: 2650112
+ProcessProMemPercent: 0
+ProcessProcessId: 1056
+ProcessName: ComputerZTray.exe
+ProcessParentProcessId: 2000
+ProcessThreadCount: 55
+ProcessHandleCount: 796
+ProcessCpuTime:2816562500171.47
+ProcessWorkingSetSize: 44576768
+ProcessProMemPercent: 0
+ProcessProcessId: 1524
+ProcessName: ComputerZService.exe
+ProcessParentProcessId: 1056
+ProcessThreadCount: 22
+ProcessHandleCount: 489
+ProcessCpuTime:5438281250103.58
+ProcessWorkingSetSize: 72601600
+ProcessProMemPercent: 0
+ProcessProcessId: 2768
+ProcessName: unsecapp.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 3
+ProcessHandleCount: 103
+ProcessCpuTime:1107968750100.59
+ProcessWorkingSetSize: 3342336
+ProcessProMemPercent: 0
+ProcessProcessId: 4192
+ProcessName: WeChatApp.exe
+ProcessParentProcessId: 9020
+ProcessThreadCount: 57
+ProcessHandleCount: 904
+ProcessCpuTime:537500002.4375
+ProcessWorkingSetSize: 14958592
+ProcessProMemPercent: 0
+ProcessProcessId: 8204
+ProcessName: DrvMgr.exe
+ProcessParentProcessId: 1056
+ProcessThreadCount: 38
+ProcessHandleCount: 978
+ProcessCpuTime:1112500007.71875
+ProcessWorkingSetSize: 16617472
+ProcessProMemPercent: 0
+ProcessProcessId: 8984
+ProcessName: RtkNGUI64.exe
+ProcessParentProcessId: 940
+ProcessThreadCount: 6
+ProcessHandleCount: 357
+ProcessCpuTime:8593750.5625
+ProcessWorkingSetSize: 3588096
+ProcessProMemPercent: 0
+ProcessProcessId: 6676
+ProcessName: SQLyog.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 36
+ProcessHandleCount: 861
+ProcessCpuTime:156562500145.688
+ProcessWorkingSetSize: 79953920
+ProcessProMemPercent: 0
+ProcessProcessId: 784
+ProcessName: fontdrvhost.exe
+ProcessParentProcessId: 708
+ProcessThreadCount: 5
+ProcessHandleCount: 35
+ProcessCpuTime:.15625
+ProcessWorkingSetSize: 1028096
+ProcessProMemPercent: 0
+ProcessProcessId: 6404
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 1
+ProcessHandleCount: 170
+ProcessCpuTime:.15625
+ProcessWorkingSetSize: 14442496
+ProcessProMemPercent: 0
+ProcessProcessId: 8696
+ProcessName: AlibabaprotectUI.exe
+ProcessParentProcessId: 1416
+ProcessThreadCount: 5
+ProcessHandleCount: 218
+ProcessCpuTime:3437500.59375
+ProcessWorkingSetSize: 9048064
+ProcessProMemPercent: 0
+ProcessProcessId: 5036
+ProcessName: goland64.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 79
+ProcessHandleCount: 2211
+ProcessCpuTime:20104687501723.4
+ProcessWorkingSetSize: 1110036480
+ProcessProMemPercent: 0
+ProcessProcessId: 576
+ProcessName: fsnotifier64.exe
+ProcessParentProcessId: 5036
+ProcessThreadCount: 3
+ProcessHandleCount: 34
+ProcessCpuTime:621875002.609375
+ProcessWorkingSetSize: 782336
+ProcessProMemPercent: 0
+ProcessProcessId: 8312
+ProcessName: wuapihost.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 1
+ProcessHandleCount: 103
+ProcessCpuTime:.625
+ProcessWorkingSetSize: 3014656
+ProcessProMemPercent: 0
+ProcessProcessId: 9772
+ProcessName: svchost.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 3
+ProcessHandleCount: 102
+ProcessCpuTime:10468750.71875
+ProcessWorkingSetSize: 3485696
+ProcessProMemPercent: 0
+ProcessProcessId: 9476
+ProcessName: ApplicationFrameHost.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 20
+ProcessHandleCount: 611
+ProcessCpuTime:15000000.78125
+ProcessWorkingSetSize: 27697152
+ProcessProMemPercent: 0
+ProcessProcessId: 9840
+ProcessName: Calculator.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 33
+ProcessHandleCount: 698
+ProcessCpuTime:259375004.828125
+ProcessWorkingSetSize: 51294208
+ProcessProMemPercent: 0
+ProcessProcessId: 5916
+ProcessName: WinStore.Mobile.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 37
+ProcessHandleCount: 856
+ProcessCpuTime:1718750.1875
+ProcessWorkingSetSize: 15736832
+ProcessProMemPercent: 0
+ProcessProcessId: 9492
+ProcessName: SecureCRT.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 26
+ProcessHandleCount: 639
+ProcessCpuTime:234968750098.594
+ProcessWorkingSetSize: 52068352
+ProcessProMemPercent: 0
+ProcessProcessId: 4176
+ProcessName: WmiPrvSE.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 14
+ProcessHandleCount: 1004
+ProcessCpuTime:571250000043.469
+ProcessWorkingSetSize: 38920192
+ProcessProMemPercent: 0
+ProcessProcessId: 5364
+ProcessName: WmiPrvSE.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 8
+ProcessHandleCount: 229
+ProcessCpuTime:134375001.890625
+ProcessWorkingSetSize: 8101888
+ProcessProMemPercent: 0
+ProcessProcessId: 5768
+ProcessName: ___3go_build_main_go.exe
+ProcessParentProcessId: 5036
+ProcessThreadCount: 21
+ProcessHandleCount: 254
+ProcessCpuTime:98546875020.2188
+ProcessWorkingSetSize: 46223360
+ProcessProMemPercent: 0
+ProcessProcessId: 8508
+ProcessName: conhost.exe
+ProcessParentProcessId: 5768
+ProcessThreadCount: 1
+ProcessHandleCount: 86
+ProcessCpuTime:15625.015625
+ProcessWorkingSetSize: 348160
+ProcessProMemPercent: 0
+ProcessProcessId: 3768
+ProcessName: hh.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 17
+ProcessHandleCount: 517
+ProcessCpuTime:7812500.5
+ProcessWorkingSetSize: 14630912
+ProcessProMemPercent: 0
+ProcessProcessId: 3292
+ProcessName: Taskmgr.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 27
+ProcessHandleCount: 724
+ProcessCpuTime:15171875015.5938
+ProcessWorkingSetSize: 49934336
+ProcessProMemPercent: 0
+ProcessProcessId: 5280
+ProcessName: ShadowsocksR-dotnet4.0.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 17
+ProcessHandleCount: 678
+ProcessCpuTime:1256250008.5
+ProcessWorkingSetSize: 91660288
+ProcessProMemPercent: 0
+ProcessProcessId: 9348
+ProcessName: ShadowsocksR-dotnet4.0.exe
+ProcessParentProcessId: 5280
+ProcessThreadCount: 2
+ProcessHandleCount: 125
+ProcessCpuTime:3437500.296875
+ProcessWorkingSetSize: 5001216
+ProcessProMemPercent: 0
+ProcessProcessId: 11032
+ProcessName: vbsedit.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 26
+ProcessHandleCount: 824
+ProcessCpuTime:33640625021
+ProcessWorkingSetSize: 55517184
+ProcessProMemPercent: 0
+ProcessProcessId: 13892
+ProcessName: chrome.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 41
+ProcessHandleCount: 2949
+ProcessCpuTime:705000000159.109
+ProcessWorkingSetSize: 239144960
+ProcessProMemPercent: 0
+ProcessProcessId: 516
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 8
+ProcessHandleCount: 365
+ProcessCpuTime:234375.09375
+ProcessWorkingSetSize: 3727360
+ProcessProMemPercent: 0
+ProcessProcessId: 12572
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 18
+ProcessHandleCount: 879
+ProcessCpuTime:310781250165.453
+ProcessWorkingSetSize: 175853568
+ProcessProMemPercent: 0
+ProcessProcessId: 15080
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 13
+ProcessHandleCount: 373
+ProcessCpuTime:15828125034.0781
+ProcessWorkingSetSize: 35856384
+ProcessProMemPercent: 0
+ProcessProcessId: 13492
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 7
+ProcessHandleCount: 212
+ProcessCpuTime:3125000.578125
+ProcessWorkingSetSize: 9154560
+ProcessProMemPercent: 0
+ProcessProcessId: 15084
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 299
+ProcessCpuTime:1390625012.59375
+ProcessWorkingSetSize: 64983040
+ProcessProMemPercent: 0
+ProcessProcessId: 11672
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 211
+ProcessCpuTime:109375.03125
+ProcessWorkingSetSize: 11948032
+ProcessProMemPercent: 0
+ProcessProcessId: 14364
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 17
+ProcessHandleCount: 229
+ProcessCpuTime:3390625027.40625
+ProcessWorkingSetSize: 81559552
+ProcessProMemPercent: 0
+ProcessProcessId: 12664
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 15
+ProcessHandleCount: 212
+ProcessCpuTime:1515625013.89063
+ProcessWorkingSetSize: 27680768
+ProcessProMemPercent: 0
+ProcessProcessId: 11648
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 209
+ProcessCpuTime:31250.046875
+ProcessWorkingSetSize: 10063872
+ProcessProMemPercent: 0
+ProcessProcessId: 14876
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 15
+ProcessHandleCount: 216
+ProcessCpuTime:937500.765625
+ProcessWorkingSetSize: 21618688
+ProcessProMemPercent: 0
+ProcessProcessId: 11336
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 209
+ProcessCpuTime:78125.0625
+ProcessWorkingSetSize: 10174464
+ProcessProMemPercent: 0
+ProcessProcessId: 2080
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 19
+ProcessHandleCount: 414
+ProcessCpuTime:2328125072.21875
+ProcessWorkingSetSize: 133001216
+ProcessProMemPercent: 0
+ProcessProcessId: 11096
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 209
+ProcessCpuTime:1406250.5625
+ProcessWorkingSetSize: 13905920
+ProcessProMemPercent: 0
+ProcessProcessId: 11796
+ProcessName: RDCMan.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 23
+ProcessHandleCount: 1186
+ProcessCpuTime:492187502.84375
+ProcessWorkingSetSize: 26595328
+ProcessProMemPercent: 0
+ProcessProcessId: 13020
+ProcessName: LockAppHost.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 1
+ProcessHandleCount: 215
+ProcessCpuTime:5781250.234375
+ProcessWorkingSetSize: 1499136
+ProcessProMemPercent: 0
+ProcessProcessId: 14080
+ProcessName: winpty-agent.exe
+ProcessParentProcessId: 5036
+ProcessThreadCount: 1
+ProcessHandleCount: 98
+ProcessCpuTime:15625.015625
+ProcessWorkingSetSize: 1576960
+ProcessProMemPercent: 0
+ProcessProcessId: 9436
+ProcessName: conhost.exe
+ProcessParentProcessId: 14080
+ProcessThreadCount: 2
+ProcessHandleCount: 108
+ProcessCpuTime:46875.078125
+ProcessWorkingSetSize: 4988928
+ProcessProMemPercent: 0
+ProcessProcessId: 10604
+ProcessName: cmd.exe
+ProcessParentProcessId: 14080
+ProcessThreadCount: 1
+ProcessHandleCount: 37
+ProcessCpuTime:.3125
+ProcessWorkingSetSize: 790528
+ProcessProMemPercent: 0
+ProcessProcessId: 13588
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 15
+ProcessHandleCount: 281
+ProcessCpuTime:26562502.890625
+ProcessWorkingSetSize: 91045888
+ProcessProMemPercent: 0
+ProcessProcessId: 2632
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 19
+ProcessHandleCount: 363
+ProcessCpuTime:180625000269.063
+ProcessWorkingSetSize: 215154688
+ProcessProMemPercent: 0
+ProcessProcessId: 5580
+ProcessName: SystemSettingsBroker.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 5
+ProcessHandleCount: 222
+ProcessCpuTime:81250001.265625
+ProcessWorkingSetSize: 13524992
+ProcessProMemPercent: 0
+ProcessProcessId: 7808
+ProcessName: NetworkUXBroker.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 7
+ProcessHandleCount: 235
+ProcessCpuTime:335937506.140625
+ProcessWorkingSetSize: 18378752
+ProcessProMemPercent: 0
+ProcessProcessId: 7592
+ProcessName: hh.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 25
+ProcessHandleCount: 560
+ProcessCpuTime:131250001.890625
+ProcessWorkingSetSize: 54775808
+ProcessProMemPercent: 0
+ProcessProcessId: 11472
+ProcessName: powershell.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 17
+ProcessHandleCount: 646
+ProcessCpuTime:4218750.953125
+ProcessWorkingSetSize: 122630144
+ProcessProMemPercent: 0
+ProcessProcessId: 11676
+ProcessName: conhost.exe
+ProcessParentProcessId: 11472
+ProcessThreadCount: 8
+ProcessHandleCount: 234
+ProcessCpuTime:5000000.265625
+ProcessWorkingSetSize: 27602944
+ProcessProMemPercent: 0
+ProcessProcessId: 15232
+ProcessName: powershell.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 16
+ProcessHandleCount: 578
+ProcessCpuTime:7500000.65625
+ProcessWorkingSetSize: 86110208
+ProcessProMemPercent: 0
+ProcessProcessId: 11484
+ProcessName: conhost.exe
+ProcessParentProcessId: 15232
+ProcessThreadCount: 8
+ProcessHandleCount: 230
+ProcessCpuTime:13750000.421875
+ProcessWorkingSetSize: 20779008
+ProcessProMemPercent: 0
+ProcessProcessId: 5196
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 17
+ProcessHandleCount: 356
+ProcessCpuTime:3640625098.875
+ProcessWorkingSetSize: 236781568
+ProcessProMemPercent: 0
+ProcessProcessId: 900
+ProcessName: mmc.exe
+ProcessParentProcessId: 9244
+ProcessThreadCount: 19
+ProcessHandleCount: 612
+ProcessCpuTime:18593750.9375
+ProcessWorkingSetSize: 34050048
+ProcessProMemPercent: 0
+ProcessProcessId: 11660
+ProcessName: MpCmdRun.exe
+ProcessParentProcessId: 4068
+ProcessThreadCount: 7
+ProcessHandleCount: 365
+ProcessCpuTime:2343750.171875
+ProcessWorkingSetSize: 12349440
+ProcessProMemPercent: 0
+ProcessProcessId: 2200
+ProcessName: notepad++.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 11
+ProcessHandleCount: 302
+ProcessCpuTime:25437500012.8281
+ProcessWorkingSetSize: 37847040
+ProcessProMemPercent: 0
+ProcessProcessId: 11908
+ProcessName: SearchUI.exe
+ProcessParentProcessId: 852
+ProcessThreadCount: 33
+ProcessHandleCount: 670
+ProcessCpuTime:93750.078125
+ProcessWorkingSetSize: 66011136
+ProcessProMemPercent: 0
+ProcessProcessId: 6096
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 16
+ProcessHandleCount: 349
+ProcessCpuTime:32812504.8125
+ProcessWorkingSetSize: 125272064
+ProcessProMemPercent: 0
+ProcessProcessId: 8896
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 331
+ProcessCpuTime:21875001.8125
+ProcessWorkingSetSize: 59060224
+ProcessProMemPercent: 0
+ProcessProcessId: 12880
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 337
+ProcessCpuTime:14062501.3125
+ProcessWorkingSetSize: 60272640
+ProcessProMemPercent: 0
+ProcessProcessId: 15036
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 308
+ProcessCpuTime:18750003.65625
+ProcessWorkingSetSize: 89378816
+ProcessProMemPercent: 0
+ProcessProcessId: 5276
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 338
+ProcessCpuTime:7812503.4375
+ProcessWorkingSetSize: 99930112
+ProcessProMemPercent: 0
+ProcessProcessId: 12808
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 302
+ProcessCpuTime:781250.703125
+ProcessWorkingSetSize: 51224576
+ProcessProMemPercent: 0
+ProcessProcessId: 10704
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 274
+ProcessCpuTime:468750.515625
+ProcessWorkingSetSize: 46874624
+ProcessProMemPercent: 0
+ProcessProcessId: 12700
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 262
+ProcessCpuTime:625000.421875
+ProcessWorkingSetSize: 46448640
+ProcessProMemPercent: 0
+ProcessProcessId: 3320
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 316
+ProcessCpuTime:781250.9375
+ProcessWorkingSetSize: 58335232
+ProcessProMemPercent: 0
+ProcessProcessId: 1460
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 287
+ProcessCpuTime:17187503.046875
+ProcessWorkingSetSize: 72081408
+ProcessProMemPercent: 0
+ProcessProcessId: 12504
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 329
+ProcessCpuTime:14062501.0625
+ProcessWorkingSetSize: 61394944
+ProcessProMemPercent: 0
+ProcessProcessId: 10900
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 19
+ProcessHandleCount: 384
+ProcessCpuTime:42187505.078125
+ProcessWorkingSetSize: 126091264
+ProcessProMemPercent: 0
+ProcessProcessId: 13452
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 15
+ProcessHandleCount: 297
+ProcessCpuTime:35937504.4375
+ProcessWorkingSetSize: 94543872
+ProcessProMemPercent: 0
+ProcessProcessId: 12192
+ProcessName: cmd.exe
+ProcessParentProcessId: 5612
+ProcessThreadCount: 1
+ProcessHandleCount: 46
+ProcessCpuTime:.625
+ProcessWorkingSetSize: 3858432
+ProcessProMemPercent: 0
+ProcessProcessId: 1624
+ProcessName: conhost.exe
+ProcessParentProcessId: 12192
+ProcessThreadCount: 8
+ProcessHandleCount: 234
+ProcessCpuTime:2968750022.45313
+ProcessWorkingSetSize: 30736384
+ProcessProMemPercent: 0
+ProcessProcessId: 11504
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 19
+ProcessHandleCount: 436
+ProcessCpuTime:625000011.625
+ProcessWorkingSetSize: 125169664
+ProcessProMemPercent: 0
+ProcessProcessId: 7504
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 248
+ProcessCpuTime:312500.234375
+ProcessWorkingSetSize: 44130304
+ProcessProMemPercent: 0
+ProcessProcessId: 11512
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 18
+ProcessHandleCount: 326
+ProcessCpuTime:906250010.203125
+ProcessWorkingSetSize: 120549376
+ProcessProMemPercent: 0
+ProcessProcessId: 15424
+ProcessName: Code.exe
+ProcessParentProcessId: 10476
+ProcessThreadCount: 37
+ProcessHandleCount: 773
+ProcessCpuTime:564062509.4375
+ProcessWorkingSetSize: 91013120
+ProcessProMemPercent: 0
+ProcessProcessId: 5484
+ProcessName: Code.exe
+ProcessParentProcessId: 15424
+ProcessThreadCount: 7
+ProcessHandleCount: 191
+ProcessCpuTime:0
+ProcessWorkingSetSize: 12230656
+ProcessProMemPercent: 0
+ProcessProcessId: 14628
+ProcessName: Code.exe
+ProcessParentProcessId: 15424
+ProcessThreadCount: 17
+ProcessHandleCount: 504
+ProcessCpuTime:4656250022.34375
+ProcessWorkingSetSize: 148217856
+ProcessProMemPercent: 0
+ProcessProcessId: 15372
+ProcessName: Code.exe
+ProcessParentProcessId: 15424
+ProcessThreadCount: 10
+ProcessHandleCount: 366
+ProcessCpuTime:31250.015625
+ProcessWorkingSetSize: 24088576
+ProcessProMemPercent: 0
+ProcessProcessId: 14500
+ProcessName: Code.exe
+ProcessParentProcessId: 15424
+ProcessThreadCount: 29
+ProcessHandleCount: 477
+ProcessCpuTime:49218750109.5781
+ProcessWorkingSetSize: 197775360
+ProcessProMemPercent: 0
+ProcessProcessId: 3992
+ProcessName: CodeHelper.exe
+ProcessParentProcessId: 14500
+ProcessThreadCount: 13
+ProcessHandleCount: 1308
+ProcessCpuTime:.609375
+ProcessWorkingSetSize: 15900672
+ProcessProMemPercent: 0
+ProcessProcessId: 9580
+ProcessName: conhost.exe
+ProcessParentProcessId: 3992
+ProcessThreadCount: 1
+ProcessHandleCount: 86
+ProcessCpuTime:.15625
+ProcessWorkingSetSize: 9195520
+ProcessProMemPercent: 0
+ProcessProcessId: 7856
+ProcessName: Code.exe
+ProcessParentProcessId: 14500
+ProcessThreadCount: 24
+ProcessHandleCount: 249
+ProcessCpuTime:192187509.3125
+ProcessWorkingSetSize: 85196800
+ProcessProMemPercent: 0
+ProcessProcessId: 4968
+ProcessName: Code.exe
+ProcessParentProcessId: 14500
+ProcessThreadCount: 13
+ProcessHandleCount: 167
+ProcessCpuTime:15625.09375
+ProcessWorkingSetSize: 31469568
+ProcessProMemPercent: 0
+ProcessProcessId: 15468
+ProcessName: Code.exe
+ProcessParentProcessId: 15424
+ProcessThreadCount: 24
+ProcessHandleCount: 333
+ProcessCpuTime:48437502
+ProcessWorkingSetSize: 71970816
+ProcessProMemPercent: 0
+ProcessProcessId: 14144
+ProcessName: Code.exe
+ProcessParentProcessId: 7856
+ProcessThreadCount: 8
+ProcessHandleCount: 155
+ProcessCpuTime:1875000.890625
+ProcessWorkingSetSize: 33652736
+ProcessProMemPercent: 0
+ProcessProcessId: 11100
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 280
+ProcessCpuTime:25000001.578125
+ProcessWorkingSetSize: 102682624
+ProcessProMemPercent: 0
+ProcessProcessId: 5132
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 308
+ProcessCpuTime:17187501.984375
+ProcessWorkingSetSize: 110583808
+ProcessProMemPercent: 0
+ProcessProcessId: 2404
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 285
+ProcessCpuTime:10937501.46875
+ProcessWorkingSetSize: 102313984
+ProcessProMemPercent: 0
+ProcessProcessId: 2744
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 341
+ProcessCpuTime:17187501.03125
+ProcessWorkingSetSize: 92385280
+ProcessProMemPercent: 0
+ProcessProcessId: 11876
+ProcessName: WmiApSrv.exe
+ProcessParentProcessId: 752
+ProcessThreadCount: 4
+ProcessHandleCount: 145
+ProcessCpuTime:.015625
+ProcessWorkingSetSize: 7389184
+ProcessProMemPercent: 0
+ProcessProcessId: 720
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 15
+ProcessHandleCount: 286
+ProcessCpuTime:14062501.09375
+ProcessWorkingSetSize: 103161856
+ProcessProMemPercent: 0
+ProcessProcessId: 11480
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 17
+ProcessHandleCount: 336
+ProcessCpuTime:37500004.640625
+ProcessWorkingSetSize: 198045696
+ProcessProMemPercent: 0
+ProcessProcessId: 10212
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 19
+ProcessHandleCount: 444
+ProcessCpuTime:26562503.453125
+ProcessWorkingSetSize: 170971136
+ProcessProMemPercent: 0
+ProcessProcessId: 6672
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 15
+ProcessHandleCount: 307
+ProcessCpuTime:17187501.140625
+ProcessWorkingSetSize: 114585600
+ProcessProMemPercent: 0
+ProcessProcessId: 12820
+ProcessName: chrome.exe
+ProcessParentProcessId: 13892
+ProcessThreadCount: 14
+ProcessHandleCount: 197
+ProcessCpuTime:15625.03125
+ProcessWorkingSetSize: 22036480
+ProcessProMemPercent: 0
+ProcessProcessId: 12796
+ProcessName: SearchProtocolHost.exe
+ProcessParentProcessId: 6388
+ProcessThreadCount: 9
+ProcessHandleCount: 325
+ProcessCpuTime:.15625
+ProcessWorkingSetSize: 10571776
+ProcessProMemPercent: 0
+ProcessProcessId: 5808
+ProcessName: SearchFilterHost.exe
+ProcessParentProcessId: 6388
+ProcessThreadCount: 7
+ProcessHandleCount: 111
+ProcessCpuTime:0
+ProcessWorkingSetSize: 6164480
+ProcessProMemPercent: 0
+ProcessProcessId: 1628
+ProcessName: cscript.exe
+ProcessParentProcessId: 12192
+ProcessThreadCount: 10
+ProcessHandleCount: 184
+ProcessCpuTime:.15625
+ProcessWorkingSetSize: 11575296
+ProcessProMemPercent: 0

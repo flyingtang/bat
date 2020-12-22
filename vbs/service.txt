@@ -1,0 +1,6161 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+AcceptPause: False
+AcceptStop: True
+Caption: Adobe Genuine Monitor Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Adobe Genuine Monitor Service
+DesktopInteract: False
+DisplayName: Adobe Genuine Monitor Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: AGMService
+PathName: "C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGMService.exe"
+ProcessId: 2164
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Adobe Genuine Software Integrity Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Adobe Genuine Software Integrity Service
+DesktopInteract: False
+DisplayName: Adobe Genuine Software Integrity Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: AGSService
+PathName: "C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGSService.exe"
+ProcessId: 2112
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: AllJoyn Router Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 路由本地 AllJoyn 客户端的 AllJoyn 消息。如果停止此服务，则自身没有捆绑路由器的 AllJoyn 客户端将无法运行。
+DesktopInteract: False
+DisplayName: AllJoyn Router Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: AJRouter
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Application Layer Gateway Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为 Internet 连接共享提供第三方协议插件的支持
+DesktopInteract: False
+DisplayName: Application Layer Gateway Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: ALG
+PathName: C:\Windows\System32\alg.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Alibaba PC Safe Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 该服务负责为阿里巴巴集团客户端产品提供基础安全保护。如果停止或禁用该服务，依赖于该服务的任何组件或应用程序都可能无法正常运行。
+DesktopInteract: False
+DisplayName: Alibaba PC Safe Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: AlibabaProtect
+PathName: "C:\Program Files (x86)\AlibabaProtect\1.0.41.959\AlibabaProtect.exe"
+ProcessId: 2192
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: AMD External Events Utility
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 
+DesktopInteract: False
+DisplayName: AMD External Events Utility
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: AMD External Events Utility
+PathName: C:\Windows\system32\atiesrxx.exe
+ProcessId: 836
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Application Identity
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 确定并验证应用程序的标识。禁用此服务将阻止强制执行 AppLocker。
+DesktopInteract: False
+DisplayName: Application Identity
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: AppIDSvc
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT Authority\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Application Information
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使用辅助管理权限便于交互式应用程序的运行。如果停止此服务，用户将无法使用辅助管理权限启动应用程序，而执行所需用户任务可能需要这些权限。
+DesktopInteract: False
+DisplayName: Application Information
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Appinfo
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Application Management
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为通过组策略部署的软件处理安装、删除以及枚举请求。如果该服务被禁用，则用户将不能安装、删除或枚举通过组策略部署的软件。如果此服务被禁用，则直接依赖于它的所有服务都将无法启动。
+DesktopInteract: False
+DisplayName: Application Management
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: AppMgmt
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: App Readiness
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 当用户初次登录到这台电脑和添加新应用时，使应用进入就绪可用的状态。
+DesktopInteract: False
+DisplayName: App Readiness
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: AppReadiness
+PathName: C:\Windows\System32\svchost.exe -k AppReadiness
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: AppX Deployment Service (AppXSVC)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为部署应用商店应用程序提供基础结构支持。此服务根据需要启动，如果已禁用的应用商店应用程序未部署到系统，此服务可能无法正常工作。
+DesktopInteract: False
+DisplayName: AppX Deployment Service (AppXSVC)
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: AppXSvc
+PathName: C:\Windows\system32\svchost.exe -k wsappx
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: ASP.NET State Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Provides support for out-of-process session states for ASP.NET. If this service is stopped, out-of-process requests will not be processed. If this service is disabled, any services that explicitly depend on it will fail to start.
+DesktopInteract: False
+DisplayName: ASP.NET State Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: aspnet_state
+PathName: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\aspnet_state.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Windows Audio Endpoint Builder
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理 Windows 音频服务的音频设备。如果停止了此服务，音频设备和效果将无法正常工作。如果禁用了此服务，任何明确依赖它的服务将无法启动
+DesktopInteract: False
+DisplayName: Windows Audio Endpoint Builder
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: AudioEndpointBuilder
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Windows Audio
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理基于 Windows 的程序的音频。如果此服务被停止，音频设备和效果将不能正常工作。如果此服务被禁用，任何依赖它的服务将无法启动
+DesktopInteract: False
+DisplayName: Windows Audio
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Audiosrv
+PathName: C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 420
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: ActiveX Installer (AxInstSV)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为从 Internet 安装 ActiveX 控件提供用户帐户控制验证，并基于组策略设置启用对 ActiveX 控件安装的管理。此服务根据要求启动，是否禁用 ActiveX 控件的安装取决于默认浏览器设置。
+DesktopInteract: False
+DisplayName: ActiveX Installer (AxInstSV)
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: AxInstSV
+PathName: C:\Windows\system32\svchost.exe -k AxInstSVGroup
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: BaiduPinyinCore
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 百度拼音输入法核心程序，用于拉起查词后端等关键操作，丢失该服务将导致输入法功能异常
+DesktopInteract: False
+DisplayName: BaiduPinyinCore
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: BaiduPinyinCore
+PathName: "C:\Windows\SysWOW64\IME\BaiduPY\BaiduPinyinCore.exe"
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: BitLocker Drive Encryption Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: BDESVC 承载 BitLocker 驱动器加密服务。BitLocker 驱动器加密为操作系统提供安全启动保障，并为 OS、固定卷和可移动卷提供全卷加密功能。使用此服务，BitLocker 可以提示用户执行与已安装卷相关的各种操作，并自动解锁卷而无需用户交互。此外，它还会将恢复信息存储至 Active Directory (如果这种方法可用并且需要这样做)，并确保使用最新的恢复证书。停止或禁用该服务可以防止用户使用此功能。
+DesktopInteract: False
+DisplayName: BitLocker Drive Encryption Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: BDESVC
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Base Filtering Engine
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 基本筛选引擎(BFE)是一种管理防火墙和 Internet 协议安全(IPsec)策略以及实施用户模式筛选的服务。停止或禁用 BFE 服务将大大降低系统的安全。还将造成 IPsec 管理和防火墙应用程序产生不可预知的行为。
+DesktopInteract: False
+DisplayName: Base Filtering Engine
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: BFE
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+ProcessId: 1808
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Background Intelligent Transfer Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: 使用空闲网络带宽在后台传送文件。如果该服务被禁用，则依赖于 BITS 的任何应用程序(如 Windows 更新或 MSN Explorer)将无法自动下载程序和其他信息。
+DesktopInteract: False
+DisplayName: Background Intelligent Transfer Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: BITS
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Bonjour 服务
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 让硬件设备和软件服务在网络中自动配置并自行公布
+DesktopInteract: False
+DisplayName: Bonjour 服务
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Bonjour Service
+PathName: "C:\Program Files\Bonjour\mDNSResponder.exe"
+ProcessId: 1400
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Background Tasks Infrastructure Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 控制哪些后台任务可以在系统上运行的 Windows 基础结构服务。
+DesktopInteract: False
+DisplayName: Background Tasks Infrastructure Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: BrokerInfrastructure
+PathName: C:\Windows\system32\svchost.exe -k DcomLaunch
+ProcessId: 872
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Computer Browser
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 维护网络上计算机的更新列表，并将列表提供给计算机指定浏览。如果服务停止，列表不会被更新或维护。如果服务被禁用，任何直接依赖于此服务的服务将无法启动。
+DesktopInteract: False
+DisplayName: Computer Browser
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Browser
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Bluetooth Handsfree Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 允许在此计算机上运行无线 Bluetooth 耳机。如果停止或禁用了此设备，则无法在此计算机上正确使用 Bluetooth 耳机。
+DesktopInteract: False
+DisplayName: Bluetooth Handsfree Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: BthHFSrv
+PathName: C:\Windows\System32\svchost.exe -k LocalServiceAndNoImpersonation
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Bluetooth Support Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Bluetooth 服务支持发现和关联远程 Bluetooth 设备。停止或禁用此服务可能导致已安装的 Bluetooth 设备无法正确操作，还会阻止发现和关联新设备。
+DesktopInteract: False
+DisplayName: Bluetooth Support Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: bthserv
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 536
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: CDPSvc
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: CDPSvc
+DesktopInteract: False
+DisplayName: CDPSvc
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: CDPSvc
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Certificate Propagation
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 将用户证书和根证书从智能卡复制到当前用户的证书存储，检测智能卡何时插入到智能卡读卡器中，并在需要时安装智能卡即插即用微型驱动器。
+DesktopInteract: False
+DisplayName: Certificate Propagation
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: CertPropSvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Client License Service (ClipSVC)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供对 Microsoft 商店的基础结构支持。此服务按需启动，并且如果禁用了此服务，则使用 Windows 应用商店购买的应用程序将无法正常运行。
+DesktopInteract: False
+DisplayName: Client License Service (ClipSVC)
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: ClipSVC
+PathName: C:\Windows\System32\svchost.exe -k wsappx
+ProcessId: 11900
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: COM+ System Application
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理基于组件对象模型 (COM+) 的组件的配置和跟踪。如果停止该服务，则大多数基于 COM+ 的组件将不能正常工作。如果禁用该服务，则任何明确依赖它的服务都将无法启动。
+DesktopInteract: False
+DisplayName: COM+ System Application
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: COMSysApp
+PathName: C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: CoreMessaging
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Manages communication between system components.
+DesktopInteract: False
+DisplayName: CoreMessaging
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: CoreMessagingRegistrar
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+ProcessId: 1808
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Cryptographic Services
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供三种管理服务: 编录数据库服务，用于确认 Windows 文件的签名和允许安装新程序；受保护的根服务，它从此计算机添加和删除受信任的根证书颁发机构的证书；自动根证书更新服务，用于从 Windows 更新中检索根证书和启用 SSL 等方案。如果此服务已停止，这些管理服务将无法正常运行。如果此服务已禁用，任何明确依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: Cryptographic Services
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: CryptSvc
+PathName: C:\Windows\system32\svchost.exe -k NetworkService
+ProcessId: 1072
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT Authority\NetworkService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Offline Files
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 脱机文件服务在脱机文件缓存中执行维护活动，响应用户登录和注销事件，实现公共 API 的内部部分，并将相关的事件分配给关心脱机文件活动和缓存更改的用户。
+DesktopInteract: False
+DisplayName: Offline Files
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: CscService
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: DCOM Server Process Launcher
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: DCOMLAUNCH 服务可启动 COM 和 DCOM 服务器，以响应对象激活请求。如果此服务被停用或禁用，则使用 COM 或 DCOM 的程序将无法正常工作。强烈建议你运行 DCOMLAUNCH 服务。
+DesktopInteract: False
+DisplayName: DCOM Server Process Launcher
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: DcomLaunch
+PathName: C:\Windows\system32\svchost.exe -k DcomLaunch
+ProcessId: 872
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: DataCollectionPublishingService
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: The DCP (Data Collection and Publishing) service supports first party apps to upload data to cloud.
+DesktopInteract: False
+DisplayName: DataCollectionPublishingService
+ErrorControl: Ignore
+ExitCode: 1077
+InstallDate: 
+Name: DcpSvc
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Optimize drives
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 通过优化存储驱动器上的文件来帮助计算机更高效地运行。
+DesktopInteract: False
+DisplayName: Optimize drives
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: defragsvc
+PathName: C:\Windows\system32\svchost.exe -k defragsvc
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Device Association Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 在系统与有线或无线设备之间启用匹配。
+DesktopInteract: False
+DisplayName: Device Association Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: DeviceAssociationService
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Device Install Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使计算机在极少或没有用户输入的情况下能识别并适应硬件的更改。终止或禁用此服务会造成系统不稳定。
+DesktopInteract: False
+DisplayName: Device Install Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: DeviceInstall
+PathName: C:\Windows\system32\svchost.exe -k DcomLaunch
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: DevQuery Background Discovery Broker
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使应用能够发现具有后台任务的设备
+DesktopInteract: False
+DisplayName: DevQuery Background Discovery Broker
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: DevQueryBroker
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: DHCP Client
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为此计算机注册并更新 IP 地址。如果此服务停止，计算机将不能接收动态 IP 地址和 DNS 更新。如果此服务被禁用，所有明确依赖它的服务都将不能启动。
+DesktopInteract: False
+DisplayName: DHCP Client
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Dhcp
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 420
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT Authority\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Microsoft (R) 诊断中心标准收集器服务
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 诊断中心标准收集器服务。运行时，此服务会收集实时 ETW 事件，并对其进行处理。
+DesktopInteract: False
+DisplayName: Microsoft (R) 诊断中心标准收集器服务
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: diagnosticshub.standardcollector.service
+PathName: C:\Windows\system32\DiagSvcs\DiagnosticsHub.StandardCollector.Service.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Diagnostics Tracking Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 诊断跟踪服务就 Windows 组件中的功能问题启用数据收集。
+DesktopInteract: False
+DisplayName: Diagnostics Tracking Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: DiagTrack
+PathName: C:\Windows\System32\svchost.exe -k utcsvc
+ProcessId: 1536
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: 设备管理注册服务
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为设备管理执行设备注册活动
+DesktopInteract: False
+DisplayName: 设备管理注册服务
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: DmEnrollmentSvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: dmwappushsvc
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: WAP 推消息路由服务
+DesktopInteract: False
+DisplayName: dmwappushsvc
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: dmwappushservice
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Auto
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: DNS Client
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: DNS 客户端服务(dnscache)缓存域名系统(DNS)名称并注册该计算机的完整计算机名。如果该服务被停止，将继续解析 DNS 名称。然而，将不缓存 DNS 名称的查询结果，且不注册计算机名。如果该服务被禁用，则任何明确依赖于它的服务都将无法启动。
+DesktopInteract: False
+DisplayName: DNS Client
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Dnscache
+PathName: C:\Windows\system32\svchost.exe -k NetworkService
+ProcessId: 1072
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\NetworkService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Delivery Optimization
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: 执行内容传递优化任务
+DesktopInteract: False
+DisplayName: Delivery Optimization
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: DoSvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Auto
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Wired AutoConfig
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 有线自动配置(DOT3SVC)服务负责对以太网接口执行 IEEE 802.1X 身份验证。如果当前有线网络部署强制执行 802.1X 身份验证，则应配置 DOT3SVC 服务运行以用于建立第 2 层连接性和/或用于提供对网络资源的访问权限。DOT3SVC 服务会影响到强制执行 802.1X 身份验证的有线网络。
+DesktopInteract: False
+DisplayName: Wired AutoConfig
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: dot3svc
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Diagnostic Policy Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 诊断策略服务启用了 Windows 组件的问题检测、疑难解答和解决方案。如果该服务被停止，诊断将不再运行。
+DesktopInteract: False
+DisplayName: Diagnostic Policy Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: DPS
+PathName: C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork
+ProcessId: 1808
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Device Setup Manager
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 支持检测、下载和安装与设备相关的软件。如果此服务被禁用，则可能使用过期软件对设备进行配置，因此设备可能无法正常工作。
+DesktopInteract: False
+DisplayName: Device Setup Manager
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: DsmSvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Data Sharing Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供应用程序之间的数据代理。
+DesktopInteract: False
+DisplayName: Data Sharing Service
+ErrorControl: Ignore
+ExitCode: 1077
+InstallDate: 
+Name: DsSvc
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Extensible Authentication Protocol
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 可扩展的身份验证协议(EAP)服务在以下情况下提供网络身份验证: 802.1x 有线和无线、VPN 和网络访问保护(NAP)。EAP 在身份验证过程中也提供网络访问客户端使用的应用程序编程接口(API)，包括无线客户端和 VPN 客户端。如果禁用此服务，该计算机将无法访问需要 EAP 身份验证的网络。
+DesktopInteract: False
+DisplayName: Extensible Authentication Protocol
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: Eaphost
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Encrypting File System (EFS)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供用于在 NTFS 文件系统卷上存储加密文件的核心文件加密技术。如果停止或禁用此服务，则应用程序将无法访问加密的文件。
+DesktopInteract: False
+DisplayName: Encrypting File System (EFS)
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: EFS
+PathName: C:\Windows\System32\lsass.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: embeddedmode
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Embedded Mode
+DesktopInteract: False
+DisplayName: embeddedmode
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: embeddedmode
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Enterprise App Management Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Enables enterprise application management.
+DesktopInteract: False
+DisplayName: Enterprise App Management Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: EntAppSvc
+PathName: C:\Windows\system32\svchost.exe -k appmodel
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Windows Event Log
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务管理事件和事件日志。它支持日志记录事件、查询事件、订阅事件、归档事件日志以及管理事件元数据。它可以用 XML 和纯文本两种格式显示事件。停止该服务可能危及系统的安全性和可靠性。
+DesktopInteract: False
+DisplayName: Windows Event Log
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: EventLog
+PathName: C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 420
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: COM+ Event System
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 支持系统事件通知服务 (SENS)，此服务为订阅的组件对象模型 (COM) 组件提供自动分布事件功能。如果停止此服务，SENS 将关闭，而且不能提供登录和注销通知。如果禁用此服务，显式依赖此服务的其他服务都将无法启动。
+DesktopInteract: False
+DisplayName: COM+ Event System
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: EventSystem
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 536
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Fax
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 利用计算机或网络上的可用传真资源发送和接收传真。
+DesktopInteract: False
+DisplayName: Fax
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: Fax
+PathName: C:\Windows\system32\fxssvc.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Function Discovery Provider Host
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: FDPHOST 服务承载功能发现(FD)网络发现提供程序。这些 FD 提供程序为简单服务发现协议(SSDP)和 Web 服务发现(WS-D)协议提供网络发现服务。使用 FD 时停止或禁用 FDPHOST 服务将禁用这些协议的网络发现。当该服务不可用时，使用 FD 和依靠这些发现协议的网络服务将无法找到网络服务或资源。
+DesktopInteract: False
+DisplayName: Function Discovery Provider Host
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: fdPHost
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Function Discovery Resource Publication
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 发布该计算机以及连接到该计算机的资源，以便能够在网络上发现这些资源。如果该服务被停止，将不再发布网络资源，网络上的其他计算机将无法发现这些资源。
+DesktopInteract: False
+DisplayName: Function Discovery Resource Publication
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: FDResPub
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: File History Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 将用户文件复制到备份位置以防意外丢失
+DesktopInteract: False
+DisplayName: File History Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: fhsvc
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Windows Font Cache Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 通过缓存常用字体数据优化应用程序的性能。如果尚未运行该服务，则应用程序将启动该服务。也可以禁用该服务，但是这样做会降低应用程序性能。
+DesktopInteract: False
+DisplayName: Windows Font Cache Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: FontCache
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 536
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Google Chrome Elevation Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 
+DesktopInteract: False
+DisplayName: Google Chrome Elevation Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: GoogleChromeElevationService
+PathName: "C:\Program Files (x86)\Google\Chrome\Application\87.0.4280.88\elevation_service.exe"
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Group Policy Client
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务负责应用管理员通过组策略组件为计算机和用户配置的设置。如果禁用此服务，将不会应用这些设置，并且将无法通过组策略管理应用程序和组件。如果禁用此服务，依赖于组策略组件的所有组件或应用程序都将无法正常运行。
+DesktopInteract: False
+DisplayName: Group Policy Client
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: gpsvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Auto
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Google 更新服务 (gupdate)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: 请确保使用最新版的 Google 软件。如果停用或中断此服务，则您的 Google 软件就无法及时更新，这意味着无法修复潜在的安全漏洞，同时某些功能也无法正常运行。如果没有任何 Google 软件使用此服务，则此服务会自行卸载。
+DesktopInteract: False
+DisplayName: Google 更新服务 (gupdate)
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: gupdate
+PathName: "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" /svc
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Auto
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Google 更新服务 (gupdatem)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: 请确保使用最新版的 Google 软件。如果停用或中断此服务，则您的 Google 软件就无法及时更新，这意味着无法修复潜在的安全漏洞，同时某些功能也无法正常运行。如果没有任何 Google 软件使用此服务，则此服务会自行卸载。
+DesktopInteract: False
+DisplayName: Google 更新服务 (gupdatem)
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: gupdatem
+PathName: "C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" /medsvc
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Human Interface Device Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 激活键盘、遥控器和其他多媒体设备上的热按钮并继续使用这些按钮。建议你让此服务一直运行。
+DesktopInteract: False
+DisplayName: Human Interface Device Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: hidserv
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: HomeGroup Provider
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 执行与家庭组的配置和维护相关的网络任务。如果停止或禁用此服务，你的计算机将无法检测到其他家庭组，且你的家庭组可能无法正常工作。建议你保持此服务的运行状态。
+DesktopInteract: False
+DisplayName: HomeGroup Provider
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: HomeGroupProvider
+PathName: C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: True
+AcceptStop: True
+Caption: Hardware Protection Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 硬件防护服务。停止或禁用此服务将导致硬件防护功能无法正常使用。
+DesktopInteract: False
+DisplayName: Hardware Protection Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: HpSvc
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 1684
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: iReasoning MIB Browser Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: iReasoning MIB Browser Service, for receiving SNMP traps, monitoring SNMP agents.
+DesktopInteract: False
+DisplayName: iReasoning MIB Browser Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: iBrowserService
+PathName: "C:\Program Files (x86)\ireasoning\mibbrowser\lib\wrapper.exe" -s "C:\Program Files (x86)\ireasoning\mibbrowser\conf\wrapper.conf"
+ProcessId: 2080
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows 移动热点服务
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供与其他设备共享手机网络数据连接的功能。
+DesktopInteract: False
+DisplayName: Windows 移动热点服务
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: icssvc
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT Authority\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Internet Explorer ETW Collector Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Internet Explorer 的 ETW 收集器服务。该服务在运行时会收集实时 ETW 事件，并对其进行处理。
+DesktopInteract: False
+DisplayName: Internet Explorer ETW Collector Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: IEEtwCollectorService
+PathName: C:\Windows\system32\IEEtwCollector.exe /V
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: IKE and AuthIP IPsec Keying Modules
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: IKEEXT 服务托管 Internet 密钥交换(IKE)和身份验证 Internet 协议(AuthIP)键控模块。这些键控模块用于 Internet 协议安全(IPSec)中的身份验证和密钥交换。停止或禁用 IKEEXT 服务将禁用与对等计算机的 IKE/AuthIP 密钥交换。通常将 IPSec 配置为使用 IKE 或 AuthIP，因此停止或禁用 IKEEXT 服务将导致 IPSec 故障并且危及系统的安全。强烈建议运行 IKEEXT 服务。
+DesktopInteract: False
+DisplayName: IKE and AuthIP IPsec Keying Modules
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: IKEEXT
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Disabled
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: IP Helper
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使用 IPv6 转换技术(6to4、ISATAP、端口代理和 Teredo)和 IP-HTTPS 提供隧道连接。如果停止该服务，则计算机将不具备这些技术提供的增强连接优势。
+DesktopInteract: False
+DisplayName: IP Helper
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: iphlpsvc
+PathName: C:\Windows\System32\svchost.exe -k NetSvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: kbasesrv
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 金山基础服务模块
+DesktopInteract: True
+DisplayName: kbasesrv
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: kbasesrv
+PathName: C:\Program Files (x86)\kbasesrv\kbasesrv.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Auto
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: CNG Key Isolation
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: CNG 密钥隔离服务宿主在 LSA 进程中。如一般原则所要求，该服务为私钥和相关加密操作提供密钥进程隔离。该服务在与一般原则要求相一致的安全进程中存储和使用生存期长的密钥。
+DesktopInteract: False
+DisplayName: CNG Key Isolation
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: KeyIso
+PathName: C:\Windows\system32\lsass.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: KtmRm for Distributed Transaction Coordinator
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 协调分布式事务处理协调器(MSDTC)和内核事务管理器(KTM)之间的事务。如果不需要，建议保持该服务的停止状态。如果需要，MSDTC 和 KTM 将自动启动该服务。如果此服务已禁用，任何与内核资源管理器交互的 MSDTC 事务将失败，并且任何显式依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: KtmRm for Distributed Transaction Coordinator
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: KtmRm
+PathName: C:\Windows\System32\svchost.exe -k NetworkServiceAndNoImpersonation
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Server
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 支持此计算机通过网络的文件、打印、和命名管道共享。如果服务停止，这些功能不可用。如果服务被禁用，任何直接依赖于此服务的服务将无法启动。
+DesktopInteract: False
+DisplayName: Server
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: LanmanServer
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: True
+AcceptStop: True
+Caption: Workstation
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使用 SMB 协议创建并维护客户端网络与远程服务器之间的连接。如果此服务已停止，这些连接将无法使用。如果此服务已禁用，任何明确依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: Workstation
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: LanmanWorkstation
+PathName: C:\Windows\System32\svchost.exe -k NetworkService
+ProcessId: 1072
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\NetworkService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Geolocation Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务将监视系统的当前位置并管理地理围栏(具有关联事件的地理位置)。如果你禁用此服务，应用程序将无法使用或接收有关地理位置或地理围栏的通知。
+DesktopInteract: False
+DisplayName: Geolocation Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: lfsvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Windows License Manager Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为 Windows 应用商店提供基础结构支持。此服务按需启动，如果禁用此服务，则通过 Windows 应用商店获得的内容将无法正常运行。
+DesktopInteract: False
+DisplayName: Windows License Manager Service
+ErrorControl: Ignore
+ExitCode: 0
+InstallDate: 
+Name: LicenseManager
+PathName: C:\Windows\System32\svchost.exe -k LocalService
+ProcessId: 536
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: NT Authority\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Link-Layer Topology Discovery Mapper
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 创建网络映射，它由电脑和设备拓扑(连接)信息以及说明每个电脑和设备的元数据组成。如果禁用此服务，则网络映射将不能正常工作。
+DesktopInteract: False
+DisplayName: Link-Layer Topology Discovery Mapper
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: lltdsvc
+PathName: C:\Windows\System32\svchost.exe -k LocalService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: TCP/IP NetBIOS Helper
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供 TCP/IP (NetBT) 服务上的 NetBIOS 和网络上客户端的 NetBIOS 名称解析的支持，从而使用户能够共享文件、打印和登录到网络。如果此服务被停用，这些功能可能不可用。如果此服务被禁用，任何依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: TCP/IP NetBIOS Helper
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: lmhosts
+PathName: C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 420
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: LSM
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: 
+Description: 
+DesktopInteract: 
+DisplayName: LSM
+ErrorControl: Unknown
+ExitCode: 0
+InstallDate: 
+Name: LSM
+PathName: 
+ProcessId: 872
+ServiceSpecificExitCode: 0
+ServiceType: Unknown
+Started: True
+StartMode: Unknown
+StartName: 
+State: Running
+Status: UNKNOWN
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Luminati Net Updater
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Updater service for Luminati Net
+DesktopInteract: False
+DisplayName: Luminati Net Updater
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: luminati_net_updater_win_eagleget_com
+PathName: C:\Program Files (x86)\EagleGet\net_updater32.exe --updater win_eagleget.com
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Auto
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Downloaded Maps Manager
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: 供应用程序访问已下载地图的 Windows 服务。此服务由访问已下载地图的应用程序按需启动。禁用此服务将阻止应用访问地图。
+DesktopInteract: False
+DisplayName: Downloaded Maps Manager
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: MapsBroker
+PathName: C:\Windows\System32\svchost.exe -k NetworkService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Auto
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Mozilla Maintenance Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Mozilla 维护服务能确保您的计算机上使用的是最新、最安全的 Mozilla Firefox 版本。保持 Firefox 版本及时更新对您的网络安全至关重要，Mozilla 强烈建议您保持开启这个服务。
+DesktopInteract: False
+DisplayName: Mozilla Maintenance Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: MozillaMaintenance
+PathName: "C:\Program Files (x86)\Mozilla Maintenance Service\maintenanceservice.exe"
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Windows Firewall
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Windows 防火墙通过阻止未授权用户通过 Internet 或网络访问你的计算机来帮助保护计算机。
+DesktopInteract: False
+DisplayName: Windows Firewall
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: MpsSvc
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+ProcessId: 1808
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT Authority\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Distributed Transaction Coordinator
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: 协调跨多个数据库、消息队列、文件系统等资源管理器的事务。如果停止此服务，这些事务将会失败。如果禁用此服务，显式依赖此服务的其他服务将无法启动。
+DesktopInteract: False
+DisplayName: Distributed Transaction Coordinator
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: MSDTC
+PathName: C:\Windows\System32\msdtc.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Microsoft iSCSI Initiator Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理从这台计算机到远程 iSCSI 目标设备的 Internet SCSI (iSCSI)会话。如果该服务已停止，则该计算机将无法登录或访问 iSCSI 目标设备。如果该服务已禁用，则所有显式依赖于该服务的服务将不会启动。
+DesktopInteract: False
+DisplayName: Microsoft iSCSI Initiator Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: MSiSCSI
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Installer
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 添加、修改和删除作为 Windows Installer 程序包(*.msi、*.msp)提供的应用程序。如果禁用此服务，则任何显式依赖它的服务均将无法启动。
+DesktopInteract: False
+DisplayName: Windows Installer
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: msiserver
+PathName: C:\Windows\system32\msiexec.exe /V
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Network Connectivity Assistant
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供 UI 组件的 DirectAccess 状态通知
+DesktopInteract: False
+DisplayName: Network Connectivity Assistant
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: NcaSvc
+PathName: C:\Windows\System32\svchost.exe -k NetSvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Network Connection Broker
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 允许 Windows 应用商店应用从 Internet 接收通知的代理连接。
+DesktopInteract: False
+DisplayName: Network Connection Broker
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: NcbService
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Network Connected Devices Auto-Setup
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 网络连接设备自动安装服务会监视和安装连接到合格网络的合格设备。停止或禁用此服务将阻止 Windows 自动发现和安装合格的网络连接设备。用户仍然可以通过用户界面将网络连接设备手动添加到电脑。
+DesktopInteract: False
+DisplayName: Network Connected Devices Auto-Setup
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: NcdAutoSetup
+PathName: C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Netlogon
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为用户和服务身份验证维护此计算机和域控制器之间的安全通道。如果此服务被停用，计算机可能无法验证用户和服务身份并且域控制器无法注册 DNS 记录。如果此服务被禁用，任何依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: Netlogon
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: Netlogon
+PathName: C:\Windows\system32\lsass.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Network Connections
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理“网络和拨号连接”文件夹中对象，在其中你可以查看局域网和远程连接。
+DesktopInteract: False
+DisplayName: Network Connections
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Netman
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Network List Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 识别计算机已连接的网络，收集和存储这些网络的属性，并在更改这些属性时通知应用程序。
+DesktopInteract: False
+DisplayName: Network List Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: netprofm
+PathName: C:\Windows\System32\svchost.exe -k LocalService
+ProcessId: 536
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: NetSetupSvc
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: 
+Description: 
+DesktopInteract: 
+DisplayName: NetSetupSvc
+ErrorControl: Unknown
+ExitCode: 0
+InstallDate: 
+Name: NetSetupSvc
+PathName: 
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Unknown
+Started: False
+StartMode: Unknown
+StartName: 
+State: Stopped
+Status: UNKNOWN
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Net.Tcp Port Sharing Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供通过 net.tcp 协议共享 TCP 端口的功能。
+DesktopInteract: False
+DisplayName: Net.Tcp Port Sharing Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: NetTcpPortSharing
+PathName: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\SMSvcHost.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Disabled
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Microsoft Passport Container
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理用于针对标识提供者及 TPM 虚拟智能卡为用户进行身份验证的本地用户标识密钥。如果禁用了此服务，则将无法访问本地用户标识密钥和 TPM 虚拟智能卡。建议你不要重新配置此服务。
+DesktopInteract: False
+DisplayName: Microsoft Passport Container
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: NgcCtnrSvc
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Microsoft Passport
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为用于对用户关联的标识提供者进行身份验证的加密密钥提供进程隔离。如果禁用了此服务，则这些密钥的所有使用和管理将无法进行，其中包括应用和网站的计算机登录和单一登录。此服务自动启动和停止。建议你不要重新配置此服务。
+DesktopInteract: False
+DisplayName: Microsoft Passport
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: NgcSvc
+PathName: C:\Windows\system32\lsass.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Network Location Awareness
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 收集和存储网络的配置信息，并在此信息被修改时向程序发出通知。如果停止此服务，则配置信息可能不可用；如果禁用此服务，则显式依赖此服务的所有服务都将无法启动。
+DesktopInteract: False
+DisplayName: Network Location Awareness
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: NlaSvc
+PathName: C:\Windows\System32\svchost.exe -k NetworkService
+ProcessId: 1072
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\NetworkService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Network Store Interface Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务向用户模式客户端发送网络通知(例如，添加/删除接口等)。停止此服务将导致丢失网络连接。如果禁用此服务，则显式依赖此服务的所有其他服务都将无法启动。
+DesktopInteract: False
+DisplayName: Network Store Interface Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: nsi
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 536
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT Authority\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: 神通数据库代理服务
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 神通数据库代理服务。
+DesktopInteract: True
+DisplayName: 神通数据库代理服务
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: OscarAgent
+PathName: C:\ShenTong\bin\oscaragent.exe -r
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Auto
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: 神通数据库服务器OSRDB实例
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 神通数据库服务器标准版。
+DesktopInteract: False
+DisplayName: 神通数据库服务器OSRDB实例
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: OSCARDB_OSRDB_SERVER
+PathName: "C:\ShenTong\bin\oscar.exe" -h "C:\ShenTong" -o ni -d \"OSRDB\"
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Auto
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Office 64 Source Engine
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 保存用于更新和修复的安装文件，并且在下载安装程序更新和 Watson 错误报告时必须使用。
+DesktopInteract: False
+DisplayName: Office 64 Source Engine
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: ose64
+PathName: "C:\Program Files\Common Files\Microsoft Shared\Source Engine\OSE.EXE"
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Peer Networking Identity Manager
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 向对等名称解析协议(PNRP)和对等分组服务提供标识服务。如果禁用该功能，对等名称解析协议和对等分组服务可能无法正常运行，且某些应用程序(如家庭组和远程协助)可能无法正常运行。
+DesktopInteract: False
+DisplayName: Peer Networking Identity Manager
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: p2pimsvc
+PathName: C:\Windows\System32\svchost.exe -k LocalServicePeerNet
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Peer Networking Grouping
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使用对等分组启用多方通信。如果禁用该功能，某些应用程序(如家庭组)可能无法正常运行。
+DesktopInteract: False
+DisplayName: Peer Networking Grouping
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: p2psvc
+PathName: C:\Windows\System32\svchost.exe -k LocalServicePeerNet
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Alipay payment client security service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为支付宝客户端提供服务，一旦停止该服务，有可能影响你的支付业务安全
+DesktopInteract: False
+DisplayName: Alipay payment client security service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: pcas
+PathName: "C:\Program Files (x86)\alipay\aliedit\4.0.0.101\pcas.exe"
+ProcessId: 2176
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Program Compatibility Assistant Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务为程序兼容性助手(PCA)提供支持。PCA 监视由用户安装和运行的程序，并检测已知兼容性问题。如果停止此服务，PCA 将无法正常运行。
+DesktopInteract: False
+DisplayName: Program Compatibility Assistant Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: PcaSvc
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: BranchCache
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务缓存来自本地子网上对等方的网络内容。
+DesktopInteract: False
+DisplayName: BranchCache
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: PeerDistSvc
+PathName: C:\Windows\System32\svchost.exe -k PeerDist
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Performance Counter DLL Host
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使远程用户和 64 位进程能够查询 32 位 DLL 提供的性能计数器。如果停止此服务，则只有本地用户和 32 位进程能够查询 32 位 DLL 提供的性能计数器。
+DesktopInteract: False
+DisplayName: Performance Counter DLL Host
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: PerfHost
+PathName: C:\Windows\SysWow64\perfhost.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Performance Logs & Alerts
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 性能日志和警报根据预配置的计划参数从本地或远程计算机收集性能数据，然后将该数据写入日志或触发警报。如果停止此服务，将不收集性能信息。如果禁用此服务，则明确依赖它的所有服务将无法启动。
+DesktopInteract: False
+DisplayName: Performance Logs & Alerts
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: pla
+PathName: C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Plug and Play
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使计算机在极少或没有用户输入的情况下能识别并适应硬件的更改。终止或禁用此服务会造成系统不稳定。
+DesktopInteract: False
+DisplayName: Plug and Play
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: PlugPlay
+PathName: C:\Windows\system32\svchost.exe -k DcomLaunch
+ProcessId: 872
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: PNRP Machine Name Publication Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务使用对等名称解析协议发布计算机名称。配置是通过 Netsh 上下文“p2p pnrp peer”管理的
+DesktopInteract: False
+DisplayName: PNRP Machine Name Publication Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: PNRPAutoReg
+PathName: C:\Windows\System32\svchost.exe -k LocalServicePeerNet
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Peer Name Resolution Protocol
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使用对等名称解析协议(PNRP)在 Internet 上启用无服务器对等名称解析。如果禁用该功能，则某些对等应用程序和协作应用程序(如远程协助)可能无法运行。
+DesktopInteract: False
+DisplayName: Peer Name Resolution Protocol
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: PNRPsvc
+PathName: C:\Windows\System32\svchost.exe -k LocalServicePeerNet
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: IPsec Policy Agent
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Internet 协议安全(IPSec)支持网络级别的对等身份验证、数据原始身份验证、数据完整性、数据机密性(加密)以及重播保护。此服务强制执行通过 IP 安全策略管理单元或命令行工具 "netsh ipsec" 创建的 IPSec 策略。停止此服务时，如果策略需要连接使用 IPSec，可能会遇到网络连接问题。同样，此服务停止时，Windows 防火墙的远程管理也不再可用。
+DesktopInteract: False
+DisplayName: IPsec Policy Agent
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: PolicyAgent
+PathName: C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Disabled
+StartName: NT Authority\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Power
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理电源策略和电源策略通知传递。
+DesktopInteract: False
+DisplayName: Power
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Power
+PathName: C:\Windows\system32\svchost.exe -k DcomLaunch
+ProcessId: 872
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Printer Extensions and Notifications
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务可打开自定义打印机对话框并处理来自远程打印服务器或打印机的通知。如果你关闭此服务，将无法看到打印机扩展或通知。
+DesktopInteract: True
+DisplayName: Printer Extensions and Notifications
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: PrintNotify
+PathName: C:\Windows\system32\svchost.exe -k print
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: User Profile Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务负责加载和卸载用户配置文件。如果已停止或禁用此服务，用户将无法再成功登录或注销，应用在获取用户数据时可能会出问题，而且为接收配置文件事件通知注册的组件将无法接收这些通知。
+DesktopInteract: False
+DisplayName: User Profile Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: ProfSvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: QPCore Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 腾讯安全服务
+DesktopInteract: False
+DisplayName: QPCore Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: QPCore
+PathName: "C:\Program Files (x86)\Common Files\Tencent\QQProtect\Bin\QQProtect.exe"
+ProcessId: 2184
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: QQ拼音输入法基础服务
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为QQ拼音输入法提供基础服务，如果禁用此服务，则输入法的某些功能无法正常使用。
+DesktopInteract: False
+DisplayName: QQ拼音输入法基础服务
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: QQPYService
+PathName: "C:\Program Files (x86)\Tencent\QQPinyin\6.5.6109.400\QQPYService.exe"
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Quality Windows Audio Video Experience
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 优质 Windows 音频视频体验(qWave)是用于 IP 家庭网络上的音频视频(AV)流应用程序的网络平台。通过确保 AV 应用程序的网络服务质量(QoS)，qWave 增强了 AV 流的性能和可靠性。它提供了许可控制机制、运行时监视和实施、应用程序反馈以及流量优先顺序。
+DesktopInteract: False
+DisplayName: Quality Windows Audio Video Experience
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: QWAVE
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Remote Access Auto Connection Manager
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 无论什么时候，当某个程序引用一个远程 DNS 或者 NetBIOS 名称或者地址，就创建一个到远程的连接。
+DesktopInteract: False
+DisplayName: Remote Access Auto Connection Manager
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: RasAuto
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Remote Access Connection Manager
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理从这台计算机到 Internet 或其他远程网络的拨号和虚拟专用网络(VPN)连接。如果禁用该项服务，则明确依赖该服务的任何服务都将无法启动。
+DesktopInteract: False
+DisplayName: Remote Access Connection Manager
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: RasMan
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Routing and Remote Access
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 在局域网以及广域网环境中为企业提供路由服务。
+DesktopInteract: False
+DisplayName: Routing and Remote Access
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: RemoteAccess
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Disabled
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Remote Registry
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使远程用户能修改此计算机上的注册表设置。如果此服务被终止，只有此计算机上的用户才能修改注册表。如果此服务被禁用，任何依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: Remote Registry
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: RemoteRegistry
+PathName: C:\Windows\system32\svchost.exe -k localService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Disabled
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: 零售演示服务
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 当设备处于零售演示模式时，零售演示服务将控制设备活动。
+DesktopInteract: False
+DisplayName: 零售演示服务
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: RetailDemo
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: RPC Endpoint Mapper
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 解析 RPC 接口标识符以传输端点。如果此服务被停止或禁用，使用远程过程调用(RPC)服务的程序将无法正常运行。
+DesktopInteract: False
+DisplayName: RPC Endpoint Mapper
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: RpcEptMapper
+PathName: C:\Windows\system32\svchost.exe -k RPCSS
+ProcessId: 928
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\NetworkService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Remote Procedure Call (RPC) Locator
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 在 Windows 2003 和 Windows 的早期版本中，远程过程调用(RPC)定位器服务可管理 RPC 名称服务数据库。在 Windows Vista 和 Windows 的更新版本中，此服务不提供任何功能，但可用于应用程序兼容性。
+DesktopInteract: False
+DisplayName: Remote Procedure Call (RPC) Locator
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: RpcLocator
+PathName: C:\Windows\system32\locator.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Remote Procedure Call (RPC)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: RPCSS 服务是 COM 和 DCOM 服务器的服务控制管理器。它执行 COM 和 DCOM 服务器的对象激活请求、对象导出程序解析和分布式垃圾回收。如果此服务被停用或禁用，则使用 COM 或 DCOM 的程序将无法正常工作。强烈建议你运行 RPCSS 服务。
+DesktopInteract: False
+DisplayName: Remote Procedure Call (RPC)
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: RpcSs
+PathName: C:\Windows\system32\svchost.exe -k rpcss
+ProcessId: 928
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\NetworkService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Security Accounts Manager
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 启动此服务将向其他服务发出信号: 安全帐户管理器(SAM)已准备就绪，可以接受请求。禁用此服务将导致在 SAM 准备就绪时，无法通知系统中的其他服务，从而可能导致这些服务无法正确启动。不应禁用此服务。
+DesktopInteract: False
+DisplayName: Security Accounts Manager
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: SamSs
+PathName: C:\Windows\system32\lsass.exe
+ProcessId: 776
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Smart Card
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理此计算机对智能卡的取读访问。如果此服务被终止，此计算机将无法取读智能卡。如果此服务被禁用，任何依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: Smart Card
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: SCardSvr
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Disabled
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Smart Card Device Enumeration Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为给定会话可访问的所有智能卡读卡器创建软件设备节点。如果已禁用此服务，则 WinRT API 将无法枚举智能卡读卡器。
+DesktopInteract: False
+DisplayName: Smart Card Device Enumeration Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: ScDeviceEnum
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Task Scheduler
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使用户可以在此计算机上配置和计划自动任务。此服务还托管多个 Windows 系统关键任务。如果此服务被停止或禁用，这些任务将无法在计划的时间运行。如果此服务被禁用，则明确依赖它的所有服务将无法启动。
+DesktopInteract: False
+DisplayName: Task Scheduler
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Schedule
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Smart Card Removal Policy
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 允许系统配置为移除智能卡时锁定用户桌面
+DesktopInteract: False
+DisplayName: Smart Card Removal Policy
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: SCPolicySvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows 备份
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供 Windows 备份和还原功能。
+DesktopInteract: False
+DisplayName: Windows 备份
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: SDRSVC
+PathName: C:\Windows\system32\svchost.exe -k SDRSVC
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: True
+AcceptStop: True
+Caption: Secondary Logon
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 在不同凭据下启用启动过程。如果此服务被停止，这种类型的登录访问将不可用。如果此服务被禁用，任何明确依赖它的服务都将不能启动。
+DesktopInteract: False
+DisplayName: Secondary Logon
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: seclogon
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: System Event Notification Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 监视系统事件并通知订户这些事件的 COM+ 事件系统。
+DesktopInteract: False
+DisplayName: System Event Notification Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: SENS
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Sensor Data Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 从各种传感器传送数据
+DesktopInteract: False
+DisplayName: Sensor Data Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: SensorDataService
+PathName: C:\Windows\System32\SensorDataService.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Sensor Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 一项用于管理各种传感器的功能的传感器服务。管理传感器的简单设备方向(SDO)和历史记录。加载对设备方向变化进行报告的 SDO 传感器。如果停止或禁用了此服务，则将不会加载 SDO 传感器，因此不会发生自动旋转。来自传感器的历史记录收集也将停止。
+DesktopInteract: False
+DisplayName: Sensor Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: SensorService
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Sensor Monitoring Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 监视各种传感器，以公开数据和适应系统和用户状态。如果此服务停止或禁用，显示器亮度将不根据照明条件进行调节。停止此服务还可能会影响其他系统功能和特性。
+DesktopInteract: False
+DisplayName: Sensor Monitoring Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: SensrSvc
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Remote Desktop Configuration
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 远程桌面配置服务(RDCS)负责需要 SYSTEM 上下文的所有远程桌面服务和远程桌面相关的配置和会话维护活动。这些包括每会话临时文件夹、RD 主题和 RD 证书。
+DesktopInteract: False
+DisplayName: Remote Desktop Configuration
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: SessionEnv
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: localSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: 搜狗浏览器安全中心
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为浏览器用户的重要数据(包括通行证、收藏、表单、皮肤、主页、插件等)提供持续的保护。如果停止或者禁用此服务，浏览器可能遭受恶意攻击，出现主页劫持、收藏丢失等一系列问题。
+DesktopInteract: False
+DisplayName: 搜狗浏览器安全中心
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: SGSCenter
+PathName: "E:\Users\geesunn\AppData\Local\SogouExplorer\10.0.2.33514\SESecurityCenter.exe"
+ProcessId: 2260
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Internet Connection Sharing (ICS)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为家庭和小型办公网络提供网络地址转换、寻址、名称解析和/或入侵保护服务。
+DesktopInteract: False
+DisplayName: Internet Connection Sharing (ICS)
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: SharedAccess
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Shell Hardware Detection
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为自动播放硬件事件提供通知。
+DesktopInteract: False
+DisplayName: Shell Hardware Detection
+ErrorControl: Ignore
+ExitCode: 0
+InstallDate: 
+Name: ShellHWDetection
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Microsoft Storage Spaces SMP
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Microsoft 存储空间管理提供程序的主机服务。如果阻止或禁用这项服务，则无法管理存储空间。
+DesktopInteract: False
+DisplayName: Microsoft Storage Spaces SMP
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: smphost
+PathName: C:\Windows\System32\svchost.exe -k smphost
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Microsoft Windows SMS 路由器服务。
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: 根据规则将消息路由到相应客户端。
+DesktopInteract: False
+DisplayName: Microsoft Windows SMS 路由器服务。
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: SmsRouter
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: SNMP Trap
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 接收本地或远程简单网络管理协议 (SNMP) 代理程序生成的陷阱消息并将消息转发到此计算机上运行的 SNMP 管理程序。如果此服务被停用，此计算机上基于 SNMP 的程序将不会接收 SNMP trap 消息。如果此服务被禁用，任何依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: SNMP Trap
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: SNMPTRAP
+PathName: C:\Windows\System32\snmptrap.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Print Spooler
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 该服务在后台执行打印作业并处理与打印机的交互。如果关闭该服务，则无法进行打印或查看打印机。
+DesktopInteract: True
+DisplayName: Print Spooler
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Spooler
+PathName: C:\Windows\System32\spoolsv.exe
+ProcessId: 1844
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Software Protection
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: 启用 Windows 和 Windows 应用程序的数字许可证的下载、安装和实施。如果禁用该服务，操作系统和许可的应用程序可能以通知模式运行。强烈建议你不要禁用软件保护服务。
+DesktopInteract: False
+DisplayName: Software Protection
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: sppsvc
+PathName: C:\Windows\system32\sppsvc.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Auto
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: SSDP Discovery
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 当发现了使用 SSDP 协议的网络设备和服务，如 UPnP 设备，同时还报告了运行在本地计算机上使用的 SSDP 设备和服务。如果停止此服务，基于 SSDP 的设备将不会被发现。如果禁用此服务，任何依赖此服务的服务都无法正常启动。
+DesktopInteract: False
+DisplayName: SSDP Discovery
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: SSDPSRV
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+ProcessId: 1056
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Secure Socket Tunneling Protocol Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供使用 VPN 连接到远程计算机的安全套接字隧道协议(SSTP)的支持。如果该服务被禁用，则用户将无法使用 SSTP 访问远程服务器。
+DesktopInteract: False
+DisplayName: Secure Socket Tunneling Protocol Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: SstpSvc
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT Authority\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: State Repository Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为应用程序模型提供所需的基础结构支持。
+DesktopInteract: False
+DisplayName: State Repository Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: StateRepository
+PathName: C:\Windows\system32\svchost.exe -k appmodel
+ProcessId: 2252
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: True
+AcceptStop: True
+Caption: Windows Image Acquisition (WIA)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为扫描仪和照相机提供图像采集服务
+DesktopInteract: False
+DisplayName: Windows Image Acquisition (WIA)
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: stisvc
+PathName: C:\Windows\system32\svchost.exe -k imgsvc
+ProcessId: 2212
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: NT Authority\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Storage Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为存储设置和外部存储扩展提供启用服务
+DesktopInteract: False
+DisplayName: Storage Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: StorSvc
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: True
+AcceptStop: True
+Caption: SunloginService
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Sunlogin support service.
+DesktopInteract: True
+DisplayName: SunloginService
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: SunloginService
+PathName: "C:\Program Files\Oray\SunLogin\SunloginClient\SunloginClient.exe" --mod=service
+ProcessId: 2288
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Spot Verifier
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 验证潜在的文件系统损坏。
+DesktopInteract: False
+DisplayName: Spot Verifier
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: svsvc
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Microsoft Software Shadow Copy Provider
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理卷影复制服务制作的基于软件的卷影副本。如果该服务被停止，将无法管理基于软件的卷影副本。如果该服务被禁用，任何依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: Microsoft Software Shadow Copy Provider
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: swprv
+PathName: C:\Windows\System32\svchost.exe -k swprv
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Superfetch
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 维护和提高一段时间内的系统性能。
+DesktopInteract: False
+DisplayName: Superfetch
+ErrorControl: Ignore
+ExitCode: 0
+InstallDate: 
+Name: SysMain
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: System Events Broker
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 协调执行 WinRT 应用程序的后台作业。如果停止或禁用此服务，则可能不会触发后台作业。
+DesktopInteract: False
+DisplayName: System Events Broker
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: SystemEventsBroker
+PathName: C:\Windows\system32\svchost.exe -k DcomLaunch
+ProcessId: 872
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Touch Keyboard and Handwriting Panel Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 启用触摸键盘和手写面板笔和墨迹功能
+DesktopInteract: False
+DisplayName: Touch Keyboard and Handwriting Panel Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: TabletInputService
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Telephony
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供电话服务 API (TAPI)支持，以便各程序控制本地计算机上的电话服务设备以及通过 LAN 同样运行该服务的服务器上的设备。
+DesktopInteract: False
+DisplayName: Telephony
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: TapiSrv
+PathName: C:\Windows\System32\svchost.exe -k NetworkService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Te.Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 
+DesktopInteract: False
+DisplayName: Te.Service
+ErrorControl: Ignore
+ExitCode: 1077
+InstallDate: 
+Name: Te.Service
+PathName: "C:\Program Files (x86)\Windows Kits\10\Testing\Runtimes\TAEF\Wex.Services.exe"
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Remote Desktop Services
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 允许用户以交互方式连接到远程计算机。远程桌面和远程桌面会话主机服务器依赖此服务。若要防止远程使用此计算机，请清除“系统”属性控制面板项目的“远程”选项卡上的复选框。
+DesktopInteract: False
+DisplayName: Remote Desktop Services
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: TermService
+PathName: C:\Windows\System32\svchost.exe -k NetworkService
+ProcessId: 1072
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: NT Authority\NetworkService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Themes
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为用户提供使用主题管理的体验。
+DesktopInteract: False
+DisplayName: Themes
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Themes
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Tile Data model server
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 用于获取图块更新的图块服务器。
+DesktopInteract: False
+DisplayName: Tile Data model server
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: tiledatamodelsvc
+PathName: C:\Windows\system32\svchost.exe -k appmodel
+ProcessId: 2252
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Time Broker
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 协调执行 WinRT 应用程序的后台作业。如果停止或禁用此服务，则可能不会触发后台作业。
+DesktopInteract: False
+DisplayName: Time Broker
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: TimeBroker
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+ProcessId: 1056
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Distributed Link Tracking Client
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 维护某个计算机内或某个网络中的计算机的 NTFS 文件之间的链接。
+DesktopInteract: False
+DisplayName: Distributed Link Tracking Client
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: TrkWks
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Modules Installer
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 启用 Windows 更新和可选组件的安装、修改和移除。如果此服务被禁用，则此计算机的 Windows 更新的安装或卸载可能会失败。
+DesktopInteract: False
+DisplayName: Windows Modules Installer
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: TrustedInstaller
+PathName: C:\Windows\servicing\TrustedInstaller.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Interactive Services Detection
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 启用交互服务需要用户输入时进行用户通知，这样，便可以在交互服务创建的对话框出现时访问这些对话框。如果停止此服务，则对新交互服务对话框的通知将无法正常运行，而且可能无法访问这些交互服务对话框。如果已禁用此服务，则不再有新的交互服务对话框通知，也无法访问这些对话框。
+DesktopInteract: True
+DisplayName: Interactive Services Detection
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: UI0Detect
+PathName: C:\Windows\system32\UI0Detect.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Remote Desktop Services UserMode Port Redirector
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 允许为 RDP 连接重定向打印机/驱动程序/端口
+DesktopInteract: False
+DisplayName: Remote Desktop Services UserMode Port Redirector
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: UmRdpService
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: localSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: UPnP Device Host
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 允许 UPnP 设备宿主在此计算机上。如果停止此服务，则所有宿主的 UPnP 设备都将停止工作，并且不能添加其他宿主设备。如果禁用此服务，则任何显式依赖于它的服务将都无法启动。
+DesktopInteract: False
+DisplayName: UPnP Device Host
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: upnphost
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: User Manager
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 用户管理器提供多用户交互所需要的运行时组件。如果停止此服务，某些应用程序可能无法正确运行。
+DesktopInteract: False
+DisplayName: User Manager
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: UserManager
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Update Orchestrator Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: UsoSvc
+DesktopInteract: False
+DisplayName: Update Orchestrator Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: UsoSvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Credential Manager
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为用户、应用程序和安全服务包提供凭据的安全存储和检索。
+DesktopInteract: False
+DisplayName: Credential Manager
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: VaultSvc
+PathName: C:\Windows\system32\lsass.exe
+ProcessId: 776
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Virtual Disk
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供用于磁盘、卷、文件系统和存储阵列的管理服务。
+DesktopInteract: False
+DisplayName: Virtual Disk
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: vds
+PathName: C:\Windows\System32\vds.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: VMware Authorization Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 用于启动和访问虚拟机的授权及身份验证服务。
+DesktopInteract: False
+DisplayName: VMware Authorization Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: VMAuthdService
+PathName: "C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe"
+ProcessId: 2340
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Hyper-V Guest Service Interface
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为 Hyper-V 主机提供一个接口，以便与虚拟机内运行的特定服务进行交互。
+DesktopInteract: False
+DisplayName: Hyper-V Guest Service Interface
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: vmicguestinterface
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Hyper-V Heartbeat Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 通过定期报告检测信号来监视此虚拟机的状态。此服务有助于你识别哪些运行的虚拟机已停止响应。
+DesktopInteract: False
+DisplayName: Hyper-V Heartbeat Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: vmicheartbeat
+PathName: C:\Windows\system32\svchost.exe -k ICService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Hyper-V Data Exchange Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供一种机制，用于在虚拟机和运行在物理计算机上的操作系统之间交换数据。
+DesktopInteract: False
+DisplayName: Hyper-V Data Exchange Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: vmickvpexchange
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Hyper-V Remote Desktop Virtualization Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供一个平台以在虚拟机和物理计算机上运行的操作系统之间进行通信。
+DesktopInteract: False
+DisplayName: Hyper-V Remote Desktop Virtualization Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: vmicrdv
+PathName: C:\Windows\system32\svchost.exe -k ICService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Hyper-V Guest Shutdown Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供一种机制，用于从物理计算机上的管理界面关闭此虚拟机的操作系统。
+DesktopInteract: False
+DisplayName: Hyper-V Guest Shutdown Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: vmicshutdown
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Hyper-V Time Synchronization Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 将此虚拟机的系统时间与物理计算机的系统时间同步。
+DesktopInteract: False
+DisplayName: Hyper-V Time Synchronization Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: vmictimesync
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Hyper-V VM Session Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供了一种在不使用虚拟网络的情况下，通过 VM 会话使用 PowerShell 管理虚拟机的机制。
+DesktopInteract: False
+DisplayName: Hyper-V VM Session Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: vmicvmsession
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Hyper-V Volume Shadow Copy Requestor
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 协调使用卷影复制服务所需的通讯，以从物理计算机上的操作系统备份此虚拟机上的应用程序和数据。
+DesktopInteract: False
+DisplayName: Hyper-V Volume Shadow Copy Requestor
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: vmicvss
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: VMware DHCP Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: DHCP service for virtual networks.
+
+DesktopInteract: False
+DisplayName: VMware DHCP Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: VMnetDHCP
+PathName: C:\Windows\SysWOW64\vmnetdhcp.exe
+ProcessId: 2332
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: VMware USB Arbitration Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Arbitration and enumeration of USB devices for virtual machines
+DesktopInteract: False
+DisplayName: VMware USB Arbitration Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: VMUSBArbService
+PathName: "C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe"
+ProcessId: 2356
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: VMware NAT Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Network address translation for virtual networks.
+
+DesktopInteract: False
+DisplayName: VMware NAT Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: VMware NAT Service
+PathName: C:\Windows\SysWOW64\vmnat.exe
+ProcessId: 2412
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: VMware Workstation Server
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 用于虚拟机注册和管理的远程访问服务。
+DesktopInteract: False
+DisplayName: VMware Workstation Server
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: VMwareHostd
+PathName: "C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe" -u "C:\ProgramData\VMware\hostd\config.xml"
+ProcessId: 3836
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Volume Shadow Copy
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 管理并执行用于备份和其它用途的卷影复制。如果此服务被终止，备份将没有卷影复制，并且备份会失败。如果此服务被禁用，任何依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: Volume Shadow Copy
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: VSS
+PathName: C:\Windows\system32\vssvc.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Visual Studio Standard Collector Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Visual Studio Data Collection Service. When running, this service collects real-time ETW events and processes them.
+DesktopInteract: False
+DisplayName: Visual Studio Standard Collector Service
+ErrorControl: Ignore
+ExitCode: 1077
+InstallDate: 
+Name: VSStandardCollectorService140
+PathName: "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\DiagnosticsHub\Collector\StandardCollector.Service.exe"
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Time
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 维护在网络上的所有客户端和服务器的时间和日期同步。如果此服务被停止，时间和日期的同步将不可用。如果此服务被禁用，任何明确依赖它的服务都将不能启动。
+DesktopInteract: False
+DisplayName: Windows Time
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: W32Time
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: WalletService
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 电子钱包客户端使用的主机对象
+DesktopInteract: False
+DisplayName: WalletService
+ErrorControl: Ignore
+ExitCode: 1077
+InstallDate: 
+Name: WalletService
+PathName: C:\Windows\System32\svchost.exe -k appmodel
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Block Level Backup Engine Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Windows 备份使用 WBENGINE 服务执行备份和恢复操作。如果用户停止了此服务，这可能会导致当前运行的备份或恢复操作失败。使用此计算机上的 Windows 备份禁用此服务可能会禁用备份和恢复操作。
+DesktopInteract: False
+DisplayName: Block Level Backup Engine Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: wbengine
+PathName: "C:\Windows\system32\wbengine.exe"
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Biometric Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Windows 生物识别服务使客户端应用程序能够捕获、比较、操纵和存储生物特征数据，而无需直接访问任何生物识别硬件或示例。该服务宿主在某个特权 SVCHOST 进程中。
+DesktopInteract: False
+DisplayName: Windows Biometric Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: WbioSrvc
+PathName: C:\Windows\system32\svchost.exe -k WbioSvcGroup
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Auto
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Windows Connection Manager
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 根据电脑当前可用的网络连接选项做出自动连接/断开连接决策，并根据“组策略”设置启用网络连接管理。
+DesktopInteract: False
+DisplayName: Windows Connection Manager
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: Wcmsvc
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 420
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT Authority\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Connect Now - Config Registrar
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: WCNCSVC 承载 Windows 立即连接配置，该配置是 Microsoft 执行的无线保护设置(WPS)协议。该配置用于配置接入点(AP)或无线设备的无线 LAN 设置。该服务根据需要有计划地启动。
+DesktopInteract: False
+DisplayName: Windows Connect Now - Config Registrar
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: wcncsvc
+PathName: C:\Windows\System32\svchost.exe -k LocalServiceAndNoImpersonation
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Color System
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: WcsPlugInService 服务承载第三方 Windows 颜色系统颜色设备模型和 gamut 映射模型插件模块。这些插件模块是 Windows 颜色系统基线颜色设备和 gamut 映射模型的特定于供应商的扩展。停止或禁用 WcsPlugInService 服务将禁用此扩展功能，并且 Windows 颜色系统将使用其基线模型处理过程，而不是供应商所需的处理过程。这可能导致颜色显示不正确。
+DesktopInteract: False
+DisplayName: Windows Color System
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: WcsPlugInService
+PathName: C:\Windows\system32\svchost.exe -k wcssvc
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Diagnostic Service Host
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 诊断服务主机被诊断策略服务用来承载需要在本地服务上下文中运行的诊断。如果停止该服务，则依赖于该服务的任何诊断将不再运行。
+DesktopInteract: False
+DisplayName: Diagnostic Service Host
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: WdiServiceHost
+PathName: C:\Windows\System32\svchost.exe -k LocalService
+ProcessId: 536
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Diagnostic System Host
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 诊断系统主机被诊断策略服务用来承载需要在本地系统上下文中运行的诊断。如果停止该服务，则依赖于该服务的任何诊断将不再运行。
+DesktopInteract: False
+DisplayName: Diagnostic System Host
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: WdiSystemHost
+PathName: C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Windows Defender Network Inspection Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 帮助防止针对网络协议中的已知和新发现的漏洞发起的入侵企图
+DesktopInteract: False
+DisplayName: Windows Defender Network Inspection Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: WdNisSvc
+PathName: "C:\Program Files\Windows Defender\NisSrv.exe"
+ProcessId: 4424
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: WebClient
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使基于 Windows 的程序能创建、访问和修改基于 Internet 的文件。如果此服务被停止，这些功能将不可用。如果此服务被禁用，则明确依赖该服务的任何服务都将无法启动。
+DesktopInteract: False
+DisplayName: WebClient
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: WebClient
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Event Collector
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务将管理对支持 WS-Management 协议的远程源中事件的永久订阅。这包括 Windows Vista 事件日志、硬件以及启用 IPMI 的事件源。该服务将转发的事件存储在本地活动日志中。如果停止或禁用此服务，将无法创建事件订阅，并且无法接受转发的事件。
+DesktopInteract: False
+DisplayName: Windows Event Collector
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: Wecsvc
+PathName: C:\Windows\system32\svchost.exe -k NetworkService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Encryption Provider Host Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: Windows Encryption Provider 主机服务代理加密相关功能 - 从第三方加密提供程序到需要评估和应用 EAS 策略的进程。停止此服务将损害连接的邮件帐户已经建立的合规检查
+DesktopInteract: False
+DisplayName: Windows Encryption Provider Host Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: WEPHOSTSVC
+PathName: C:\Windows\system32\svchost.exe -k WepHostSvcGroup
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Problem Reports and Solutions Control Panel Support
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务为查看、发送和删除“问题报告和解决方案”控制面板的系统级问题报告提供支持。
+DesktopInteract: False
+DisplayName: Problem Reports and Solutions Control Panel Support
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: wercplsupport
+PathName: C:\Windows\System32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Error Reporting Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 允许在程序停止运行或停止响应时报告错误，并允许提供现有解决方案。还允许为诊断和修复服务生成日志。如果此服务被停止，则错误报告将无法正确运行，而且可能不显示诊断服务和修复的结果。
+DesktopInteract: False
+DisplayName: Windows Error Reporting Service
+ErrorControl: Ignore
+ExitCode: 1077
+InstallDate: 
+Name: WerSvc
+PathName: C:\Windows\System32\svchost.exe -k WerSvcGroup
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Still Image Acquisition Events
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 启动与静态映像获取事件关联的应用程序。
+DesktopInteract: False
+DisplayName: Still Image Acquisition Events
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: WiaRpc
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Windows Defender Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 帮助用户防止恶意软件及其他潜在的垃圾软件。
+DesktopInteract: False
+DisplayName: Windows Defender Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: WinDefend
+PathName: "C:\Program Files\Windows Defender\MsMpEng.exe"
+ProcessId: 2928
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: WinHTTP Web Proxy Auto-Discovery Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: WinHTTP 实现了客户端 HTTP 堆栈并向开发人员提供 Win32 API 和 COM 自动化组件以供发送 HTTP 请求和接收响应。此外，通过执行 Web 代理自动发现(WPAD)协议，WinHTTP 还提供对自动发现代理服务器配置的支持。
+DesktopInteract: False
+DisplayName: WinHTTP Web Proxy Auto-Discovery Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: WinHttpAutoProxySvc
+PathName: C:\Windows\system32\svchost.exe -k LocalService
+ProcessId: 536
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: True
+AcceptStop: True
+Caption: Windows Management Instrumentation
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供共同的界面和对象模式以便访问有关操作系统、设备、应用程序和服务的管理信息。如果此服务被终止，多数基于 Windows 的软件将无法正常运行。如果此服务被禁用，任何依赖它的服务将无法启动。
+DesktopInteract: False
+DisplayName: Windows Management Instrumentation
+ErrorControl: Ignore
+ExitCode: 0
+InstallDate: 
+Name: Winmgmt
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 1064
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: localSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Remote Management (WS-Management)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: Windows 远程管理(WinRM)服务执行 WS-Management 协议来实现远程管理。WS-Management 是用于远程软件和硬件管理的标准 Web 服务协议。WinRM 服务侦听网络上的 WS-Management 请求并对它们进行处理。通过组策略或使用 winrm.cmd 命令行工具的侦听程序，来配置 WinRM 服务，以使其可通过网络侦听。WinRM 服务提供对 WMI 数据的访问并启用事件集合。事件集合及对事件的订阅需要服务处于运行状态。传输 WinRM 消息时使用 HTTP 和 HTTPS 协议。WinRM 服务不依赖于 IIS ，但在同一计算机上预配置为与 IIS 共享端口。WinRM 服务保留 /wsman URL 前缀。若要防止与 IIS 发生冲突，管理员应确保 IIS 上承载的所有网站均不使用 /wsman URL 前缀。
+DesktopInteract: False
+DisplayName: Windows Remote Management (WS-Management)
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: WinRM
+PathName: C:\Windows\System32\svchost.exe -k NetworkService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: WLAN AutoConfig
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: WLANSVC 服务提供配置、发现、连接、断开与 IEEE 802.11 标准定义的无线局域网(WLAN)的连接所需的逻辑。它还包含将计算机变成软件访问点的逻辑，以便其他设备或计算机可以使用支持它的 WLAN 适配器无线连接到计算机。停止或禁用 WLANSVC 服务将使得计算机上的所有 WLAN 适配器无法访问 Windows 网络连接 UI。强烈建议: 如果你的计算机具有 WLAN 适配器，则运行 WLANSVC 服务。
+DesktopInteract: False
+DisplayName: WLAN AutoConfig
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: WlanSvc
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Microsoft Account Sign-in Assistant
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 支持用户通过 Microsoft 帐户标识服务登录。如果此服务已停止，用户将无法使用其 Microsoft 帐户登录到此计算机。
+DesktopInteract: False
+DisplayName: Microsoft Account Sign-in Assistant
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: wlidsvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: WMI Performance Adapter
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 向网络上的客户端提供 Windows Management Instrumentation (WMI) 提供程序中的性能库信息。只有在激活了性能数据助手时，才会运行此服务。
+DesktopInteract: False
+DisplayName: WMI Performance Adapter
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: wmiApSrv
+PathName: C:\Windows\system32\wbem\WmiApSrv.exe
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: localSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Media Player Network Sharing Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 使用通用即插即用设备与其他网络播放机和媒体设备共享 Windows Media Player 媒体库
+DesktopInteract: False
+DisplayName: Windows Media Player Network Sharing Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: WMPNetworkSvc
+PathName: "C:\Program Files\Windows Media Player\wmpnetwk.exe"
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\NetworkService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Work Folders
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务将与工作文件夹服务器同步文件，从而使你能够使用已设置工作文件夹的任何电脑和设备上的文件。
+DesktopInteract: False
+DisplayName: Work Folders
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: workfolderssvc
+PathName: C:\Windows\System32\svchost.exe -k LocalService
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT AUTHORITY\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Portable Device Enumerator Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 强制可移动大容量存储设备的组策略。使应用程序(如 Windows Media Player 和图像导入向导)能够使用可移动大容量存储设备传输和同步内容。
+DesktopInteract: False
+DisplayName: Portable Device Enumerator Service
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: WPDBusEnum
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Push Notifications Service
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务用于 Windows 推送通知。
+DesktopInteract: False
+DisplayName: Windows Push Notifications Service
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: WpnService
+PathName: C:\Windows\system32\svchost.exe -k wswpnservice
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Security Center
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: WSCSVC(Windows 安全中心)服务监视并报告计算机上的安全健康设置。健康设置包括防火墙(打开/关闭)、防病毒(打开/关闭/过期)、反间谍软件(打开/关闭/过期)、Windows 更新(自动/手动下载并安装更新)、用户帐户控制(打开/关闭)以及 Internet 设置(推荐/不推荐)。该服务为独立软件供应商提供 COM API 以便向安全中心服务注册并记录其产品的状态。安全性与维护 UI 使用该服务在“安全性与维护”控制面板中提供 systray 警报和安全健康状况的图形视图。网络访问保护(NAP)使用该服务向 NAP 网络策略服务器报告客户端的安全健康状况，以便进行网络隔离决策。该服务还提供一个公共 API，以允许外部客户以编程方式检索系统的聚合安全健康状况。
+DesktopInteract: False
+DisplayName: Security Center
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: wscsvc
+PathName: C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+ProcessId: 420
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Auto
+StartName: NT AUTHORITY\LocalService
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: Windows Search
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: True
+Description: 为文件、电子邮件和其他内容提供内容索引、属性缓存和搜索结果。
+DesktopInteract: False
+DisplayName: Windows Search
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: WSearch
+PathName: C:\Windows\system32\SearchIndexer.exe /Embedding
+ProcessId: 7072
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Store Service (WSService)
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为 Windows 应用商店提供基础结构支持。该服务是根据需求启动的，如果禁用它，则通过 Windows 应用商店购买的应用程序将无法正常运行。
+DesktopInteract: False
+DisplayName: Windows Store Service (WSService)
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: WSService
+PathName: C:\Windows\System32\svchost.exe -k wsappx
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Update
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 启用检测、下载和安装 Windows 和其他程序的更新。如果此服务被禁用，这台计算机的用户将无法使用 Windows 更新或其自动更新功能， 并且这些程序将无法使用 Windows 更新代理(WUA) API。
+DesktopInteract: False
+DisplayName: Windows Update
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: wuauserv
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Disabled
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Windows Driver Foundation - User-mode Driver Framework
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 创建并管理用户模式驱动程序进程。该服务不能被停止。
+DesktopInteract: False
+DisplayName: Windows Driver Foundation - User-mode Driver Framework
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: wudfsvc
+PathName: C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+ProcessId: 284
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: True
+StartMode: Manual
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: WWAN AutoConfig
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 该服务管理移动宽带(GSM 和 CDMA)数据卡/嵌入式模块适配器和自动配置网络的连接。强烈建议: 保持运行此服务，以便获取移动宽带设备的最佳用户体验。
+DesktopInteract: False
+DisplayName: WWAN AutoConfig
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: WwanSvc
+PathName: C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: NT Authority\LocalService
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: wwbizsrv
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 为阿里旺旺客户端提供基础保障服务，一旦停止该服务，有可能影响您的阿里旺旺使用。
+DesktopInteract: False
+DisplayName: wwbizsrv
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: wwbizsrv
+PathName: "C:\Program Files (x86)\Alibaba\wwbizsrv\wwbizsrv.exe"
+ProcessId: 2940
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Xbox Live 身份验证管理器
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 提供身份验证和授权服务用于和 Xbox Live 进行交互。如果此服务已停止，某些应用程序可能未被正确操作。
+DesktopInteract: False
+DisplayName: Xbox Live 身份验证管理器
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: XblAuthManager
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Xbox Live 游戏保存
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务为 Xbox Live 可保存游戏同步保存数据。如果此服务被停止，游戏保存数据将不会上传至 Xbox Live 或从 Xbox Live 下载。
+DesktopInteract: False
+DisplayName: Xbox Live 游戏保存
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: XblGameSave
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: False
+Caption: Xbox Live 网络服务
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 此服务支持 Windows.Networking.XboxLive 应用程序编程接口。
+DesktopInteract: False
+DisplayName: Xbox Live 网络服务
+ErrorControl: Normal
+ExitCode: 1077
+InstallDate: 
+Name: XboxNetApiSvc
+PathName: C:\Windows\system32\svchost.exe -k netsvcs
+ProcessId: 0
+ServiceSpecificExitCode: 0
+ServiceType: Share Process
+Started: False
+StartMode: Manual
+StartName: LocalSystem
+State: Stopped
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: XLServicePlatform
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: 
+Description: 
+DesktopInteract: 
+DisplayName: XLServicePlatform
+ErrorControl: Unknown
+ExitCode: 0
+InstallDate: 
+Name: XLServicePlatform
+PathName: 
+ProcessId: 2892
+ServiceSpecificExitCode: 0
+ServiceType: Unknown
+Started: True
+StartMode: Unknown
+StartName: 
+State: Running
+Status: UNKNOWN
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 
+WaitHint: 0
+
+AcceptPause: False
+AcceptStop: True
+Caption: zxAgent
+CheckPoint: 0
+CreationClassName: Win32_Service
+DelayedAutoStart: False
+Description: 探针服务
+DesktopInteract: False
+DisplayName: zxAgent
+ErrorControl: Normal
+ExitCode: 0
+InstallDate: 
+Name: zxAgent
+PathName: C:\Program Files\zxops\zxAgent.exe
+ProcessId: 2948
+ServiceSpecificExitCode: 0
+ServiceType: Own Process
+Started: True
+StartMode: Auto
+StartName: LocalSystem
+State: Running
+Status: OK
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TagId: 0
+WaitHint: 0
+

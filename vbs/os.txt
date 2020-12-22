@@ -1,0 +1,67 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+BootDevice: \Device\HarddiskVolume2
+BuildNumber: 10240
+BuildType: Multiprocessor Free
+Caption: Microsoft Windows 10 企业版
+CodeSet: 936
+CountryCode: 86
+CreationClassName: Win32_OperatingSystem
+CSCreationClassName: Win32_ComputerSystem
+CSDVersion: 
+CSName: DESKTOP-JK64T46
+CurrentTimeZone: 480
+DataExecutionPrevention_32BitApplications: True
+DataExecutionPrevention_Available: True
+DataExecutionPrevention_Drivers: True
+DataExecutionPrevention_SupportPolicy: 2
+Debug: False
+Description: 
+Distributed: False
+EncryptionLevel: 256
+ForegroundApplicationBoost: 2
+FreePhysicalMemory: 8429892
+FreeSpaceInPagingFiles: 9538272
+FreeVirtualMemory: 12342936
+InstallDate: 20190821085200.000000+480
+LargeSystemCache: 
+LastBootUpTime: 20201221122955.492346+480
+LocalDateTime: 20201222173726.769000+480
+Locale: 0804
+Manufacturer: Microsoft Corporation
+MaxNumberOfProcesses: -1
+MaxProcessMemorySize: 137438953344
+Name: Microsoft Windows 10 企业版|C:\Windows|\Device\Harddisk0\Partition4
+NumberOfLicensedUsers: 
+NumberOfProcesses: 163
+NumberOfUsers: 2
+OperatingSystemSKU: 4
+Organization: 
+OSArchitecture: 64 位
+OSLanguage: 2052
+OSProductSuite: 256
+OSType: 18
+OtherTypeDescription: 
+PAEEnabled: 
+PlusProductID: 
+PlusVersionNumber: 
+PortableOperatingSystem: False
+Primary: True
+ProductType: 1
+RegisteredUser: geesunn
+SerialNumber: 00329-00000-00003-AA066
+ServicePackMajorVersion: 0
+ServicePackMinorVersion: 0
+SizeStoredInPagingFiles: 9961472
+Status: OK
+SuiteMask: 272
+SystemDevice: \Device\HarddiskVolume4
+SystemDirectory: C:\Windows\system32
+SystemDrive: C:
+TotalSwapSpaceSize: 
+TotalVirtualMemorySize: 26640156
+TotalVisibleMemorySize: 16678684
+Version: 10.0.10240
+WindowsDirectory: C:\Windows
+

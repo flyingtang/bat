@@ -1,0 +1,6653 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+Caption: 
+CreatingProcessID: 5036
+Description: 
+ElapsedTime: 90398
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 254
+IDProcess: 5768
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: ___3go_build_main_go
+PageFaultsPersec: 0
+PageFileBytes: 21798912
+PageFileBytesPeak: 26075136
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 20744
+PoolPagedBytes: 366792
+PriorityBase: 8
+PrivateBytes: 21798912
+ThreadCount: 21
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 231653376
+VirtualBytesPeak: 238194688
+WorkingSet: 45760512
+WorkingSetPeak: 57389056
+WorkingSetPrivate: 7020544
+
+Caption: 
+CreatingProcessID: 0
+Description: 
+ElapsedTime: 0
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 86243
+IDProcess: 0
+IODataBytesPersec: 123136
+IODataOperationsPersec: 689
+IOOtherBytesPersec: 571381
+IOOtherOperationsPersec: 3169
+IOReadBytesPersec: 70712
+IOReadOperationsPersec: 572
+IOWriteBytesPersec: 52424
+IOWriteOperationsPersec: 117
+Name: _Total
+PageFaultsPersec: 2013
+PageFileBytes: 11774128128
+PageFileBytesPeak: 15979667456
+PercentPrivilegedTime: 100
+PercentProcessorTime: 100
+PercentUserTime: 30
+PoolNonpagedBytes: 6656808
+PoolPagedBytes: 68758528
+PriorityBase: 0
+PrivateBytes: 11774128128
+ThreadCount: 2908
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 259932376932352
+VirtualBytesPeak: 260110706667520
+WorkingSet: 9038757888
+WorkingSetPeak: 17621663744
+WorkingSetPrivate: 5001519104
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 199
+IDProcess: 2052
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: AGMService
+PageFaultsPersec: 0
+PageFileBytes: 3608576
+PageFileBytesPeak: 3825664
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 14096
+PoolPagedBytes: 148696
+PriorityBase: 8
+PrivateBytes: 3608576
+ThreadCount: 4
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 140328960
+VirtualBytesPeak: 145457152
+WorkingSet: 5656576
+WorkingSetPeak: 12881920
+WorkingSetPrivate: 864256
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 289
+IDProcess: 824
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: AGSService
+PageFaultsPersec: 0
+PageFileBytes: 4792320
+PageFileBytesPeak: 6623232
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 19560
+PoolPagedBytes: 187896
+PriorityBase: 8
+PrivateBytes: 4792320
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 144613376
+VirtualBytesPeak: 260538368
+WorkingSet: 6770688
+WorkingSetPeak: 22142976
+WorkingSetPrivate: 114688
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 859
+IDProcess: 1416
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 854
+IOOtherOperationsPersec: 23
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: AlibabaProtect
+PageFaultsPersec: 0
+PageFileBytes: 131313664
+PageFileBytesPeak: 266633216
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 49760
+PoolPagedBytes: 263312
+PriorityBase: 8
+PrivateBytes: 131313664
+ThreadCount: 51
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 307191808
+VirtualBytesPeak: 446844928
+WorkingSet: 56627200
+WorkingSetPeak: 294260736
+WorkingSetPrivate: 37081088
+
+Caption: 
+CreatingProcessID: 1416
+Description: 
+ElapsedTime: 102252
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 218
+IDProcess: 8696
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: AlibabaprotectUI
+PageFaultsPersec: 0
+PageFileBytes: 7245824
+PageFileBytesPeak: 7839744
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 17792
+PoolPagedBytes: 247016
+PriorityBase: 8
+PrivateBytes: 7245824
+ThreadCount: 5
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 126808064
+VirtualBytesPeak: 144429056
+WorkingSet: 8966144
+WorkingSetPeak: 26009600
+WorkingSetPrivate: 1691648
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 101103
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 621
+IDProcess: 9476
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: ApplicationFrameHost
+PageFaultsPersec: 0
+PageFileBytes: 50995200
+PageFileBytesPeak: 51986432
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 43240
+PoolPagedBytes: 489520
+PriorityBase: 8
+PrivateBytes: 50995200
+ThreadCount: 19
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199310901248
+VirtualBytesPeak: 2199317786624
+WorkingSet: 22990848
+WorkingSetPeak: 45903872
+WorkingSetPrivate: 2052096
+
+Caption: 
+CreatingProcessID: 1092
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 211
+IDProcess: 1448
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: atieclxx
+PageFaultsPersec: 0
+PageFileBytes: 2244608
+PageFileBytesPeak: 2502656
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 12368
+PoolPagedBytes: 185448
+PriorityBase: 8
+PrivateBytes: 2244608
+ThreadCount: 8
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 97964032
+VirtualBytesPeak: 107134976
+WorkingSet: 5697536
+WorkingSetPeak: 11644928
+WorkingSetPrivate: 303104
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 124
+IDProcess: 1092
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: atiesrxx
+PageFaultsPersec: 0
+PageFileBytes: 1146880
+PageFileBytesPeak: 1503232
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 7408
+PoolPagedBytes: 59584
+PriorityBase: 8
+PrivateBytes: 1146880
+ThreadCount: 4
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 31686656
+VirtualBytesPeak: 38027264
+WorkingSet: 1273856
+WorkingSetPeak: 5722112
+WorkingSetPrivate: 151552
+
+Caption: 
+CreatingProcessID: 8
+Description: 
+ElapsedTime: 29
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 198
+IDProcess: 15372
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: audiodg
+PageFaultsPersec: 0
+PageFileBytes: 9428992
+PageFileBytesPeak: 21921792
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 13656
+PoolPagedBytes: 110272
+PriorityBase: 8
+PrivateBytes: 9428992
+ThreadCount: 9
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199096856576
+VirtualBytesPeak: 2199103897600
+WorkingSet: 14675968
+WorkingSetPeak: 27275264
+WorkingSetPrivate: 5267456
+
+Caption: 
+CreatingProcessID: 6844
+Description: 
+ElapsedTime: 102358
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 4571
+IDProcess: 6896
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: baidupinyin
+PageFaultsPersec: 0
+PageFileBytes: 41795584
+PageFileBytesPeak: 44777472
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 42288
+PoolPagedBytes: 454416
+PriorityBase: 8
+PrivateBytes: 41795584
+ThreadCount: 32
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 247427072
+VirtualBytesPeak: 253292544
+WorkingSet: 90902528
+WorkingSetPeak: 109133824
+WorkingSetPrivate: 13119488
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 101103
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 700
+IDProcess: 9840
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Calculator
+PageFaultsPersec: 0
+PageFileBytes: 40185856
+PageFileBytesPeak: 40275968
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 42880
+PoolPagedBytes: 724416
+PriorityBase: 8
+PrivateBytes: 40185856
+ThreadCount: 32
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 420839424
+VirtualBytesPeak: 429432832
+WorkingSet: 41369600
+WorkingSetPeak: 64135168
+WorkingSetPrivate: 2711552
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78472
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 832
+IDProcess: 12572
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome
+PageFaultsPersec: 0
+PageFileBytes: 460967936
+PageFileBytesPeak: 552398848
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 59152
+PoolPagedBytes: 938192
+PriorityBase: 10
+PrivateBytes: 460967936
+ThreadCount: 18
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2200500150272
+VirtualBytesPeak: 2200537444352
+WorkingSet: 172134400
+WorkingSetPeak: 201277440
+WorkingSetPrivate: 122568704
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 1923
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 248
+IDProcess: 7504
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#1
+PageFaultsPersec: 0
+PageFileBytes: 27910144
+PageFileBytesPeak: 34033664
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 20496
+PoolPagedBytes: 573272
+PriorityBase: 4
+PrivateBytes: 27910144
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203748409344
+VirtualBytesPeak: 2207902646272
+WorkingSet: 56238080
+WorkingSetPeak: 62496768
+WorkingSetPrivate: 16945152
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 1923
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 445
+IDProcess: 11504
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#2
+PageFaultsPersec: 0
+PageFileBytes: 100380672
+PageFileBytesPeak: 133402624
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 32872
+PoolPagedBytes: 776456
+PriorityBase: 4
+PrivateBytes: 100380672
+ThreadCount: 22
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2204014575616
+VirtualBytesPeak: 2207902646272
+WorkingSet: 154816512
+WorkingSetPeak: 181567488
+WorkingSetPrivate: 82432000
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78472
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 347
+IDProcess: 15080
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#3
+PageFaultsPersec: 0
+PageFileBytes: 30478336
+PageFileBytesPeak: 32362496
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 30624
+PoolPagedBytes: 500112
+PriorityBase: 8
+PrivateBytes: 30478336
+ThreadCount: 13
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199410069504
+VirtualBytesPeak: 2199487672320
+WorkingSet: 35459072
+WorkingSetPeak: 38752256
+WorkingSetPrivate: 21422080
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78406
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 414
+IDProcess: 2080
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#4
+PageFaultsPersec: 0
+PageFileBytes: 142204928
+PageFileBytesPeak: 181403648
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 35080
+PoolPagedBytes: 775216
+PriorityBase: 4
+PrivateBytes: 142204928
+ThreadCount: 19
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2204034822144
+VirtualBytesPeak: 2207902646272
+WorkingSet: 130990080
+WorkingSetPeak: 218058752
+WorkingSetPrivate: 72278016
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 5059
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 294
+IDProcess: 13452
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#5
+PageFaultsPersec: 0
+PageFileBytes: 69238784
+PageFileBytesPeak: 102813696
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 27024
+PoolPagedBytes: 715208
+PriorityBase: 4
+PrivateBytes: 69238784
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203879276544
+VirtualBytesPeak: 2207902646272
+WorkingSet: 101621760
+WorkingSetPeak: 145219584
+WorkingSetPrivate: 38764544
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 1564
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 861
+IDProcess: 12128
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#6
+PageFaultsPersec: 0
+PageFileBytes: 89784320
+PageFileBytesPeak: 122933248
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 27976
+PoolPagedBytes: 858848
+PriorityBase: 4
+PrivateBytes: 89784320
+ThreadCount: 15
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203975569408
+VirtualBytesPeak: 2207902646272
+WorkingSet: 135380992
+WorkingSetPeak: 163082240
+WorkingSetPrivate: 74256384
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 1544
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 201
+IDProcess: 7048
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#7
+PageFaultsPersec: 0
+PageFileBytes: 13729792
+PageFileBytesPeak: 15605760
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 16448
+PoolPagedBytes: 467520
+PriorityBase: 8
+PrivateBytes: 13729792
+ThreadCount: 13
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203668434944
+VirtualBytesPeak: 2207902646272
+WorkingSet: 27185152
+WorkingSetPeak: 27303936
+WorkingSetPrivate: 5697536
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 1907
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 380
+IDProcess: 11512
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#8
+PageFaultsPersec: 0
+PageFileBytes: 93474816
+PageFileBytesPeak: 125276160
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 31376
+PoolPagedBytes: 718256
+PriorityBase: 4
+PrivateBytes: 93474816
+ThreadCount: 19
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203962208256
+VirtualBytesPeak: 2207902646272
+WorkingSet: 143466496
+WorkingSetPeak: 183402496
+WorkingSetPrivate: 75010048
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 1540
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 320
+IDProcess: 15404
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#9
+PageFaultsPersec: 0
+PageFileBytes: 46964736
+PageFileBytesPeak: 57802752
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 24848
+PoolPagedBytes: 808248
+PriorityBase: 4
+PrivateBytes: 46964736
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203890999296
+VirtualBytesPeak: 2207902646272
+WorkingSet: 87384064
+WorkingSetPeak: 96280576
+WorkingSetPrivate: 33804288
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 1284
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 191
+IDProcess: 10408
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#10
+PageFaultsPersec: 0
+PageFileBytes: 11894784
+PageFileBytesPeak: 11972608
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 15768
+PoolPagedBytes: 447040
+PriorityBase: 4
+PrivateBytes: 11894784
+ThreadCount: 13
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203661094912
+VirtualBytesPeak: 2207902646272
+WorkingSet: 21643264
+WorkingSetPeak: 21692416
+WorkingSetPrivate: 5341184
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 6260
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 287
+IDProcess: 1460
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#11
+PageFaultsPersec: 0
+PageFileBytes: 68464640
+PageFileBytesPeak: 87240704
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 25016
+PoolPagedBytes: 720392
+PriorityBase: 4
+PrivateBytes: 68464640
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203877867520
+VirtualBytesPeak: 2207902646272
+WorkingSet: 68575232
+WorkingSetPeak: 131043328
+WorkingSetPrivate: 9900032
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 6578
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 316
+IDProcess: 3320
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#12
+PageFaultsPersec: 0
+PageFileBytes: 47628288
+PageFileBytesPeak: 64110592
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 23488
+PoolPagedBytes: 729056
+PriorityBase: 4
+PrivateBytes: 47628288
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203853860864
+VirtualBytesPeak: 2207902646272
+WorkingSet: 56778752
+WorkingSetPeak: 107270144
+WorkingSetPrivate: 2281472
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 6604
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 262
+IDProcess: 12700
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#13
+PageFaultsPersec: 0
+PageFileBytes: 37191680
+PageFileBytesPeak: 54157312
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 21208
+PoolPagedBytes: 654400
+PriorityBase: 4
+PrivateBytes: 37191680
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203808034816
+VirtualBytesPeak: 2207902646272
+WorkingSet: 45080576
+WorkingSetPeak: 83677184
+WorkingSetPrivate: 2035712
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78472
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 344
+IDProcess: 516
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#14
+PageFaultsPersec: 0
+PageFileBytes: 1568768
+PageFileBytesPeak: 1634304
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 8496
+PoolPagedBytes: 108752
+PriorityBase: 8
+PrivateBytes: 1568768
+ThreadCount: 7
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199131910144
+VirtualBytesPeak: 2199148871680
+WorkingSet: 3710976
+WorkingSetPeak: 8835072
+WorkingSetPrivate: 622592
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 6628
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 274
+IDProcess: 10704
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#15
+PageFaultsPersec: 0
+PageFileBytes: 46333952
+PageFileBytesPeak: 59830272
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 21856
+PoolPagedBytes: 642816
+PriorityBase: 4
+PrivateBytes: 46333952
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203801710592
+VirtualBytesPeak: 2207902646272
+WorkingSet: 45383680
+WorkingSetPeak: 88133632
+WorkingSetPrivate: 2330624
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 6634
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 302
+IDProcess: 12808
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#16
+PageFaultsPersec: 0
+PageFileBytes: 72777728
+PageFileBytesPeak: 78024704
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 25392
+PoolPagedBytes: 630672
+PriorityBase: 4
+PrivateBytes: 72777728
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203821182976
+VirtualBytesPeak: 2207902646272
+WorkingSet: 49508352
+WorkingSetPeak: 107417600
+WorkingSetPrivate: 3211264
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 78472
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 2819
+IDProcess: 13892
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#17
+PageFaultsPersec: 0
+PageFileBytes: 227614720
+PageFileBytesPeak: 265814016
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 403816
+PoolPagedBytes: 1592032
+PriorityBase: 8
+PrivateBytes: 227614720
+ThreadCount: 41
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2200266272768
+VirtualBytesPeak: 2200335249408
+WorkingSet: 220860416
+WorkingSetPeak: 293228544
+WorkingSetPrivate: 114475008
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 1296
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 287
+IDProcess: 16096
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#18
+PageFaultsPersec: 0
+PageFileBytes: 57405440
+PageFileBytesPeak: 85721088
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 24984
+PoolPagedBytes: 711824
+PriorityBase: 4
+PrivateBytes: 57405440
+ThreadCount: 15
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203865690112
+VirtualBytesPeak: 2207902646272
+WorkingSet: 101158912
+WorkingSetPeak: 131403776
+WorkingSetPrivate: 42500096
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 6635
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 338
+IDProcess: 5276
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#19
+PageFaultsPersec: 0
+PageFileBytes: 83390464
+PageFileBytesPeak: 94355456
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 28552
+PoolPagedBytes: 675728
+PriorityBase: 4
+PrivateBytes: 83390464
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203868827648
+VirtualBytesPeak: 2207902646272
+WorkingSet: 96923648
+WorkingSetPeak: 129515520
+WorkingSetPrivate: 43921408
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 6636
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 308
+IDProcess: 15036
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#20
+PageFaultsPersec: 0
+PageFileBytes: 65990656
+PageFileBytesPeak: 74813440
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 28112
+PoolPagedBytes: 689104
+PriorityBase: 4
+PrivateBytes: 65990656
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203850838016
+VirtualBytesPeak: 2207902646272
+WorkingSet: 88342528
+WorkingSetPeak: 117293056
+WorkingSetPrivate: 30543872
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 6640
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 335
+IDProcess: 12880
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#21
+PageFaultsPersec: 0
+PageFileBytes: 53698560
+PageFileBytesPeak: 57745408
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 23792
+PoolPagedBytes: 657376
+PriorityBase: 4
+PrivateBytes: 53698560
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203823124480
+VirtualBytesPeak: 2207903694848
+WorkingSet: 56852480
+WorkingSetPeak: 98926592
+WorkingSetPrivate: 4096000
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 6652
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 331
+IDProcess: 8896
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#22
+PageFaultsPersec: 0
+PageFileBytes: 54882304
+PageFileBytesPeak: 67248128
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 24984
+PoolPagedBytes: 665568
+PriorityBase: 4
+PrivateBytes: 54882304
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203829284864
+VirtualBytesPeak: 2207902646272
+WorkingSet: 57548800
+WorkingSetPeak: 106291200
+WorkingSetPrivate: 4345856
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 6854
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 349
+IDProcess: 6096
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#23
+PageFaultsPersec: 0
+PageFileBytes: 100470784
+PageFileBytesPeak: 105398272
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 28928
+PoolPagedBytes: 743768
+PriorityBase: 4
+PrivateBytes: 100470784
+ThreadCount: 16
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2208219226112
+VirtualBytesPeak: 2212536860672
+WorkingSet: 72622080
+WorkingSetPeak: 142753792
+WorkingSetPrivate: 16404480
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 5384
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 384
+IDProcess: 10900
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#24
+PageFaultsPersec: 0
+PageFileBytes: 110292992
+PageFileBytesPeak: 143147008
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 32736
+PoolPagedBytes: 864624
+PriorityBase: 4
+PrivateBytes: 110292992
+ThreadCount: 19
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2204046782464
+VirtualBytesPeak: 2207902646272
+WorkingSet: 123351040
+WorkingSetPeak: 197246976
+WorkingSetPrivate: 54427648
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 1296
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 325
+IDProcess: 16148
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#25
+PageFaultsPersec: 0
+PageFileBytes: 47202304
+PageFileBytesPeak: 57839616
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 24880
+PoolPagedBytes: 891680
+PriorityBase: 8
+PrivateBytes: 47202304
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203932143616
+VirtualBytesPeak: 2207902646272
+WorkingSet: 90939392
+WorkingSetPeak: 105746432
+WorkingSetPrivate: 33640448
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78472
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 208
+IDProcess: 13492
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#26
+PageFaultsPersec: 0
+PageFileBytes: 19537920
+PageFileBytesPeak: 24104960
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 13456
+PoolPagedBytes: 442976
+PriorityBase: 8
+PrivateBytes: 19537920
+ThreadCount: 7
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199336198144
+VirtualBytesPeak: 2199361458176
+WorkingSet: 7475200
+WorkingSetPeak: 26202112
+WorkingSetPrivate: 3526656
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 27511
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 278
+IDProcess: 13588
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#27
+PageFaultsPersec: 0
+PageFileBytes: 64315392
+PageFileBytesPeak: 82128896
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 25392
+PoolPagedBytes: 691344
+PriorityBase: 4
+PrivateBytes: 64315392
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203866206208
+VirtualBytesPeak: 2207902646272
+WorkingSet: 76075008
+WorkingSetPeak: 120995840
+WorkingSetPrivate: 17240064
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78472
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 351
+IDProcess: 15084
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#28
+PageFaultsPersec: 0
+PageFileBytes: 49201152
+PageFileBytesPeak: 86220800
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 23384
+PoolPagedBytes: 726240
+PriorityBase: 8
+PrivateBytes: 49201152
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203883810816
+VirtualBytesPeak: 2207902646272
+WorkingSet: 64757760
+WorkingSetPeak: 105660416
+WorkingSetPrivate: 24346624
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 27284
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 363
+IDProcess: 2632
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#29
+PageFaultsPersec: 0
+PageFileBytes: 211902464
+PageFileBytesPeak: 304480256
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 42968
+PoolPagedBytes: 799368
+PriorityBase: 4
+PrivateBytes: 211902464
+ThreadCount: 19
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2204134858752
+VirtualBytesPeak: 2207902646272
+WorkingSet: 212344832
+WorkingSetPeak: 370266112
+WorkingSetPrivate: 134795264
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 22814
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 354
+IDProcess: 5196
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#30
+PageFaultsPersec: 0
+PageFileBytes: 233324544
+PageFileBytesPeak: 286281728
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 41880
+PoolPagedBytes: 870272
+PriorityBase: 4
+PrivateBytes: 233324544
+ThreadCount: 17
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2204130455552
+VirtualBytesPeak: 2207903694848
+WorkingSet: 230027264
+WorkingSetPeak: 333672448
+WorkingSetPrivate: 164245504
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 5605
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 329
+IDProcess: 12504
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#31
+PageFaultsPersec: 0
+PageFileBytes: 58601472
+PageFileBytesPeak: 77037568
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 24848
+PoolPagedBytes: 661472
+PriorityBase: 4
+PrivateBytes: 58601472
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203830726656
+VirtualBytesPeak: 2207902646272
+WorkingSet: 60686336
+WorkingSetPeak: 113389568
+WorkingSetPrivate: 7626752
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78472
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 211
+IDProcess: 11672
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#32
+PageFaultsPersec: 0
+PageFileBytes: 17268736
+PageFileBytesPeak: 17317888
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 16992
+PoolPagedBytes: 451144
+PriorityBase: 8
+PrivateBytes: 17268736
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203678146560
+VirtualBytesPeak: 2207894249472
+WorkingSet: 11415552
+WorkingSetPeak: 36618240
+WorkingSetPrivate: 2588672
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78471
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 209
+IDProcess: 11336
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#33
+PageFaultsPersec: 0
+PageFileBytes: 16347136
+PageFileBytesPeak: 16650240
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 16992
+PoolPagedBytes: 451144
+PriorityBase: 8
+PrivateBytes: 16347136
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203678146560
+VirtualBytesPeak: 2207902650368
+WorkingSet: 9637888
+WorkingSetPeak: 35442688
+WorkingSetPrivate: 1798144
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78471
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 216
+IDProcess: 14876
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#34
+PageFaultsPersec: 0
+PageFileBytes: 22958080
+PageFileBytesPeak: 25677824
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 18080
+PoolPagedBytes: 451144
+PriorityBase: 8
+PrivateBytes: 22958080
+ThreadCount: 15
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203700174848
+VirtualBytesPeak: 2207902646272
+WorkingSet: 22073344
+WorkingSetPeak: 44032000
+WorkingSetPrivate: 7430144
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78471
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 229
+IDProcess: 14364
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#35
+PageFaultsPersec: 0
+PageFileBytes: 72327168
+PageFileBytesPeak: 121229312
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 20624
+PoolPagedBytes: 455384
+PriorityBase: 8
+PrivateBytes: 72327168
+ThreadCount: 17
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203754725376
+VirtualBytesPeak: 2207894249472
+WorkingSet: 73850880
+WorkingSetPeak: 118857728
+WorkingSetPrivate: 47083520
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78471
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 218
+IDProcess: 12664
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#36
+PageFaultsPersec: 0
+PageFileBytes: 24186880
+PageFileBytesPeak: 28647424
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 18216
+PoolPagedBytes: 451144
+PriorityBase: 8
+PrivateBytes: 24186880
+ThreadCount: 17
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203710676992
+VirtualBytesPeak: 2207894249472
+WorkingSet: 27066368
+WorkingSetPeak: 44269568
+WorkingSetPrivate: 12546048
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78471
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 209
+IDProcess: 11648
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#37
+PageFaultsPersec: 0
+PageFileBytes: 16064512
+PageFileBytesPeak: 16572416
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 16992
+PoolPagedBytes: 451144
+PriorityBase: 8
+PrivateBytes: 16064512
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203678146560
+VirtualBytesPeak: 2207894249472
+WorkingSet: 9662464
+WorkingSetPeak: 35500032
+WorkingSetPrivate: 1826816
+
+Caption: 
+CreatingProcessID: 13892
+Description: 
+ElapsedTime: 78320
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 209
+IDProcess: 11096
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: chrome#38
+PageFaultsPersec: 0
+PageFileBytes: 18493440
+PageFileBytesPeak: 19574784
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 17128
+PoolPagedBytes: 451144
+PriorityBase: 8
+PrivateBytes: 18493440
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203682340864
+VirtualBytesPeak: 2207903698944
+WorkingSet: 13479936
+WorkingSetPeak: 36925440
+WorkingSetPrivate: 3379200
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 102360
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 611
+IDProcess: 5700
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: ChsIME
+PageFaultsPersec: 0
+PageFileBytes: 42872832
+PageFileBytesPeak: 43200512
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 247192
+PoolPagedBytes: 311480
+PriorityBase: 8
+PrivateBytes: 42872832
+ThreadCount: 12
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199236128768
+VirtualBytesPeak: 2199236550656
+WorkingSet: 25870336
+WorkingSetPeak: 44507136
+WorkingSetPrivate: 4354048
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 8532
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 38
+IDProcess: 5428
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: cmd
+PageFaultsPersec: 0
+PageFileBytes: 1777664
+PageFileBytesPeak: 4911104
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 4536
+PoolPagedBytes: 36592
+PriorityBase: 8
+PrivateBytes: 1777664
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199042347008
+VirtualBytesPeak: 2199045517312
+WorkingSet: 3297280
+WorkingSetPeak: 3788800
+WorkingSetPrivate: 114688
+
+Caption: 
+CreatingProcessID: 14080
+Description: 
+ElapsedTime: 68381
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 37
+IDProcess: 10604
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: cmd#1
+PageFaultsPersec: 0
+PageFileBytes: 1638400
+PageFileBytesPeak: 2801664
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 3856
+PoolPagedBytes: 31784
+PriorityBase: 8
+PrivateBytes: 1638400
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199039983616
+VirtualBytesPeak: 2199041110016
+WorkingSet: 790528
+WorkingSetPeak: 3153920
+WorkingSetPrivate: 458752
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 4647
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 46
+IDProcess: 12192
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: cmd#2
+PageFaultsPersec: 0
+PageFileBytes: 3895296
+PageFileBytesPeak: 4009984
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 5568
+PoolPagedBytes: 90392
+PriorityBase: 8
+PrivateBytes: 3895296
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199070900224
+VirtualBytesPeak: 2199070900224
+WorkingSet: 3870720
+WorkingSetPeak: 3948544
+WorkingSetPrivate: 499712
+
+Caption: 
+CreatingProcessID: 13380
+Description: 
+ElapsedTime: 23344
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 155
+IDProcess: 14848
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Code
+PageFaultsPersec: 0
+PageFileBytes: 20430848
+PageFileBytesPeak: 23113728
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 14160
+PoolPagedBytes: 434088
+PriorityBase: 8
+PrivateBytes: 20430848
+ThreadCount: 8
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203547877376
+VirtualBytesPeak: 2207839657984
+WorkingSet: 25083904
+WorkingSetPeak: 30339072
+WorkingSetPrivate: 5869568
+
+Caption: 
+CreatingProcessID: 14864
+Description: 
+ElapsedTime: 23346
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 191
+IDProcess: 11368
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Code#1
+PageFaultsPersec: 0
+PageFileBytes: 8871936
+PageFileBytesPeak: 8966144
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 12760
+PoolPagedBytes: 403256
+PriorityBase: 8
+PrivateBytes: 8871936
+ThreadCount: 7
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199235723264
+VirtualBytesPeak: 2199238893568
+WorkingSet: 9617408
+WorkingSetPeak: 12283904
+WorkingSetPrivate: 360448
+
+Caption: 
+CreatingProcessID: 14864
+Description: 
+ElapsedTime: 23346
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 533
+IDProcess: 10480
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Code#2
+PageFaultsPersec: 0
+PageFileBytes: 324632576
+PageFileBytesPeak: 424275968
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 32072
+PoolPagedBytes: 672976
+PriorityBase: 10
+PrivateBytes: 324632576
+ThreadCount: 18
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199916732416
+VirtualBytesPeak: 2199955062784
+WorkingSet: 172498944
+WorkingSetPeak: 198598656
+WorkingSetPrivate: 128974848
+
+Caption: 
+CreatingProcessID: 14864
+Description: 
+ElapsedTime: 23343
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 333
+IDProcess: 10580
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Code#3
+PageFaultsPersec: 0
+PageFileBytes: 44052480
+PageFileBytesPeak: 70885376
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 24912
+PoolPagedBytes: 545456
+PriorityBase: 8
+PrivateBytes: 44052480
+ThreadCount: 24
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203667738624
+VirtualBytesPeak: 2207850545152
+WorkingSet: 63303680
+WorkingSetPeak: 97083392
+WorkingSetPrivate: 21295104
+
+Caption: 
+CreatingProcessID: 14864
+Description: 
+ElapsedTime: 23346
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 366
+IDProcess: 11304
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Code#4
+PageFaultsPersec: 0
+PageFileBytes: 13164544
+PageFileBytesPeak: 13361152
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 18112
+PoolPagedBytes: 458088
+PriorityBase: 8
+PrivateBytes: 13164544
+ThreadCount: 9
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199258296320
+VirtualBytesPeak: 2199269707776
+WorkingSet: 22298624
+WorkingSetPeak: 24616960
+WorkingSetPrivate: 4247552
+
+Caption: 
+CreatingProcessID: 14864
+Description: 
+ElapsedTime: 8525
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 443
+IDProcess: 14744
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Code#5
+PageFaultsPersec: 0
+PageFileBytes: 133324800
+PageFileBytesPeak: 149921792
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 33192
+PoolPagedBytes: 889320
+PriorityBase: 8
+PrivateBytes: 133324800
+ThreadCount: 24
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2214655385600
+VirtualBytesPeak: 2223250145280
+WorkingSet: 124444672
+WorkingSetPeak: 180211712
+WorkingSetPrivate: 66080768
+
+Caption: 
+CreatingProcessID: 14744
+Description: 
+ElapsedTime: 8524
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 230
+IDProcess: 12152
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Code#6
+PageFaultsPersec: 0
+PageFileBytes: 54874112
+PageFileBytesPeak: 83652608
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 19968
+PoolPagedBytes: 441552
+PriorityBase: 8
+PrivateBytes: 54874112
+ThreadCount: 20
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203574169600
+VirtualBytesPeak: 2207839997952
+WorkingSet: 32940032
+WorkingSetPeak: 96178176
+WorkingSetPrivate: 7811072
+
+Caption: 
+CreatingProcessID: 14864
+Description: 
+ElapsedTime: 23346
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 455
+IDProcess: 13008
+IODataBytesPersec: 873
+IODataOperationsPersec: 19
+IOOtherBytesPersec: 125
+IOOtherOperationsPersec: 7
+IOReadBytesPersec: 289
+IOReadOperationsPersec: 15
+IOWriteBytesPersec: 583
+IOWriteOperationsPersec: 3
+Name: Code#7
+PageFaultsPersec: 23
+PageFileBytes: 185446400
+PageFileBytesPeak: 202547200
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 36968
+PoolPagedBytes: 745944
+PriorityBase: 8
+PrivateBytes: 185446400
+ThreadCount: 25
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2218912677888
+VirtualBytesPeak: 2223204851712
+WorkingSet: 179830784
+WorkingSetPeak: 208117760
+WorkingSetPrivate: 115503104
+
+Caption: 
+CreatingProcessID: 7024
+Description: 
+ElapsedTime: 23346
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 822
+IDProcess: 14864
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Code#8
+PageFaultsPersec: 0
+PageFileBytes: 48607232
+PageFileBytesPeak: 49688576
+PercentPrivilegedTime: 67
+PercentProcessorTime: 97
+PercentUserTime: 30
+PoolNonpagedBytes: 51848
+PoolPagedBytes: 782752
+PriorityBase: 8
+PrivateBytes: 48607232
+ThreadCount: 39
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203761385472
+VirtualBytesPeak: 2207845498880
+WorkingSet: 95105024
+WorkingSetPeak: 108748800
+WorkingSetPrivate: 22396928
+
+Caption: 
+CreatingProcessID: 13008
+Description: 
+ElapsedTime: 23345
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 249
+IDProcess: 13380
+IODataBytesPersec: 724
+IODataOperationsPersec: 11
+IOOtherBytesPersec: 62
+IOOtherOperationsPersec: 3
+IOReadBytesPersec: 583
+IOReadOperationsPersec: 7
+IOWriteBytesPersec: 141
+IOWriteOperationsPersec: 3
+Name: Code#9
+PageFaultsPersec: 11
+PageFileBytes: 68186112
+PageFileBytesPeak: 88530944
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 21768
+PoolPagedBytes: 447048
+PriorityBase: 8
+PrivateBytes: 68186112
+ThreadCount: 24
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2203593588736
+VirtualBytesPeak: 2207839657984
+WorkingSet: 65216512
+WorkingSetPeak: 104923136
+WorkingSetPrivate: 39723008
+
+Caption: 
+CreatingProcessID: 14744
+Description: 
+ElapsedTime: 8524
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 247
+IDProcess: 12500
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: CodeHelper
+PageFaultsPersec: 0
+PageFileBytes: 19615744
+PageFileBytesPeak: 20369408
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 15192
+PoolPagedBytes: 207280
+PriorityBase: 8
+PrivateBytes: 19615744
+ThreadCount: 6
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 137474048
+VirtualBytesPeak: 149917696
+WorkingSet: 9138176
+WorkingSetPeak: 12881920
+WorkingSetPrivate: 32768
+
+Caption: 
+CreatingProcessID: 13008
+Description: 
+ElapsedTime: 23345
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 1738
+IDProcess: 3748
+IODataBytesPersec: 148
+IODataOperationsPersec: 3
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 11
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 148
+IOWriteOperationsPersec: 3
+Name: CodeHelper#1
+PageFaultsPersec: 94
+PageFileBytes: 23801856
+PageFileBytesPeak: 23810048
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 17368
+PoolPagedBytes: 223664
+PriorityBase: 8
+PrivateBytes: 23801856
+ThreadCount: 11
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 144351232
+VirtualBytesPeak: 151240704
+WorkingSet: 37281792
+WorkingSetPeak: 40747008
+WorkingSetPrivate: 3665920
+
+Caption: 
+CreatingProcessID: 1056
+Description: 
+ElapsedTime: 102313
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 485
+IDProcess: 1524
+IODataBytesPersec: 51550
+IODataOperationsPersec: 105
+IOOtherBytesPersec: 4717
+IOOtherOperationsPersec: 1414
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 51550
+IOWriteOperationsPersec: 105
+Name: ComputerZService
+PageFaultsPersec: 1277
+PageFileBytes: 1343512576
+PageFileBytesPeak: 1343512576
+PercentPrivilegedTime: 6
+PercentProcessorTime: 6
+PercentUserTime: 0
+PoolNonpagedBytes: 45032
+PoolPagedBytes: 476400
+PriorityBase: 8
+PrivateBytes: 1343512576
+ThreadCount: 21
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 1579839488
+VirtualBytesPeak: 1580433408
+WorkingSet: 42323968
+WorkingSetPeak: 980594688
+WorkingSetPrivate: 32096256
+
+Caption: 
+CreatingProcessID: 2000
+Description: 
+ElapsedTime: 102314
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 892
+IDProcess: 1056
+IODataBytesPersec: 40094
+IODataOperationsPersec: 411
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 40094
+IOReadOperationsPersec: 411
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: ComputerZTray
+PageFaultsPersec: 0
+PageFileBytes: 41168896
+PageFileBytesPeak: 46542848
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 69792
+PoolPagedBytes: 537648
+PriorityBase: 8
+PrivateBytes: 41168896
+ThreadCount: 57
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 368586752
+VirtualBytesPeak: 380395520
+WorkingSet: 44920832
+WorkingSetPeak: 81022976
+WorkingSetPrivate: 12263424
+
+Caption: 
+CreatingProcessID: 12500
+Description: 
+ElapsedTime: 8524
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 86
+IDProcess: 12652
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: conhost
+PageFaultsPersec: 0
+PageFileBytes: 10321920
+PageFileBytesPeak: 16982016
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 7328
+PoolPagedBytes: 155328
+PriorityBase: 8
+PrivateBytes: 10321920
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199109849088
+VirtualBytesPeak: 2199117246464
+WorkingSet: 4673536
+WorkingSetPeak: 10166272
+WorkingSetPrivate: 147456
+
+Caption: 
+CreatingProcessID: 12192
+Description: 
+ElapsedTime: 4647
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 238
+IDProcess: 1624
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: conhost#1
+PageFaultsPersec: 0
+PageFileBytes: 23535616
+PageFileBytesPeak: 23535616
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 21336
+PoolPagedBytes: 288584
+PriorityBase: 8
+PrivateBytes: 23535616
+ThreadCount: 9
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199186812928
+VirtualBytesPeak: 2199194722304
+WorkingSet: 30138368
+WorkingSetPeak: 30490624
+WorkingSetPrivate: 10944512
+
+Caption: 
+CreatingProcessID: 5768
+Description: 
+ElapsedTime: 90397
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 86
+IDProcess: 8508
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: conhost#2
+PageFaultsPersec: 0
+PageFileBytes: 10301440
+PageFileBytesPeak: 10461184
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 7192
+PoolPagedBytes: 155344
+PriorityBase: 8
+PrivateBytes: 10301440
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199109931008
+VirtualBytesPeak: 2199110742016
+WorkingSet: 348160
+WorkingSetPeak: 9027584
+WorkingSetPrivate: 167936
+
+Caption: 
+CreatingProcessID: 14080
+Description: 
+ElapsedTime: 68382
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 108
+IDProcess: 9436
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 22002
+IOOtherOperationsPersec: 313
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: conhost#3
+PageFaultsPersec: 0
+PageFileBytes: 7491584
+PageFileBytesPeak: 13926400
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 9912
+PoolPagedBytes: 173664
+PriorityBase: 8
+PrivateBytes: 7491584
+ThreadCount: 2
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199121031168
+VirtualBytesPeak: 2199125966848
+WorkingSet: 4988928
+WorkingSetPeak: 12062720
+WorkingSetPrivate: 409600
+
+Caption: 
+CreatingProcessID: 3748
+Description: 
+ElapsedTime: 23345
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 86
+IDProcess: 904
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 587
+IOOtherOperationsPersec: 11
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: conhost#4
+PageFaultsPersec: 0
+PageFileBytes: 10330112
+PageFileBytesPeak: 16932864
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 7328
+PoolPagedBytes: 155344
+PriorityBase: 8
+PrivateBytes: 10330112
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199109926912
+VirtualBytesPeak: 2199117156352
+WorkingSet: 4804608
+WorkingSetPeak: 10219520
+WorkingSetPrivate: 159744
+
+Caption: 
+CreatingProcessID: 3336
+Description: 
+ElapsedTime: 102386
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 53
+IDProcess: 3436
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: conhost#5
+PageFaultsPersec: 0
+PageFileBytes: 806912
+PageFileBytesPeak: 966656
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 5696
+PoolPagedBytes: 62432
+PriorityBase: 8
+PrivateBytes: 806912
+ThreadCount: 2
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199052673024
+VirtualBytesPeak: 2199053484032
+WorkingSet: 425984
+WorkingSetPeak: 3960832
+WorkingSetPrivate: 163840
+
+Caption: 
+CreatingProcessID: 5428
+Description: 
+ElapsedTime: 8532
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 250
+IDProcess: 5212
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: conhost#6
+PageFaultsPersec: 0
+PageFileBytes: 74395648
+PageFileBytesPeak: 90312704
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 23520
+PoolPagedBytes: 294432
+PriorityBase: 8
+PrivateBytes: 74395648
+ThreadCount: 9
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199240343552
+VirtualBytesPeak: 2199257120768
+WorkingSet: 20201472
+WorkingSetPeak: 56770560
+WorkingSetPrivate: 1003520
+
+Caption: 
+CreatingProcessID: 11472
+Description: 
+ElapsedTime: 22903
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 234
+IDProcess: 11676
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: conhost#7
+PageFaultsPersec: 0
+PageFileBytes: 23347200
+PageFileBytesPeak: 28323840
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 21616
+PoolPagedBytes: 279384
+PriorityBase: 8
+PrivateBytes: 23347200
+ThreadCount: 8
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199209775104
+VirtualBytesPeak: 2199221161984
+WorkingSet: 27598848
+WorkingSetPeak: 27717632
+WorkingSetPrivate: 9003008
+
+Caption: 
+CreatingProcessID: 15232
+Description: 
+ElapsedTime: 22872
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 247
+IDProcess: 11484
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: conhost#8
+PageFaultsPersec: 0
+PageFileBytes: 12075008
+PageFileBytesPeak: 12107776
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 20664
+PoolPagedBytes: 286224
+PriorityBase: 8
+PrivateBytes: 12075008
+ThreadCount: 9
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199177232384
+VirtualBytesPeak: 2199184732160
+WorkingSet: 19791872
+WorkingSetPeak: 23724032
+WorkingSetPrivate: 1937408
+
+Caption: 
+CreatingProcessID: 12192
+Description: 
+ElapsedTime: 0
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 182
+IDProcess: 15804
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: cscript
+PageFaultsPersec: 0
+PageFileBytes: 2699264
+PageFileBytesPeak: 2699264
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 15016
+PoolPagedBytes: 186880
+PriorityBase: 8
+PrivateBytes: 2699264
+ThreadCount: 10
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199128125440
+VirtualBytesPeak: 2199128125440
+WorkingSet: 11206656
+WorkingSetPeak: 11206656
+WorkingSetPrivate: 1892352
+
+Caption: 
+CreatingProcessID: 440
+Description: 
+ElapsedTime: 102391
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 535
+IDProcess: 496
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: csrss
+PageFaultsPersec: 0
+PageFileBytes: 1568768
+PageFileBytesPeak: 2297856
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 18416
+PoolPagedBytes: 252584
+PriorityBase: 13
+PrivateBytes: 1568768
+ThreadCount: 13
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199118151680
+VirtualBytesPeak: 2199119282176
+WorkingSet: 1437696
+WorkingSetPeak: 5730304
+WorkingSetPrivate: 417792
+
+Caption: 
+CreatingProcessID: 608
+Description: 
+ElapsedTime: 102389
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 960
+IDProcess: 616
+IODataBytesPersec: 47
+IODataOperationsPersec: 3
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 47
+IOReadOperationsPersec: 3
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: csrss#1
+PageFaultsPersec: 0
+PageFileBytes: 5455872
+PageFileBytesPeak: 16437248
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 38672
+PoolPagedBytes: 565904
+PriorityBase: 13
+PrivateBytes: 5455872
+ThreadCount: 12
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199258009600
+VirtualBytesPeak: 2199518957568
+WorkingSet: 19640320
+WorkingSetPeak: 238247936
+WorkingSetPrivate: 700416
+
+Caption: 
+CreatingProcessID: 1016
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 366
+IDProcess: 1504
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: dasHost
+PageFaultsPersec: 0
+PageFileBytes: 7045120
+PageFileBytesPeak: 8167424
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 21840
+PoolPagedBytes: 138008
+PriorityBase: 8
+PrivateBytes: 7045120
+ThreadCount: 13
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199101288448
+VirtualBytesPeak: 2199107231744
+WorkingSet: 11825152
+WorkingSetPeak: 15065088
+WorkingSetPrivate: 2584576
+
+Caption: 
+CreatingProcessID: 1056
+Description: 
+ElapsedTime: 102311
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 978
+IDProcess: 8204
+IODataBytesPersec: 5727
+IODataOperationsPersec: 58
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 5727
+IOReadOperationsPersec: 58
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: DrvMgr
+PageFaultsPersec: 0
+PageFileBytes: 39936000
+PageFileBytesPeak: 43929600
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 86504
+PoolPagedBytes: 562416
+PriorityBase: 8
+PrivateBytes: 39936000
+ThreadCount: 38
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 362807296
+VirtualBytesPeak: 398868480
+WorkingSet: 16498688
+WorkingSetPeak: 74768384
+WorkingSetPrivate: 2211840
+
+Caption: 
+CreatingProcessID: 708
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 910
+IDProcess: 520
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: dwm
+PageFaultsPersec: 0
+PageFileBytes: 97730560
+PageFileBytesPeak: 419909632
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 59392
+PoolPagedBytes: 724288
+PriorityBase: 13
+PrivateBytes: 97730560
+ThreadCount: 9
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199475269632
+VirtualBytesPeak: 2199818412032
+WorkingSet: 60428288
+WorkingSetPeak: 214433792
+WorkingSetPrivate: 24637440
+
+Caption: 
+CreatingProcessID: 5564
+Description: 
+ElapsedTime: 102360
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 2412
+IDProcess: 5612
+IODataBytesPersec: 23640
+IODataOperationsPersec: 66
+IOOtherBytesPersec: 987
+IOOtherOperationsPersec: 97
+IOReadBytesPersec: 23640
+IOReadOperationsPersec: 66
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: explorer
+PageFaultsPersec: 274
+PageFileBytes: 109674496
+PageFileBytesPeak: 177537024
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 136840
+PoolPagedBytes: 1237032
+PriorityBase: 8
+PrivateBytes: 109674496
+ThreadCount: 88
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199780139008
+VirtualBytesPeak: 2199970328576
+WorkingSet: 102191104
+WorkingSetPeak: 211005440
+WorkingSetPrivate: 33931264
+
+Caption: 
+CreatingProcessID: 708
+Description: 
+ElapsedTime: 102265
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 35
+IDProcess: 784
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: fontdrvhost
+PageFaultsPersec: 0
+PageFileBytes: 749568
+PageFileBytesPeak: 909312
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 6112
+PoolPagedBytes: 86416
+PriorityBase: 8
+PrivateBytes: 749568
+ThreadCount: 5
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199082430464
+VirtualBytesPeak: 2199083495424
+WorkingSet: 872448
+WorkingSetPeak: 4820992
+WorkingSetPrivate: 172032
+
+Caption: 
+CreatingProcessID: 5036
+Description: 
+ElapsedTime: 101943
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 34
+IDProcess: 576
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: fsnotifier64
+PageFaultsPersec: 0
+PageFileBytes: 430080
+PageFileBytesPeak: 462848
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 2984
+PoolPagedBytes: 34400
+PriorityBase: 8
+PrivateBytes: 430080
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 11333632
+VirtualBytesPeak: 12460032
+WorkingSet: 770048
+WorkingSetPeak: 2015232
+WorkingSetPrivate: 290816
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 101951
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 2211
+IDProcess: 5036
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: goland64
+PageFaultsPersec: 0
+PageFileBytes: 2994798592
+PageFileBytesPeak: 3016564736
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 214480
+PoolPagedBytes: 1292480
+PriorityBase: 8
+PrivateBytes: 2994798592
+ThreadCount: 79
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 6199570432
+VirtualBytesPeak: 6267265024
+WorkingSet: 1087365120
+WorkingSetPeak: 2405191680
+WorkingSetPrivate: 1004208128
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 89486
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 517
+IDProcess: 3768
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: hh
+PageFaultsPersec: 0
+PageFileBytes: 16224256
+PageFileBytesPeak: 16400384
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 39936
+PoolPagedBytes: 614808
+PriorityBase: 8
+PrivateBytes: 16224256
+ThreadCount: 17
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2233833627648
+VirtualBytesPeak: 2233847279616
+WorkingSet: 14630912
+WorkingSetPeak: 55648256
+WorkingSetPrivate: 720896
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 24385
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 560
+IDProcess: 7592
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: hh#1
+PageFaultsPersec: 0
+PageFileBytes: 23605248
+PageFileBytesPeak: 26030080
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 45744
+PoolPagedBytes: 592096
+PriorityBase: 8
+PrivateBytes: 23605248
+ThreadCount: 25
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2233778155520
+VirtualBytesPeak: 2233779761152
+WorkingSet: 54669312
+WorkingSetPeak: 69824512
+WorkingSetPrivate: 2367488
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 102345
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 368
+IDProcess: 8464
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: HuYanBao
+PageFaultsPersec: 0
+PageFileBytes: 14356480
+PageFileBytesPeak: 15613952
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 34632
+PoolPagedBytes: 380568
+PriorityBase: 8
+PrivateBytes: 14356480
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 220983296
+VirtualBytesPeak: 223621120
+WorkingSet: 18227200
+WorkingSetPeak: 31735808
+WorkingSetPrivate: 3764224
+
+Caption: 
+CreatingProcessID: 0
+Description: 
+ElapsedTime: 102395
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 0
+IDProcess: 0
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Idle
+PageFaultsPersec: 0
+PageFileBytes: 0
+PageFileBytesPeak: 0
+PercentPrivilegedTime: 100
+PercentProcessorTime: 100
+PercentUserTime: 0
+PoolNonpagedBytes: 0
+PoolPagedBytes: 0
+PriorityBase: 0
+PrivateBytes: 0
+ThreadCount: 6
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 65536
+VirtualBytesPeak: 65536
+WorkingSet: 4096
+WorkingSetPeak: 4096
+WorkingSetPrivate: 4096
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 102358
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 160
+IDProcess: 6616
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: InstallAgent
+PageFaultsPersec: 0
+PageFileBytes: 2519040
+PageFileBytesPeak: 2691072
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 12504
+PoolPagedBytes: 189080
+PriorityBase: 8
+PrivateBytes: 2519040
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199119609856
+VirtualBytesPeak: 2199129583616
+WorkingSet: 4485120
+WorkingSetPeak: 13402112
+WorkingSetPrivate: 98304
+
+Caption: 
+CreatingProcessID: 1328
+Description: 
+ElapsedTime: 102386
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 284
+IDProcess: 3336
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: java
+PageFaultsPersec: 0
+PageFileBytes: 38125568
+PageFileBytesPeak: 39231488
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 23400
+PoolPagedBytes: 158960
+PriorityBase: 8
+PrivateBytes: 38125568
+ThreadCount: 17
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 536637440
+VirtualBytesPeak: 540250112
+WorkingSet: 5582848
+WorkingSetPeak: 37871616
+WorkingSetPrivate: 827392
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 74523
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 215
+IDProcess: 13020
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: LockAppHost
+PageFaultsPersec: 0
+PageFileBytes: 4141056
+PageFileBytesPeak: 66351104
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 14544
+PoolPagedBytes: 243312
+PriorityBase: 8
+PrivateBytes: 4141056
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199144927232
+VirtualBytesPeak: 2199300100096
+WorkingSet: 1515520
+WorkingSetPeak: 79155200
+WorkingSetPrivate: 135168
+
+Caption: 
+CreatingProcessID: 636
+Description: 
+ElapsedTime: 102389
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 1445
+IDProcess: 764
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: lsass
+PageFaultsPersec: 0
+PageFileBytes: 6815744
+PageFileBytesPeak: 7221248
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 23776
+PoolPagedBytes: 143008
+PriorityBase: 9
+PrivateBytes: 6815744
+ThreadCount: 6
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199075827712
+VirtualBytesPeak: 2199077408768
+WorkingSet: 9031680
+WorkingSetPeak: 16252928
+WorkingSetPrivate: 3563520
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 144
+IDProcess: 2008
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: mDNSResponder
+PageFaultsPersec: 0
+PageFileBytes: 2015232
+PageFileBytesPeak: 2142208
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 13704
+PoolPagedBytes: 62912
+PriorityBase: 8
+PrivateBytes: 2015232
+ThreadCount: 4
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 33460224
+VirtualBytesPeak: 38744064
+WorkingSet: 3018752
+WorkingSetPeak: 6668288
+WorkingSetPrivate: 1241088
+
+Caption: 
+CreatingProcessID: 9244
+Description: 
+ElapsedTime: 20865
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 597
+IDProcess: 900
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: mmc
+PageFaultsPersec: 0
+PageFileBytes: 46198784
+PageFileBytesPeak: 48947200
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 55592
+PoolPagedBytes: 680920
+PriorityBase: 8
+PrivateBytes: 46198784
+ThreadCount: 19
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199797084160
+VirtualBytesPeak: 2199847297024
+WorkingSet: 33878016
+WorkingSetPeak: 48013312
+WorkingSetPrivate: 3543040
+
+Caption: 
+CreatingProcessID: 4068
+Description: 
+ElapsedTime: 15284
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 276
+IDProcess: 11660
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: MpCmdRun
+PageFaultsPersec: 0
+PageFileBytes: 4632576
+PageFileBytesPeak: 5435392
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 14480
+PoolPagedBytes: 103448
+PriorityBase: 8
+PrivateBytes: 4632576
+ThreadCount: 7
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199073083392
+VirtualBytesPeak: 2199078178816
+WorkingSet: 10207232
+WorkingSetPeak: 13737984
+WorkingSetPrivate: 888832
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102386
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 817
+IDProcess: 2808
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: MsMpEng
+PageFaultsPersec: 0
+PageFileBytes: 267165696
+PageFileBytesPeak: 718946304
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 84768
+PoolPagedBytes: 664576
+PriorityBase: 8
+PrivateBytes: 267165696
+ThreadCount: 36
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199847190528
+VirtualBytesPeak: 2200320233472
+WorkingSet: 247103488
+WorkingSetPeak: 678367232
+WorkingSetPrivate: 126013440
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 27276
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 249
+IDProcess: 7808
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: NetworkUXBroker
+PageFaultsPersec: 0
+PageFileBytes: 12484608
+PageFileBytesPeak: 12607488
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 16768
+PoolPagedBytes: 207352
+PriorityBase: 8
+PrivateBytes: 12484608
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199140978688
+VirtualBytesPeak: 2199142113280
+WorkingSet: 18014208
+WorkingSetPeak: 20307968
+WorkingSetPrivate: 5029888
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102383
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 284
+IDProcess: 4632
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: NisSrv
+PageFaultsPersec: 0
+PageFileBytes: 17833984
+PageFileBytesPeak: 51642368
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 22704
+PoolPagedBytes: 101600
+PriorityBase: 8
+PrivateBytes: 17833984
+ThreadCount: 10
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199098687488
+VirtualBytesPeak: 2199134203904
+WorkingSet: 10436608
+WorkingSetPeak: 39735296
+WorkingSetPrivate: 8241152
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 10346
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 308
+IDProcess: 2200
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: notepad++
+PageFaultsPersec: 0
+PageFileBytes: 21381120
+PageFileBytesPeak: 21483520
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 31000
+PoolPagedBytes: 506648
+PriorityBase: 8
+PrivateBytes: 21381120
+ThreadCount: 13
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 279040000
+VirtualBytesPeak: 290271232
+WorkingSet: 37920768
+WorkingSetPeak: 41377792
+WorkingSetPrivate: 6705152
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 388
+IDProcess: 1932
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: pcas
+PageFaultsPersec: 0
+PageFileBytes: 5484544
+PageFileBytesPeak: 5844992
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 20000
+PoolPagedBytes: 169768
+PriorityBase: 8
+PrivateBytes: 5484544
+ThreadCount: 10
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 89038848
+VirtualBytesPeak: 93687808
+WorkingSet: 10547200
+WorkingSetPeak: 15687680
+WorkingSetPrivate: 3469312
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 22872
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 578
+IDProcess: 15232
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: powershell
+PageFaultsPersec: 0
+PageFileBytes: 63971328
+PageFileBytesPeak: 86257664
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 33696
+PoolPagedBytes: 542840
+PriorityBase: 8
+PrivateBytes: 63971328
+ThreadCount: 16
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199724736512
+VirtualBytesPeak: 2199744253952
+WorkingSet: 86089728
+WorkingSetPeak: 103759872
+WorkingSetPrivate: 7450624
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 22903
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 692
+IDProcess: 11472
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: powershell#1
+PageFaultsPersec: 0
+PageFileBytes: 68157440
+PageFileBytesPeak: 87773184
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 33968
+PoolPagedBytes: 548424
+PriorityBase: 8
+PrivateBytes: 68157440
+ThreadCount: 18
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199726227456
+VirtualBytesPeak: 2199740006400
+WorkingSet: 122437632
+WorkingSetPeak: 140791808
+WorkingSetPrivate: 28872704
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 409
+IDProcess: 2096
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: QQProtect
+PageFaultsPersec: 0
+PageFileBytes: 20971520
+PageFileBytesPeak: 22294528
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 32744
+PoolPagedBytes: 192728
+PriorityBase: 8
+PrivateBytes: 20971520
+ThreadCount: 22
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 129949696
+VirtualBytesPeak: 143343616
+WorkingSet: 10461184
+WorkingSetPeak: 34611200
+WorkingSetPrivate: 4497408
+
+Caption: 
+CreatingProcessID: 5340
+Description: 
+ElapsedTime: 102355
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 706
+IDProcess: 3788
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: RadeonSettings
+PageFaultsPersec: 0
+PageFileBytes: 174882816
+PageFileBytesPeak: 174944256
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 92008
+PoolPagedBytes: 505432
+PriorityBase: 8
+PrivateBytes: 174882816
+ThreadCount: 20
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 464887808
+VirtualBytesPeak: 493432832
+WorkingSet: 27729920
+WorkingSetPeak: 181637120
+WorkingSetPrivate: 2883584
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 75667
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 1186
+IDProcess: 11796
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: RDCMan
+PageFaultsPersec: 0
+PageFileBytes: 73183232
+PageFileBytesPeak: 78024704
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 64880
+PoolPagedBytes: 687944
+PriorityBase: 8
+PrivateBytes: 73183232
+ThreadCount: 23
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 830640128
+VirtualBytesPeak: 841195520
+WorkingSet: 24264704
+WorkingSetPeak: 109404160
+WorkingSetPrivate: 4960256
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 97876
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 4491
+IDProcess: 6660
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: rdm
+PageFaultsPersec: 0
+PageFileBytes: 122867712
+PageFileBytesPeak: 1135751168
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 86072
+PoolPagedBytes: 528464
+PriorityBase: 8
+PrivateBytes: 122867712
+ThreadCount: 23
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 387112960
+VirtualBytesPeak: 1377689600
+WorkingSet: 29167616
+WorkingSetPeak: 148717568
+WorkingSetPrivate: 4947968
+
+Caption: 
+CreatingProcessID: 940
+Description: 
+ElapsedTime: 102299
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 357
+IDProcess: 8984
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: RtkNGUI64
+PageFaultsPersec: 0
+PageFileBytes: 4886528
+PageFileBytesPeak: 5238784
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 15192
+PoolPagedBytes: 248296
+PriorityBase: 6
+PrivateBytes: 4886528
+ThreadCount: 6
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 126054400
+VirtualBytesPeak: 145711104
+WorkingSet: 3862528
+WorkingSetPeak: 12853248
+WorkingSetPrivate: 454656
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 102360
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 582
+IDProcess: 5788
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: RuntimeBroker
+PageFaultsPersec: 0
+PageFileBytes: 11530240
+PageFileBytesPeak: 13860864
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 26776
+PoolPagedBytes: 376360
+PriorityBase: 8
+PrivateBytes: 11530240
+ThreadCount: 16
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199218683904
+VirtualBytesPeak: 2199275200512
+WorkingSet: 24039424
+WorkingSetPeak: 32858112
+WorkingSetPrivate: 3682304
+
+Caption: 
+CreatingProcessID: 2188
+Description: 
+ElapsedTime: 102360
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 116
+IDProcess: 5856
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SCMainFrame
+PageFaultsPersec: 0
+PageFileBytes: 6684672
+PageFileBytesPeak: 15245312
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 11008
+PoolPagedBytes: 163248
+PriorityBase: 8
+PrivateBytes: 6684672
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 156176384
+VirtualBytesPeak: 166580224
+WorkingSet: 2789376
+WorkingSetPeak: 19906560
+WorkingSetPrivate: 151552
+
+Caption: 
+CreatingProcessID: 6388
+Description: 
+ElapsedTime: 68
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 110
+IDProcess: 7180
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SearchFilterHost
+PageFaultsPersec: 0
+PageFileBytes: 1224704
+PageFileBytesPeak: 1384448
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 8016
+PoolPagedBytes: 85368
+PriorityBase: 4
+PrivateBytes: 1224704
+ThreadCount: 4
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199059443712
+VirtualBytesPeak: 2199061041152
+WorkingSet: 6107136
+WorkingSetPeak: 6148096
+WorkingSetPrivate: 847872
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102358
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 700
+IDProcess: 6388
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SearchIndexer
+PageFaultsPersec: 0
+PageFileBytes: 37511168
+PageFileBytesPeak: 45539328
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 73936
+PoolPagedBytes: 248696
+PriorityBase: 8
+PrivateBytes: 37511168
+ThreadCount: 15
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199472590848
+VirtualBytesPeak: 2199484743680
+WorkingSet: 34504704
+WorkingSetPeak: 46862336
+WorkingSetPrivate: 10035200
+
+Caption: 
+CreatingProcessID: 6388
+Description: 
+ElapsedTime: 68
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 328
+IDProcess: 11644
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SearchProtocolHost
+PageFaultsPersec: 0
+PageFileBytes: 2027520
+PageFileBytesPeak: 2162688
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 12088
+PoolPagedBytes: 157352
+PriorityBase: 4
+PrivateBytes: 2027520
+ThreadCount: 6
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199097831424
+VirtualBytesPeak: 2199099412480
+WorkingSet: 10567680
+WorkingSetPeak: 10579968
+WorkingSetPrivate: 1511424
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 7931
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 668
+IDProcess: 11908
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SearchUI
+PageFaultsPersec: 0
+PageFileBytes: 24834048
+PageFileBytesPeak: 28291072
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 45800
+PoolPagedBytes: 638504
+PriorityBase: 8
+PrivateBytes: 24834048
+ThreadCount: 33
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 34780934144
+VirtualBytesPeak: 34787516416
+WorkingSet: 65986560
+WorkingSetPeak: 68411392
+WorkingSetPrivate: 15171584
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 97767
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 639
+IDProcess: 9492
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SecureCRT
+PageFaultsPersec: 0
+PageFileBytes: 309436416
+PageFileBytesPeak: 312238080
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 76080
+PoolPagedBytes: 775472
+PriorityBase: 8
+PrivateBytes: 309436416
+ThreadCount: 26
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 754085888
+VirtualBytesPeak: 807501824
+WorkingSet: 50184192
+WorkingSetPeak: 310411264
+WorkingSetPrivate: 7938048
+
+Caption: 
+CreatingProcessID: 636
+Description: 
+ElapsedTime: 102389
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 308
+IDProcess: 752
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: services
+PageFaultsPersec: 0
+PageFileBytes: 3653632
+PageFileBytesPeak: 4509696
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 10584
+PoolPagedBytes: 129728
+PriorityBase: 9
+PrivateBytes: 3653632
+ThreadCount: 5
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199047487488
+VirtualBytesPeak: 2199077556224
+WorkingSet: 4505600
+WorkingSetPeak: 8007680
+WorkingSetPrivate: 2056192
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 264
+IDProcess: 2188
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SESecurityCenter
+PageFaultsPersec: 0
+PageFileBytes: 8261632
+PageFileBytesPeak: 15036416
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 24960
+PoolPagedBytes: 155208
+PriorityBase: 8
+PrivateBytes: 8261632
+ThreadCount: 26
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 183201792
+VirtualBytesPeak: 191606784
+WorkingSet: 9007104
+WorkingSetPeak: 20758528
+WorkingSetPrivate: 3891200
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 88860
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 743
+IDProcess: 5280
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: ShadowsocksR-dotnet4.0
+PageFaultsPersec: 0
+PageFileBytes: 51183616
+PageFileBytesPeak: 60710912
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 57944
+PoolPagedBytes: 448424
+PriorityBase: 8
+PrivateBytes: 51183616
+ThreadCount: 15
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 645398528
+VirtualBytesPeak: 665305088
+WorkingSet: 90714112
+WorkingSetPeak: 98295808
+WorkingSetPrivate: 23744512
+
+Caption: 
+CreatingProcessID: 5280
+Description: 
+ElapsedTime: 88860
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 125
+IDProcess: 9348
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: ShadowsocksR-dotnet4.0#1
+PageFaultsPersec: 0
+PageFileBytes: 2150400
+PageFileBytesPeak: 4046848
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 12088
+PoolPagedBytes: 197800
+PriorityBase: 8
+PrivateBytes: 2150400
+ThreadCount: 2
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 101326848
+VirtualBytesPeak: 139272192
+WorkingSet: 5025792
+WorkingSetPeak: 10702848
+WorkingSetPrivate: 856064
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 102359
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 986
+IDProcess: 6116
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: ShellExperienceHost
+PageFaultsPersec: 0
+PageFileBytes: 48242688
+PageFileBytesPeak: 51867648
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 57976
+PoolPagedBytes: 778840
+PriorityBase: 8
+PrivateBytes: 48242688
+ThreadCount: 67
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 460214272
+VirtualBytesPeak: 468668416
+WorkingSet: 77127680
+WorkingSetPeak: 79544320
+WorkingSetPrivate: 42360832
+
+Caption: 
+CreatingProcessID: 940
+Description: 
+ElapsedTime: 102361
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 446
+IDProcess: 5300
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: sihost
+PageFaultsPersec: 0
+PageFileBytes: 5779456
+PageFileBytesPeak: 6049792
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 16720
+PoolPagedBytes: 202920
+PriorityBase: 8
+PrivateBytes: 5779456
+ThreadCount: 9
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199128973312
+VirtualBytesPeak: 2199138246656
+WorkingSet: 14962688
+WorkingSetPeak: 19664896
+WorkingSetPrivate: 2813952
+
+Caption: 
+CreatingProcessID: 4
+Description: 
+ElapsedTime: 102395
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 49
+IDProcess: 316
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: smss
+PageFaultsPersec: 0
+PageFileBytes: 352256
+PageFileBytesPeak: 442368
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 2680
+PoolPagedBytes: 12760
+PriorityBase: 11
+PrivateBytes: 352256
+ThreadCount: 2
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199027789824
+VirtualBytesPeak: 2199049953280
+WorkingSet: 417792
+WorkingSetPeak: 942080
+WorkingSetPrivate: 155648
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 600
+IDProcess: 1816
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: spoolsv
+PageFaultsPersec: 0
+PageFileBytes: 10510336
+PageFileBytesPeak: 11116544
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 32744
+PoolPagedBytes: 175464
+PriorityBase: 8
+PrivateBytes: 10510336
+ThreadCount: 21
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199111835648
+VirtualBytesPeak: 2199142420480
+WorkingSet: 9523200
+WorkingSetPeak: 21659648
+WorkingSetPrivate: 3268608
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 102269
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 861
+IDProcess: 6676
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SQLyog
+PageFaultsPersec: 0
+PageFileBytes: 152698880
+PageFileBytesPeak: 152727552
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 64720
+PoolPagedBytes: 650352
+PriorityBase: 8
+PrivateBytes: 152698880
+ThreadCount: 36
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 510148608
+VirtualBytesPeak: 531779584
+WorkingSet: 78696448
+WorkingSetPeak: 124362752
+WorkingSetPrivate: 53751808
+
+Caption: 
+CreatingProcessID: 2128
+Description: 
+ElapsedTime: 102384
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 191
+IDProcess: 4348
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SunloginClient
+PageFaultsPersec: 0
+PageFileBytes: 39243776
+PageFileBytesPeak: 39419904
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 12144
+PoolPagedBytes: 228488
+PriorityBase: 8
+PrivateBytes: 39243776
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 113532928
+VirtualBytesPeak: 119803904
+WorkingSet: 446464
+WorkingSetPeak: 44912640
+WorkingSetPrivate: 266240
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 479
+IDProcess: 2128
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 4701
+IOOtherOperationsPersec: 293
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SunloginClient#1
+PageFaultsPersec: 0
+PageFileBytes: 44634112
+PageFileBytesPeak: 48500736
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 30944
+PoolPagedBytes: 267984
+PriorityBase: 8
+PrivateBytes: 44634112
+ThreadCount: 24
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 153718784
+VirtualBytesPeak: 165429248
+WorkingSet: 4202496
+WorkingSetPeak: 56692736
+WorkingSetPrivate: 2023424
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 668
+IDProcess: 528
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 3
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost
+PageFaultsPersec: 23
+PageFileBytes: 11390976
+PageFileBytesPeak: 12140544
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 48560
+PoolPagedBytes: 207608
+PriorityBase: 8
+PrivateBytes: 11390976
+ThreadCount: 31
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199150571520
+VirtualBytesPeak: 2199208497152
+WorkingSet: 16039936
+WorkingSetPeak: 30232576
+WorkingSetPrivate: 7016448
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 967
+IDProcess: 8
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#1
+PageFaultsPersec: 0
+PageFileBytes: 15241216
+PageFileBytesPeak: 18354176
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 36816
+PoolPagedBytes: 230792
+PriorityBase: 8
+PrivateBytes: 15241216
+ThreadCount: 29
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199161778176
+VirtualBytesPeak: 2199175483392
+WorkingSet: 14331904
+WorkingSetPeak: 29057024
+WorkingSetPrivate: 6295552
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 1871
+IDProcess: 940
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 2107
+IOOtherOperationsPersec: 35
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#2
+PageFaultsPersec: 3
+PageFileBytes: 31121408
+PageFileBytesPeak: 52338688
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 77432
+PoolPagedBytes: 416144
+PriorityBase: 8
+PrivateBytes: 31121408
+ThreadCount: 57
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199253299200
+VirtualBytesPeak: 2199287869440
+WorkingSet: 39981056
+WorkingSetPeak: 76570624
+WorkingSetPrivate: 23453696
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 1192
+IDProcess: 980
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 11032
+IOOtherOperationsPersec: 129
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#3
+PageFaultsPersec: 0
+PageFileBytes: 20316160
+PageFileBytesPeak: 330461184
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 89576
+PoolPagedBytes: 284312
+PriorityBase: 8
+PrivateBytes: 20316160
+ThreadCount: 57
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2200642818048
+VirtualBytesPeak: 2200894517248
+WorkingSet: 15314944
+WorkingSetPeak: 284684288
+WorkingSetPrivate: 7061504
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 300
+IDProcess: 1028
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#4
+PageFaultsPersec: 0
+PageFileBytes: 3641344
+PageFileBytesPeak: 3911680
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 376416
+PoolPagedBytes: 103496
+PriorityBase: 8
+PrivateBytes: 3641344
+ThreadCount: 13
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199076319232
+VirtualBytesPeak: 2199079559168
+WorkingSet: 4952064
+WorkingSetPeak: 8998912
+WorkingSetPrivate: 909312
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102386
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 309
+IDProcess: 2852
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#5
+PageFaultsPersec: 0
+PageFileBytes: 7962624
+PageFileBytesPeak: 9113600
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 30224
+PoolPagedBytes: 185048
+PriorityBase: 8
+PrivateBytes: 7962624
+ThreadCount: 25
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 180727808
+VirtualBytesPeak: 183660544
+WorkingSet: 3993600
+WorkingSetPeak: 17977344
+WorkingSetPrivate: 733184
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 1016
+IDProcess: 1016
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#6
+PageFaultsPersec: 0
+PageFileBytes: 10964992
+PageFileBytesPeak: 21770240
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 46896
+PoolPagedBytes: 271056
+PriorityBase: 8
+PrivateBytes: 10964992
+ThreadCount: 26
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2204148092928
+VirtualBytesPeak: 2204158124032
+WorkingSet: 12058624
+WorkingSetPeak: 38498304
+WorkingSetPrivate: 3600384
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 756
+IDProcess: 908
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#7
+PageFaultsPersec: 19
+PageFileBytes: 4743168
+PageFileBytesPeak: 5095424
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 18224
+PoolPagedBytes: 144312
+PriorityBase: 8
+PrivateBytes: 4743168
+ThreadCount: 12
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199073087488
+VirtualBytesPeak: 2199077662720
+WorkingSet: 6279168
+WorkingSetPeak: 9973760
+WorkingSetPrivate: 3600384
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 446
+IDProcess: 1992
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#8
+PageFaultsPersec: 0
+PageFileBytes: 7929856
+PageFileBytesPeak: 8478720
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 21992
+PoolPagedBytes: 338096
+PriorityBase: 8
+PrivateBytes: 7929856
+ThreadCount: 12
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199197859840
+VirtualBytesPeak: 2199203119104
+WorkingSet: 11497472
+WorkingSetPeak: 23097344
+WorkingSetPrivate: 4079616
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 277
+IDProcess: 2000
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#9
+PageFaultsPersec: 0
+PageFileBytes: 4915200
+PageFileBytesPeak: 5951488
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 21648
+PoolPagedBytes: 169232
+PriorityBase: 8
+PrivateBytes: 4915200
+ThreadCount: 8
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 158674944
+VirtualBytesPeak: 164368384
+WorkingSet: 5025792
+WorkingSetPeak: 17543168
+WorkingSetPrivate: 749568
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 101104
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 103
+IDProcess: 9772
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#10
+PageFaultsPersec: 0
+PageFileBytes: 1806336
+PageFileBytesPeak: 3346432
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 7472
+PoolPagedBytes: 68576
+PriorityBase: 8
+PrivateBytes: 1806336
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199060041728
+VirtualBytesPeak: 2199076519936
+WorkingSet: 3571712
+WorkingSetPeak: 9302016
+WorkingSetPrivate: 679936
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 248
+IDProcess: 2084
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#11
+PageFaultsPersec: 0
+PageFileBytes: 2596864
+PageFileBytesPeak: 4116480
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 14672
+PoolPagedBytes: 107152
+PriorityBase: 8
+PrivateBytes: 2596864
+ThreadCount: 6
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199076425728
+VirtualBytesPeak: 2199088078848
+WorkingSet: 1970176
+WorkingSetPeak: 12439552
+WorkingSetPrivate: 73728
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102262
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 170
+IDProcess: 6404
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#12
+PageFaultsPersec: 0
+PageFileBytes: 2170880
+PageFileBytesPeak: 2596864
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 12504
+PoolPagedBytes: 154080
+PriorityBase: 8
+PrivateBytes: 2170880
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199100252160
+VirtualBytesPeak: 2199107203072
+WorkingSet: 14442496
+WorkingSetPeak: 15626240
+WorkingSetPrivate: 69632
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102388
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 658
+IDProcess: 852
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#13
+PageFaultsPersec: 0
+PageFileBytes: 6328320
+PageFileBytesPeak: 27209728
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 25280
+PoolPagedBytes: 320312
+PriorityBase: 8
+PrivateBytes: 6328320
+ThreadCount: 23
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199097049088
+VirtualBytesPeak: 2199119634432
+WorkingSet: 9506816
+WorkingSetPeak: 17883136
+WorkingSetPrivate: 3239936
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 228
+IDProcess: 2168
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#14
+PageFaultsPersec: 0
+PageFileBytes: 4792320
+PageFileBytesPeak: 7663616
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 16976
+PoolPagedBytes: 128728
+PriorityBase: 8
+PrivateBytes: 4792320
+ThreadCount: 6
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199766208512
+VirtualBytesPeak: 2199778246656
+WorkingSet: 8753152
+WorkingSetPeak: 19341312
+WorkingSetPrivate: 2732032
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 572
+IDProcess: 1800
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 29430
+IOOtherOperationsPersec: 493
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: svchost#15
+PageFaultsPersec: 105
+PageFileBytes: 20119552
+PageFileBytesPeak: 240156672
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 51800
+PoolPagedBytes: 202992
+PriorityBase: 8
+PrivateBytes: 20119552
+ThreadCount: 25
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199628025856
+VirtualBytesPeak: 2200450646016
+WorkingSet: 17985536
+WorkingSetPeak: 209555456
+WorkingSetPrivate: 11407360
+
+Caption: 
+CreatingProcessID: 0
+Description: 
+ElapsedTime: 102395
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 1783
+IDProcess: 4
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: System
+PageFaultsPersec: 0
+PageFileBytes: 4304896
+PageFileBytesPeak: 4304896
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 0
+PoolPagedBytes: 0
+PriorityBase: 8
+PrivateBytes: 4304896
+ThreadCount: 169
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 1869217792
+VirtualBytesPeak: 2140143616
+WorkingSet: 1398190080
+WorkingSetPeak: 1955508224
+WorkingSetPrivate: 1398190080
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 27276
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 220
+IDProcess: 5580
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: SystemSettingsBroker
+PageFaultsPersec: 0
+PageFileBytes: 3891200
+PageFileBytesPeak: 4247552
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 13368
+PoolPagedBytes: 199608
+PriorityBase: 8
+PrivateBytes: 3891200
+ThreadCount: 5
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199127629824
+VirtualBytesPeak: 2199137062912
+WorkingSet: 11939840
+WorkingSetPeak: 16338944
+WorkingSetPrivate: 1261568
+
+Caption: 
+CreatingProcessID: 940
+Description: 
+ElapsedTime: 102361
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 408
+IDProcess: 5504
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: taskhostw
+PageFaultsPersec: 0
+PageFileBytes: 8663040
+PageFileBytesPeak: 13029376
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 528728
+PoolPagedBytes: 296432
+PriorityBase: 8
+PrivateBytes: 8663040
+ThreadCount: 10
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199443185664
+VirtualBytesPeak: 2199606218752
+WorkingSet: 19030016
+WorkingSetPeak: 25141248
+WorkingSetPrivate: 2732032
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 89469
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 726
+IDProcess: 3292
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: Taskmgr
+PageFaultsPersec: 0
+PageFileBytes: 35672064
+PageFileBytesPeak: 38551552
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 48344
+PoolPagedBytes: 767176
+PriorityBase: 8
+PrivateBytes: 35672064
+ThreadCount: 27
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199330009088
+VirtualBytesPeak: 2199525629952
+WorkingSet: 49401856
+WorkingSetPeak: 78430208
+WorkingSetPrivate: 20746240
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 102386
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 101
+IDProcess: 3272
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: unsecapp
+PageFaultsPersec: 0
+PageFileBytes: 1314816
+PageFileBytesPeak: 1347584
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 7200
+PoolPagedBytes: 62296
+PriorityBase: 8
+PrivateBytes: 1314816
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199055097856
+VirtualBytesPeak: 2199060381696
+WorkingSet: 1830912
+WorkingSetPeak: 6328320
+WorkingSetPrivate: 565248
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 102313
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 103
+IDProcess: 2768
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: unsecapp#1
+PageFaultsPersec: 0
+PageFileBytes: 2596864
+PageFileBytesPeak: 4390912
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 8152
+PoolPagedBytes: 106208
+PriorityBase: 8
+PrivateBytes: 2596864
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199080792064
+VirtualBytesPeak: 2199085576192
+WorkingSet: 3223552
+WorkingSetPeak: 10076160
+WorkingSetPrivate: 1470464
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 88785
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 827
+IDProcess: 11032
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: vbsedit
+PageFaultsPersec: 0
+PageFileBytes: 103399424
+PageFileBytesPeak: 107204608
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 55944
+PoolPagedBytes: 778848
+PriorityBase: 8
+PrivateBytes: 103399424
+ThreadCount: 26
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 34852786176
+VirtualBytesPeak: 34885943296
+WorkingSet: 53043200
+WorkingSetPeak: 113303552
+WorkingSetPrivate: 19333120
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 131
+IDProcess: 2756
+IODataBytesPersec: 164
+IODataOperationsPersec: 3
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 164
+IOReadOperationsPersec: 3
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: vmnat
+PageFaultsPersec: 0
+PageFileBytes: 1802240
+PageFileBytesPeak: 2170880
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 10976
+PoolPagedBytes: 111624
+PriorityBase: 8
+PrivateBytes: 1802240
+ThreadCount: 4
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 56233984
+VirtualBytesPeak: 62849024
+WorkingSet: 1003520
+WorkingSetPeak: 6848512
+WorkingSetPrivate: 294912
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 64
+IDProcess: 2236
+IODataBytesPersec: 164
+IODataOperationsPersec: 3
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 164
+IOReadOperationsPersec: 3
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: vmnetdhcp
+PageFaultsPersec: 0
+PageFileBytes: 4235264
+PageFileBytesPeak: 4460544
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 6520
+PoolPagedBytes: 48736
+PriorityBase: 8
+PrivateBytes: 4235264
+ThreadCount: 2
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 26222592
+VirtualBytesPeak: 30191616
+WorkingSet: 659456
+WorkingSetPeak: 8093696
+WorkingSetPrivate: 282624
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 261
+IDProcess: 2244
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: vmware-authd
+PageFaultsPersec: 0
+PageFileBytes: 7004160
+PageFileBytesPeak: 7512064
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 16688
+PoolPagedBytes: 189320
+PriorityBase: 8
+PrivateBytes: 7004160
+ThreadCount: 6
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 103948288
+VirtualBytesPeak: 109989888
+WorkingSet: 8413184
+WorkingSetPeak: 20066304
+WorkingSetPrivate: 1404928
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102385
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 359
+IDProcess: 3672
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: vmware-hostd
+PageFaultsPersec: 0
+PageFileBytes: 27971584
+PageFileBytesPeak: 30674944
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 34248
+PoolPagedBytes: 275192
+PriorityBase: 8
+PrivateBytes: 27971584
+ThreadCount: 17
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 172462080
+VirtualBytesPeak: 181862400
+WorkingSet: 28024832
+WorkingSetPeak: 65392640
+WorkingSetPrivate: 1253376
+
+Caption: 
+CreatingProcessID: 8692
+Description: 
+ElapsedTime: 102344
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 149
+IDProcess: 8732
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: vmware-tray
+PageFaultsPersec: 0
+PageFileBytes: 2502656
+PageFileBytesPeak: 2699264
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 16152
+PoolPagedBytes: 209808
+PriorityBase: 8
+PrivateBytes: 2502656
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 106557440
+VirtualBytesPeak: 110415872
+WorkingSet: 4149248
+WorkingSetPeak: 9641984
+WorkingSetPrivate: 143360
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 188
+IDProcess: 2556
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: vmware-usbarbitrator64
+PageFaultsPersec: 0
+PageFileBytes: 2408448
+PageFileBytesPeak: 2494464
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 12240
+PoolPagedBytes: 148184
+PriorityBase: 8
+PrivateBytes: 2408448
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 74772480
+VirtualBytesPeak: 81113088
+WorkingSet: 1638400
+WorkingSetPeak: 10366976
+WorkingSetPrivate: 253952
+
+Caption: 
+CreatingProcessID: 5612
+Description: 
+ElapsedTime: 102333
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 1385
+IDProcess: 9020
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: WeChat
+PageFaultsPersec: 0
+PageFileBytes: 171565056
+PageFileBytesPeak: 272592896
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 236240
+PoolPagedBytes: 1006384
+PriorityBase: 8
+PrivateBytes: 171565056
+ThreadCount: 57
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 703123456
+VirtualBytesPeak: 809357312
+WorkingSet: 120881152
+WorkingSetPeak: 203247616
+WorkingSetPrivate: 57368576
+
+Caption: 
+CreatingProcessID: 9020
+Description: 
+ElapsedTime: 102312
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 904
+IDProcess: 4192
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: WeChatApp
+PageFaultsPersec: 0
+PageFileBytes: 173137920
+PageFileBytesPeak: 222085120
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 68336
+PoolPagedBytes: 655184
+PriorityBase: 8
+PrivateBytes: 173137920
+ThreadCount: 57
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 684285952
+VirtualBytesPeak: 728887296
+WorkingSet: 14925824
+WorkingSetPeak: 146767872
+WorkingSetPrivate: 3645440
+
+Caption: 
+CreatingProcessID: 9020
+Description: 
+ElapsedTime: 102332
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 465
+IDProcess: 8108
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: WeChatWeb
+PageFaultsPersec: 0
+PageFileBytes: 33349632
+PageFileBytesPeak: 119050240
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 27576
+PoolPagedBytes: 482112
+PriorityBase: 8
+PrivateBytes: 33349632
+ThreadCount: 10
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 318533632
+VirtualBytesPeak: 407515136
+WorkingSet: 4251648
+WorkingSetPeak: 42786816
+WorkingSetPrivate: 581632
+
+Caption: 
+CreatingProcessID: 9020
+Description: 
+ElapsedTime: 102318
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 244
+IDProcess: 8776
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: WeChatWeb#1
+PageFaultsPersec: 0
+PageFileBytes: 31154176
+PageFileBytesPeak: 37085184
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 26304
+PoolPagedBytes: 541168
+PriorityBase: 8
+PrivateBytes: 31154176
+ThreadCount: 11
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 325685248
+VirtualBytesPeak: 333623296
+WorkingSet: 2650112
+WorkingSetPeak: 51904512
+WorkingSetPrivate: 425984
+
+Caption: 
+CreatingProcessID: 440
+Description: 
+ElapsedTime: 102389
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 86
+IDProcess: 636
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: wininit
+PageFaultsPersec: 0
+PageFileBytes: 1036288
+PageFileBytesPeak: 1503232
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 8392
+PoolPagedBytes: 138544
+PriorityBase: 13
+PrivateBytes: 1036288
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199086456832
+VirtualBytesPeak: 2199089651712
+WorkingSet: 1060864
+WorkingSetPeak: 5505024
+WorkingSetPrivate: 327680
+
+Caption: 
+CreatingProcessID: 608
+Description: 
+ElapsedTime: 102389
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 202
+IDProcess: 708
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: winlogon
+PageFaultsPersec: 0
+PageFileBytes: 1945600
+PageFileBytesPeak: 4157440
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 9792
+PoolPagedBytes: 169080
+PriorityBase: 13
+PrivateBytes: 1945600
+ThreadCount: 2
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199104397312
+VirtualBytesPeak: 2199140376576
+WorkingSet: 3629056
+WorkingSetPeak: 44064768
+WorkingSetPrivate: 454656
+
+Caption: 
+CreatingProcessID: 5036
+Description: 
+ElapsedTime: 68382
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 98
+IDProcess: 14080
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 494584
+IOOtherOperationsPersec: 313
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: winpty-agent
+PageFaultsPersec: 0
+PageFileBytes: 2068480
+PageFileBytesPeak: 2101248
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 6592
+PoolPagedBytes: 150192
+PriorityBase: 8
+PrivateBytes: 2068480
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 76271616
+VirtualBytesPeak: 78393344
+WorkingSet: 1576960
+WorkingSetPeak: 5754880
+WorkingSetPrivate: 409600
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 101089
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 854
+IDProcess: 5916
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: WinStore.Mobile
+PageFaultsPersec: 0
+PageFileBytes: 23293952
+PageFileBytesPeak: 27873280
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 56752
+PoolPagedBytes: 610280
+PriorityBase: 8
+PrivateBytes: 23293952
+ThreadCount: 37
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 817045504
+VirtualBytesPeak: 818171904
+WorkingSet: 15736832
+WorkingSetPeak: 66564096
+WorkingSetPrivate: 1835008
+
+Caption: 
+CreatingProcessID: 1016
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 152
+IDProcess: 2564
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: wlanext
+PageFaultsPersec: 0
+PageFileBytes: 2674688
+PageFileBytesPeak: 2801664
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 11032
+PoolPagedBytes: 66216
+PriorityBase: 8
+PrivateBytes: 2674688
+ThreadCount: 10
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199060029440
+VirtualBytesPeak: 2199060631552
+WorkingSet: 3928064
+WorkingSetPeak: 7876608
+WorkingSetPrivate: 1433600
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 301
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 145
+IDProcess: 15704
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: WmiApSrv
+PageFaultsPersec: 0
+PageFileBytes: 1437696
+PageFileBytesPeak: 1544192
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 11304
+PoolPagedBytes: 62072
+PriorityBase: 8
+PrivateBytes: 1437696
+ThreadCount: 4
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199054643200
+VirtualBytesPeak: 2199057375232
+WorkingSet: 7397376
+WorkingSetPeak: 7430144
+WorkingSetPrivate: 1155072
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 97727
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 230
+IDProcess: 5364
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: WmiPrvSE
+PageFaultsPersec: 180
+PageFileBytes: 8294400
+PageFileBytesPeak: 19783680
+PercentPrivilegedTime: 6
+PercentProcessorTime: 6
+PercentUserTime: 0
+PoolNonpagedBytes: 11800
+PoolPagedBytes: 80704
+PriorityBase: 8
+PrivateBytes: 8294400
+ThreadCount: 8
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199096778752
+VirtualBytesPeak: 2199105945600
+WorkingSet: 9310208
+WorkingSetPeak: 21102592
+WorkingSetPrivate: 4120576
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 102385
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 279
+IDProcess: 3820
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: WmiPrvSE#1
+PageFaultsPersec: 0
+PageFileBytes: 10670080
+PageFileBytesPeak: 11452416
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 14320
+PoolPagedBytes: 95608
+PriorityBase: 8
+PrivateBytes: 10670080
+ThreadCount: 8
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199080271872
+VirtualBytesPeak: 2199128854528
+WorkingSet: 13393920
+WorkingSetPeak: 18132992
+WorkingSetPrivate: 6156288
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 97733
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 991
+IDProcess: 4176
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 3
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: WmiPrvSE#2
+PageFaultsPersec: 0
+PageFileBytes: 30248960
+PageFileBytesPeak: 39866368
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 28344
+PoolPagedBytes: 214368
+PriorityBase: 8
+PrivateBytes: 30248960
+ThreadCount: 14
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199166083072
+VirtualBytesPeak: 2199179325440
+WorkingSet: 38854656
+WorkingSetPeak: 50253824
+WorkingSetPrivate: 27168768
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102387
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 106
+IDProcess: 1328
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 188
+IOOtherOperationsPersec: 11
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: wrapper
+PageFaultsPersec: 0
+PageFileBytes: 1413120
+PageFileBytesPeak: 1703936
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 9736
+PoolPagedBytes: 59728
+PriorityBase: 8
+PrivateBytes: 1413120
+ThreadCount: 3
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 30154752
+VirtualBytesPeak: 38076416
+WorkingSet: 667648
+WorkingSetPeak: 5832704
+WorkingSetPrivate: 282624
+
+Caption: 
+CreatingProcessID: 852
+Description: 
+ElapsedTime: 101486
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 103
+IDProcess: 8312
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: wuapihost
+PageFaultsPersec: 0
+PageFileBytes: 1421312
+PageFileBytesPeak: 1531904
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 7200
+PoolPagedBytes: 104880
+PriorityBase: 8
+PrivateBytes: 1421312
+ThreadCount: 1
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 2199075721216
+VirtualBytesPeak: 2199079464960
+WorkingSet: 2871296
+WorkingSetPeak: 6737920
+WorkingSetPrivate: 540672
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102386
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 209
+IDProcess: 2892
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: wwbizsrv
+PageFaultsPersec: 0
+PageFileBytes: 2883584
+PageFileBytesPeak: 3166208
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 17728
+PoolPagedBytes: 129016
+PriorityBase: 8
+PrivateBytes: 2883584
+ThreadCount: 8
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 71897088
+VirtualBytesPeak: 91582464
+WorkingSet: 3715072
+WorkingSetPeak: 10199040
+WorkingSetPrivate: 950272
+
+Caption: 
+CreatingProcessID: 752
+Description: 
+ElapsedTime: 102386
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+HandleCount: 159
+IDProcess: 2884
+IODataBytesPersec: 0
+IODataOperationsPersec: 0
+IOOtherBytesPersec: 0
+IOOtherOperationsPersec: 0
+IOReadBytesPersec: 0
+IOReadOperationsPersec: 0
+IOWriteBytesPersec: 0
+IOWriteOperationsPersec: 0
+Name: zxAgent
+PageFaultsPersec: 0
+PageFileBytes: 30265344
+PageFileBytesPeak: 38010880
+PercentPrivilegedTime: 0
+PercentProcessorTime: 0
+PercentUserTime: 0
+PoolNonpagedBytes: 13200
+PoolPagedBytes: 87160
+PriorityBase: 8
+PrivateBytes: 30265344
+ThreadCount: 11
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+VirtualBytes: 35532886016
+VirtualBytesPeak: 35542065152
+WorkingSet: 9318400
+WorkingSetPeak: 16277504
+WorkingSetPrivate: 3022848
+

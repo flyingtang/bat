@@ -1,0 +1,850 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000000] Microsoft Kernel Debug Network Adapter
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Microsoft Kernel Debug Network Adapter
+DHCPEnabled: True
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 0
+InterfaceIndex: 7
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: kdnic
+SettingID: {26B11A49-585F-4B43-A90C-9AF3C3D7B25B}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000001] Realtek PCIe GbE Family Controller
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Realtek PCIe GbE Family Controller
+DHCPEnabled: True
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 1
+InterfaceIndex: 9
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: rt640x64
+SettingID: {63873666-EF0C-4A32-B341-383C16BC08FE}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000002] Bluetooth Device (RFCOMM Protocol TDI)
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Bluetooth Device (RFCOMM Protocol TDI)
+DHCPEnabled: False
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 2
+InterfaceIndex: 2
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: RFCOMM
+SettingID: {085792C8-713F-4489-B6C4-E15CD7679A3D}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000003] Bluetooth Device (Personal Area Network)
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Bluetooth Device (Personal Area Network)
+DHCPEnabled: True
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 3
+InterfaceIndex: 6
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 74:40:BB:DA:04:20
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: BthPan
+SettingID: {2680216A-0568-4923-86FD-396CDCEEBB00}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Microsoft Wi-Fi Direct Virtual Adapter
+DHCPEnabled: True
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 4
+InterfaceIndex: 3
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 76:40:BB:DA:04:1F
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: vwifimp
+SettingID: {10F4E409-A1FC-472F-90B4-BCD650424EA1}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000005] Microsoft Teredo Tunneling Adapter
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Microsoft Teredo Tunneling Adapter
+DHCPEnabled: False
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 5
+InterfaceIndex: 12
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: tunnel
+SettingID: {D40F980A-E847-4B51-AD6A-D748133F76AD}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000006] Realtek RTL8821CE 802.11ac PCIe Adapter
+DatabasePath: %SystemRoot%\System32\drivers\etc
+DeadGWDetectEnabled: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Realtek RTL8821CE 802.11ac PCIe Adapter
+DHCPEnabled: False
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSEnabledForWINSResolution: False
+DNSHostName: DESKTOP-JK64T46
+DomainDNSRegistrationEnabled: False
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: True
+IGMPLevel: 
+Index: 6
+InterfaceIndex: 5
+IPConnectionMetric: 10
+IPEnabled: True
+IPFilterSecurityEnabled: False
+IPPortSecurityEnabled: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 74:40:BB:DA:04:1F
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: RTWlanE
+SettingID: {2339A2F0-DF6D-40C0-8EDC-2FDAD046CC6A}
+TcpipNetbiosOptions: 0
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: True
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000008] VMware Virtual Ethernet Adapter for VMnet1
+DatabasePath: %SystemRoot%\System32\drivers\etc
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: VMware Virtual Ethernet Adapter for VMnet1
+DHCPEnabled: False
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSEnabledForWINSResolution: False
+DNSHostName: DESKTOP-JK64T46
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: False
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: True
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 8
+InterfaceIndex: 14
+IPConnectionMetric: 20
+IPEnabled: True
+IPFilterSecurityEnabled: False
+IPPortSecurityEnabled: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 00:50:56:C0:00:01
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: VMnetAdapter
+SettingID: {E427505A-C171-4EF9-A05A-54F7042E3D23}
+TcpipNetbiosOptions: 0
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: True
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000009] Microsoft ISATAP Adapter
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Microsoft ISATAP Adapter
+DHCPEnabled: False
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 9
+InterfaceIndex: 13
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: tunnel
+SettingID: {E1B2973C-886B-4562-BCCA-F70BF47CFB42}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000010] VMware Virtual Ethernet Adapter for VMnet8
+DatabasePath: %SystemRoot%\System32\drivers\etc
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: VMware Virtual Ethernet Adapter for VMnet8
+DHCPEnabled: True
+DHCPLeaseExpires: 20201222232501.000000+480
+DHCPLeaseObtained: 20201222225501.000000+480
+DHCPServer: 192.168.226.254
+DNSDomain: 
+DNSEnabledForWINSResolution: False
+DNSHostName: DESKTOP-JK64T46
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: False
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: True
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 10
+InterfaceIndex: 10
+IPConnectionMetric: 20
+IPEnabled: True
+IPFilterSecurityEnabled: False
+IPPortSecurityEnabled: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 00:50:56:C0:00:08
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: VMnetAdapter
+SettingID: {BB877420-1817-472A-A656-C3B341400D72}
+TcpipNetbiosOptions: 0
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: True
+WINSHostLookupFile: 
+WINSPrimaryServer: 192.168.226.2
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000012] Microsoft ISATAP Adapter
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Microsoft ISATAP Adapter
+DHCPEnabled: False
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 12
+InterfaceIndex: 8
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: tunnel
+SettingID: {292CD128-98C6-4689-8724-DB2222B190F5}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000014] TAP-Windows Adapter V9
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: TAP-Windows Adapter V9
+DHCPEnabled: False
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 14
+InterfaceIndex: 4
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 00:FF:22:5A:9B:57
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: tap0901
+SettingID: {225A9B57-EE81-4DCC-9D0B-6D2BEE0DB52E}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000016] Microsoft ISATAP Adapter
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Microsoft ISATAP Adapter
+DHCPEnabled: False
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 16
+InterfaceIndex: 15
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: tunnel
+SettingID: {FB8ED838-44A8-4D43-A9B9-F48274CDA574}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+
+ArpAlwaysSourceRoute: 
+ArpUseEtherSNAP: 
+Caption: [00000017] Microsoft ISATAP Adapter
+DatabasePath: 
+DeadGWDetectEnabled: 
+DefaultIPGateway: 
+DefaultTOS: 
+DefaultTTL: 
+Description: Microsoft ISATAP Adapter
+DHCPEnabled: False
+DHCPLeaseExpires: 
+DHCPLeaseObtained: 
+DHCPServer: 
+DNSDomain: 
+DNSDomainSuffixSearchOrder: 
+DNSEnabledForWINSResolution: 
+DNSHostName: 
+DNSServerSearchOrder: 
+DomainDNSRegistrationEnabled: 
+ForwardBufferMemory: 
+FullDNSRegistrationEnabled: 
+GatewayCostMetric: 
+IGMPLevel: 
+Index: 17
+InterfaceIndex: 11
+IPAddress: 
+IPConnectionMetric: 
+IPEnabled: False
+IPFilterSecurityEnabled: 
+IPPortSecurityEnabled: 
+IPSecPermitIPProtocols: 
+IPSecPermitTCPPorts: 
+IPSecPermitUDPPorts: 
+IPSubnet: 
+IPUseZeroBroadcast: 
+IPXAddress: 
+IPXEnabled: 
+IPXFrameType: 
+IPXMediaType: 
+IPXNetworkNumber: 
+IPXVirtualNetNumber: 
+KeepAliveInterval: 
+KeepAliveTime: 
+MACAddress: 
+MTU: 
+NumForwardPackets: 
+PMTUBHDetectEnabled: 
+PMTUDiscoveryEnabled: 
+ServiceName: tunnel
+SettingID: {CD36B5B8-0ECB-4583-AEE4-0DFE15F837D7}
+TcpipNetbiosOptions: 
+TcpMaxConnectRetransmissions: 
+TcpMaxDataRetransmissions: 
+TcpNumConnections: 
+TcpUseRFC1122UrgentPointer: 
+TcpWindowSize: 
+WINSEnableLMHostsLookup: 
+WINSHostLookupFile: 
+WINSPrimaryServer: 
+WINSScopeID: 
+WINSSecondaryServer: 
+

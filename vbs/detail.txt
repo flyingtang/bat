@@ -1,0 +1,1151 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+ProcessId: 0
+Name: DESKTOP-JK64T46
+ParentProcessId: 0
+ThreadCount: 6
+HandleCount: 0
+ProMemPercent:6.25
+CpuTime:5773040.78125
+ProcessId: 4
+Name: DESKTOP-JK64T46
+ParentProcessId: 0
+ThreadCount: 169
+HandleCount: 1761
+ProMemPercent:78.442900940399
+CpuTime:62837.96875
+ProcessId: 316
+Name: DESKTOP-JK64T46
+ParentProcessId: 4
+ThreadCount: 2
+HandleCount: 49
+ProMemPercent:1.89989413473232E-05
+CpuTime:6.875
+ProcessId: 496
+Name: DESKTOP-JK64T46
+ParentProcessId: 440
+ThreadCount: 13
+HandleCount: 526
+ProMemPercent:6.38859793140254E-05
+CpuTime:19062500.5
+ProcessId: 616
+Name: DESKTOP-JK64T46
+ParentProcessId: 608
+ThreadCount: 12
+HandleCount: 937
+ProMemPercent:8.52631418443047E-04
+CpuTime:10909375001.625
+ProcessId: 636
+Name: DESKTOP-JK64T46
+ParentProcessId: 440
+ThreadCount: 1
+HandleCount: 86
+ProMemPercent:4.87999003707194E-05
+CpuTime:.3125
+ProcessId: 708
+Name: DESKTOP-JK64T46
+ParentProcessId: 608
+ThreadCount: 3
+HandleCount: 204
+ProMemPercent:1.68190610183837E-04
+CpuTime:140625.0625
+ProcessId: 752
+Name: DESKTOP-JK64T46
+ParentProcessId: 636
+ThreadCount: 6
+HandleCount: 301
+ProMemPercent:2.04329871799043E-04
+CpuTime:345312505.78125
+ProcessId: 764
+Name: DESKTOP-JK64T46
+ParentProcessId: 636
+ThreadCount: 7
+HandleCount: 1445
+ProMemPercent:4.03252936574961E-04
+CpuTime:685937509.5
+ProcessId: 852
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 23
+HandleCount: 656
+ProMemPercent:4.41990967217048E-04
+CpuTime:321875001.15625
+ProcessId: 908
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 13
+HandleCount: 737
+ProMemPercent:2.84978111948782E-04
+CpuTime:6625000016.54688
+ProcessId: 1016
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 27
+HandleCount: 1027
+ProMemPercent:5.5712212755924E-04
+CpuTime:74656250026.0938
+ProcessId: 520
+Name: DESKTOP-JK64T46
+ParentProcessId: 708
+ThreadCount: 8
+HandleCount: 915
+ProMemPercent:2.85839574874817E-03
+CpuTime:1269843750233.86
+ProcessId: 528
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 36
+HandleCount: 694
+ProMemPercent:7.14467597269404E-04
+CpuTime:682812507.78125
+ProcessId: 8
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 34
+HandleCount: 985
+ProMemPercent:6.69576900558737E-04
+CpuTime:20015625022.5469
+ProcessId: 940
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 58
+HandleCount: 1871
+ProMemPercent:1.32960295800247E-03
+CpuTime:1674375000861.06
+ProcessId: 980
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 58
+HandleCount: 1108
+ProMemPercent:6.66708127151782E-04
+CpuTime:15593750017.875
+ProcessId: 1028
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 14
+HandleCount: 304
+ProMemPercent:2.24070696819356E-04
+CpuTime:284375004.328125
+ProcessId: 1092
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 4
+HandleCount: 124
+ProMemPercent:4.05894519131334
+CpuTime:.15625
+ProcessId: 1448
+Name: DESKTOP-JK64T46
+ParentProcessId: 1092
+ThreadCount: 8
+HandleCount: 211
+ProMemPercent:5.76995442572229
+CpuTime:2554687504.20313
+ProcessId: 1504
+Name: DESKTOP-JK64T46
+ParentProcessId: 1016
+ThreadCount: 13
+HandleCount: 366
+ProMemPercent:5.42755536668507E-04
+CpuTime:6406250.90625
+ProcessId: 1800
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 25
+HandleCount: 574
+ProMemPercent:9.21942063004411E-04
+CpuTime:36265625013.9375
+ProcessId: 1816
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 21
+HandleCount: 602
+ProMemPercent:4.47575600315011E-04
+CpuTime:14062500.625
+ProcessId: 1992
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 14
+HandleCount: 454
+ProMemPercent:5.12745004388561E-04
+CpuTime:145312502.765625
+ProcessId: 2000
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 8
+HandleCount: 277
+ProMemPercent:3.17767624357882
+CpuTime:135937501
+ProcessId: 2008
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 4
+HandleCount: 144
+ProMemPercent:9.11984331007467
+CpuTime:753125002.625
+ProcessId: 1416
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 51
+HandleCount: 902
+ProMemPercent:17.6856941508104
+CpuTime:3541875000485.38
+ProcessId: 1328
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 3
+HandleCount: 106
+ProMemPercent:2.21407226297202
+CpuTime:31250.015625
+ProcessId: 1932
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 5
+HandleCount: 280
+ProMemPercent:9.86930378174229
+CpuTime:18957812501.6563
+ProcessId: 824
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 3
+HandleCount: 289
+ProMemPercent:4.71307992975698
+CpuTime:1250000.53125
+ProcessId: 2052
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 3
+HandleCount: 195
+ProMemPercent:3.00262250640893
+CpuTime:15625.03125
+ProcessId: 2084
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 6
+HandleCount: 248
+ProMemPercent:9.29437456601068E-05
+CpuTime:140625.046875
+ProcessId: 2096
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 20
+HandleCount: 405
+ProMemPercent:7.41312741312741
+CpuTime:221875003.015625
+ProcessId: 2128
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 24
+HandleCount: 479
+ProMemPercent:3.11758906445682
+CpuTime:1248437508.54688
+ProcessId: 2168
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 4
+HandleCount: 221
+ProMemPercent:3.83203272535093E-04
+CpuTime:125000003.34375
+ProcessId: 2188
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 21
+HandleCount: 248
+ProMemPercent:3.54889589905363
+CpuTime:5468750.734375
+ProcessId: 2236
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 2
+HandleCount: 64
+ProMemPercent:2.51483911277726
+CpuTime:15625.015625
+ProcessId: 2244
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 6
+HandleCount: 261
+ProMemPercent:8.33793049097644
+CpuTime:45671875011.2188
+ProcessId: 2556
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 3
+HandleCount: 188
+ProMemPercent:2.54176937825253
+CpuTime:31250.03125
+ProcessId: 2564
+Name: DESKTOP-JK64T46
+ParentProcessId: 1016
+ThreadCount: 10
+HandleCount: 152
+ProMemPercent:1.79742251102011E-04
+CpuTime:1640625004.4375
+ProcessId: 2756
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 4
+HandleCount: 131
+ProMemPercent:1.78454366669095
+CpuTime:78125.046875
+ProcessId: 2808
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 36
+HandleCount: 1011
+ProMemPercent:1.09480651672989E-02
+CpuTime:2401562500615.66
+ProcessId: 2852
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 25
+HandleCount: 309
+ProMemPercent:2.20293271083109
+CpuTime:6406250.484375
+ProcessId: 2884
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 11
+HandleCount: 159
+ProMemPercent:.0263630485736
+CpuTime:1618750003.59375
+ProcessId: 2892
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 7
+HandleCount: 209
+ProMemPercent:5.21183981427742
+CpuTime:312500.328125
+ProcessId: 3272
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 3
+HandleCount: 101
+ProMemPercent:8.34452943807123E-05
+CpuTime:.15625
+ProcessId: 3336
+Name: DESKTOP-JK64T46
+ParentProcessId: 1328
+ThreadCount: 17
+HandleCount: 284
+ProMemPercent:1.05026142044804
+CpuTime:1875000.421875
+ProcessId: 3436
+Name: DESKTOP-JK64T46
+ParentProcessId: 3336
+ThreadCount: 2
+HandleCount: 53
+ProMemPercent:1.93712504127613E-05
+CpuTime:.15625
+ProcessId: 3672
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 17
+HandleCount: 359
+ProMemPercent:16.2664766654792
+CpuTime:1093750.796875
+ProcessId: 3820
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 8
+HandleCount: 277
+ProMemPercent:5.70513419051159E-04
+CpuTime:26878593750822.3
+ProcessId: 4348
+Name: DESKTOP-JK64T46
+ParentProcessId: 2128
+ThreadCount: 3
+HandleCount: 191
+ProMemPercent:.396854029872285
+CpuTime:312500.171875
+ProcessId: 4632
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 11
+HandleCount: 286
+ProMemPercent:4.55773523495036E-04
+CpuTime:2750000010.375
+ProcessId: 5300
+Name: DESKTOP-JK64T46
+ParentProcessId: 940
+ThreadCount: 9
+HandleCount: 448
+ProMemPercent:6.92311919162732E-04
+CpuTime:7812500.765625
+ProcessId: 5504
+Name: DESKTOP-JK64T46
+ParentProcessId: 940
+ThreadCount: 10
+HandleCount: 407
+ProMemPercent:8.08047417794249E-04
+CpuTime:18015625012.8125
+ProcessId: 5612
+Name: DESKTOP-JK64T46
+ParentProcessId: 5564
+ThreadCount: 82
+HandleCount: 2364
+ProMemPercent:4.43175942813713E-03
+CpuTime:103906250061.766
+ProcessId: 5700
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 11
+HandleCount: 596
+ProMemPercent:1.03217832696502E-03
+CpuTime:240625002.921875
+ProcessId: 5788
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 19
+HandleCount: 590
+ProMemPercent:1.13965045760141E-03
+CpuTime:331250004.21875
+ProcessId: 5856
+Name: DESKTOP-JK64T46
+ParentProcessId: 2188
+ThreadCount: 3
+HandleCount: 116
+ProMemPercent:1.79915549843951
+CpuTime:1250000.125
+ProcessId: 6116
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 67
+HandleCount: 986
+ProMemPercent:16.7546303301085
+CpuTime:148437502.75
+ProcessId: 6388
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 32
+HandleCount: 696
+ProMemPercent:1.77677936636718E-03
+CpuTime:14250000037.9219
+ProcessId: 6616
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 1
+HandleCount: 160
+ProMemPercent:2.14194806816735E-04
+CpuTime:62500.046875
+ProcessId: 6896
+Name: DESKTOP-JK64T46
+ParentProcessId: 6844
+ThreadCount: 32
+HandleCount: 4435
+ProMemPercent:36.6724046610169
+CpuTime:754687505.1875
+ProcessId: 3788
+Name: DESKTOP-JK64T46
+ParentProcessId: 5340
+ThreadCount: 20
+HandleCount: 706
+ProMemPercent:5.93226312357927
+CpuTime:418750002.609375
+ProcessId: 8464
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 13
+HandleCount: 366
+ProMemPercent:7.62201376326439
+CpuTime:9531250.828125
+ProcessId: 8732
+Name: DESKTOP-JK64T46
+ParentProcessId: 8692
+ThreadCount: 3
+HandleCount: 149
+ProMemPercent:3.90928310590044
+CpuTime:.078125
+ProcessId: 9020
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 56
+HandleCount: 1377
+ProMemPercent:18.1835129624235
+CpuTime:66828125091.1094
+ProcessId: 8108
+Name: DESKTOP-JK64T46
+ParentProcessId: 9020
+ThreadCount: 10
+HandleCount: 465
+ProMemPercent:1.35275888230226
+CpuTime:1875000.234375
+ProcessId: 8776
+Name: DESKTOP-JK64T46
+ParentProcessId: 9020
+ThreadCount: 11
+HandleCount: 244
+ProMemPercent:.823764667412876
+CpuTime:781250.421875
+ProcessId: 1056
+Name: DESKTOP-JK64T46
+ParentProcessId: 2000
+ThreadCount: 56
+HandleCount: 798
+ProMemPercent:11.7181658911095
+CpuTime:2627968750162.58
+ProcessId: 1524
+Name: DESKTOP-JK64T46
+ParentProcessId: 1056
+ThreadCount: 21
+HandleCount: 485
+ProMemPercent:2.90471761145537
+CpuTime:512437500097.781
+ProcessId: 2768
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 3
+HandleCount: 103
+ProMemPercent:1.68751235215736E-04
+CpuTime:104218750094.75
+ProcessId: 4192
+Name: DESKTOP-JK64T46
+ParentProcessId: 9020
+ThreadCount: 57
+HandleCount: 904
+ProMemPercent:2.16326872658055
+CpuTime:482812502.328125
+ProcessId: 8204
+Name: DESKTOP-JK64T46
+ParentProcessId: 1056
+ThreadCount: 38
+HandleCount: 978
+ProMemPercent:4.55992593930636
+CpuTime:1064062507.4375
+ProcessId: 8984
+Name: DESKTOP-JK64T46
+ParentProcessId: 940
+ThreadCount: 6
+HandleCount: 357
+ProMemPercent:2.92445166531275
+CpuTime:7968750.53125
+ProcessId: 6676
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 36
+HandleCount: 861
+ProMemPercent:15.6092430227703
+CpuTime:153593750138.781
+ProcessId: 784
+Name: DESKTOP-JK64T46
+ParentProcessId: 708
+ThreadCount: 5
+HandleCount: 35
+ProMemPercent:3.96732740853155E-05
+CpuTime:.15625
+ProcessId: 6404
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 1
+HandleCount: 170
+ProMemPercent:6.65127294020964E-04
+CpuTime:.15625
+ProcessId: 8696
+Name: DESKTOP-JK64T46
+ParentProcessId: 1416
+ThreadCount: 5
+HandleCount: 218
+ProMemPercent:7.28705707548693
+CpuTime:3437500.59375
+ProcessId: 5036
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 79
+HandleCount: 2213
+ProMemPercent:9.98825952204296
+CpuTime:19779687501719.1
+ProcessId: 576
+Name: DESKTOP-JK64T46
+ParentProcessId: 5036
+ThreadCount: 3
+HandleCount: 34
+ProMemPercent:6.79436212504518
+CpuTime:578125002.34375
+ProcessId: 8312
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 3
+HandleCount: 110
+ProMemPercent:1.38577425725056E-04
+CpuTime:.625
+ProcessId: 9772
+Name: DESKTOP-JK64T46
+ParentProcessId: 752
+ThreadCount: 3
+HandleCount: 103
+ProMemPercent:1.75644499318212E-04
+CpuTime:10468750.71875
+ProcessId: 9476
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 19
+HandleCount: 621
+ProMemPercent:1.11334363805069E-03
+CpuTime:13593750.703125
+ProcessId: 9840
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 31
+HandleCount: 698
+ProMemPercent:10.2179809925258
+CpuTime:248437504.625
+ProcessId: 5916
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 37
+HandleCount: 856
+ProMemPercent:1.91503654611629
+CpuTime:1718750.1875
+ProcessId: 6660
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 23
+HandleCount: 4491
+ProMemPercent:7.54523330864459
+CpuTime:773437507.53125
+ProcessId: 9492
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 26
+HandleCount: 639
+ProMemPercent:6.69733790323895
+CpuTime:233828125097.422
+ProcessId: 4176
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 11
+HandleCount: 873
+ProMemPercent:1.57014680585799E-03
+CpuTime:532593750041.25
+ProcessId: 5364
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 8
+HandleCount: 229
+ProMemPercent:3.71960614962392E-04
+CpuTime:128125001.796875
+ProcessId: 5768
+Name: DESKTOP-JK64T46
+ParentProcessId: 5036
+ThreadCount: 21
+HandleCount: 254
+ProMemPercent:19.96781950633
+CpuTime:93156250018.9531
+ProcessId: 8508
+Name: DESKTOP-JK64T46
+ParentProcessId: 5768
+ThreadCount: 1
+HandleCount: 86
+ProMemPercent:1.58318597488401E-05
+CpuTime:15625.015625
+ProcessId: 3768
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 17
+HandleCount: 517
+ProMemPercent:6.5588555112882E-04
+CpuTime:7656250.484375
+ProcessId: 3292
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 27
+HandleCount: 725
+ProMemPercent:2.09406621029495E-03
+CpuTime:12656250012.7969
+ProcessId: 5280
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 16
+HandleCount: 730
+ProMemPercent:13.9058203337853
+CpuTime:1143750007.76563
+ProcessId: 9348
+Name: DESKTOP-JK64T46
+ParentProcessId: 5280
+ThreadCount: 3
+HandleCount: 130
+ProMemPercent:4.88604495003357
+CpuTime:3281250.296875
+ProcessId: 11032
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 25
+HandleCount: 841
+ProMemPercent:.12995818869379
+CpuTime:29578125018.6719
+ProcessId: 13892
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 42
+HandleCount: 2554
+ProMemPercent:1.01475982027533E-02
+CpuTime:594218750133.844
+ProcessId: 516
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 8
+HandleCount: 302
+ProMemPercent:1.68187904533468E-04
+CpuTime:234375.078125
+ProcessId: 12572
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 19
+HandleCount: 769
+ProMemPercent:6.27456576121023E-03
+CpuTime:283593750148.344
+ProcessId: 15080
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 395
+ProMemPercent:1.45334673096535E-03
+CpuTime:13031250027.3438
+ProcessId: 13492
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 7
+HandleCount: 202
+ProMemPercent:2.80101969185006E-04
+CpuTime:2656250.5
+ProcessId: 15084
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 351
+ProMemPercent:1.95945574753375E-03
+CpuTime:1156250010.07813
+ProcessId: 11672
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 211
+ProMemPercent:5.05755162903348E-04
+CpuTime:109375.03125
+ProcessId: 14364
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 220
+ProMemPercent:3.89297863637038E-03
+CpuTime:3015625023.28125
+ProcessId: 12664
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 15
+HandleCount: 212
+ProMemPercent:1.18752174234469E-03
+CpuTime:1156250010.82813
+ProcessId: 11648
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 209
+ProMemPercent:4.29548027000969E-04
+CpuTime:31250.046875
+ProcessId: 14876
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 15
+HandleCount: 216
+ProMemPercent:9.81017665050153E-04
+CpuTime:781250.6875
+ProcessId: 11336
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 209
+ProMemPercent:4.29733898064145E-04
+CpuTime:62500.0625
+ProcessId: 2080
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 19
+HandleCount: 414
+ProMemPercent:5.95099945708977E-03
+CpuTime:2109375064.5625
+ProcessId: 11096
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 209
+ProMemPercent:6.01849357053886E-04
+CpuTime:937500.421875
+ProcessId: 11796
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 23
+HandleCount: 1186
+ProMemPercent:2.9359987770781
+CpuTime:476562502.671875
+ProcessId: 13020
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 1
+HandleCount: 215
+ProMemPercent:8.0461818504485E-05
+CpuTime:5781250.234375
+ProcessId: 14080
+Name: DESKTOP-JK64T46
+ParentProcessId: 5036
+ThreadCount: 1
+HandleCount: 98
+ProMemPercent:2.06755813329037
+CpuTime:15625.015625
+ProcessId: 9436
+Name: DESKTOP-JK64T46
+ParentProcessId: 14080
+ThreadCount: 2
+HandleCount: 108
+ProMemPercent:2.26860092250142E-04
+CpuTime:46875.078125
+ProcessId: 10604
+Name: DESKTOP-JK64T46
+ParentProcessId: 14080
+ThreadCount: 1
+HandleCount: 37
+ProMemPercent:3.66938303083126E-05
+CpuTime:.3125
+ProcessId: 13588
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 15
+HandleCount: 281
+ProMemPercent:3.82581476663507E-03
+CpuTime:18750002.8125
+ProcessId: 2632
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 19
+HandleCount: 363
+ProMemPercent:9.55160720606742E-03
+CpuTime:160781250241.125
+ProcessId: 5580
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 5
+HandleCount: 218
+ProMemPercent:5.4610163762806E-04
+CpuTime:2343750.5
+ProcessId: 7808
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 13
+HandleCount: 247
+ProMemPercent:8.1840266414243E-04
+CpuTime:293750005.46875
+ProcessId: 7592
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 25
+HandleCount: 560
+ProMemPercent:2.44592525291668E-03
+CpuTime:120312501.8125
+ProcessId: 14864
+Name: DESKTOP-JK64T46
+ParentProcessId: 7024
+ThreadCount: 38
+HandleCount: 833
+ProMemPercent:4.19178776344944E-03
+CpuTime:10281250014.875
+ProcessId: 11368
+Name: DESKTOP-JK64T46
+ParentProcessId: 14864
+ThreadCount: 7
+HandleCount: 191
+ProMemPercent:4.37306828834442E-04
+CpuTime:.15625
+ProcessId: 10480
+Name: DESKTOP-JK64T46
+ParentProcessId: 14864
+ThreadCount: 18
+HandleCount: 533
+ProMemPercent:7.6215312969765E-03
+CpuTime:8031250034.79688
+ProcessId: 11304
+Name: DESKTOP-JK64T46
+ParentProcessId: 14864
+ThreadCount: 10
+HandleCount: 365
+ProMemPercent:1.01019027013823E-03
+CpuTime:3437500.203125
+ProcessId: 13008
+Name: DESKTOP-JK64T46
+ParentProcessId: 14864
+ThreadCount: 29
+HandleCount: 467
+ProMemPercent:7.72823604239886E-03
+CpuTime:68750000147.4063
+ProcessId: 13380
+Name: DESKTOP-JK64T46
+ParentProcessId: 13008
+ThreadCount: 22
+HandleCount: 249
+ProMemPercent:2.99635938617013E-03
+CpuTime:2562500010.90625
+ProcessId: 3748
+Name: DESKTOP-JK64T46
+ParentProcessId: 13008
+ThreadCount: 10
+HandleCount: 1407
+ProMemPercent:25.6386887300276
+CpuTime:312500.46875
+ProcessId: 904
+Name: DESKTOP-JK64T46
+ParentProcessId: 3748
+ThreadCount: 1
+HandleCount: 86
+ProMemPercent:2.18479664940927E-04
+CpuTime:15625.015625
+ProcessId: 14848
+Name: DESKTOP-JK64T46
+ParentProcessId: 13380
+ThreadCount: 8
+HandleCount: 155
+ProMemPercent:1.11900994996137E-03
+CpuTime:781250.625
+ProcessId: 10580
+Name: DESKTOP-JK64T46
+ParentProcessId: 14864
+ThreadCount: 26
+HandleCount: 340
+ProMemPercent:2.90629364859802E-03
+CpuTime:171875005.140625
+ProcessId: 11472
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 16
+HandleCount: 478
+ProMemPercent:4.44808008039748E-03
+CpuTime:2187500.40625
+ProcessId: 11676
+Name: DESKTOP-JK64T46
+ParentProcessId: 11472
+ThreadCount: 9
+HandleCount: 244
+ProMemPercent:8.04985654250451E-04
+CpuTime:125000.0625
+ProcessId: 15232
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 16
+HandleCount: 578
+ProMemPercent:3.91961769438099E-03
+CpuTime:7500000.65625
+ProcessId: 11484
+Name: DESKTOP-JK64T46
+ParentProcessId: 15232
+ThreadCount: 9
+HandleCount: 247
+ProMemPercent:8.70353135624762E-04
+CpuTime:12656250.421875
+ProcessId: 5196
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 17
+HandleCount: 354
+ProMemPercent:1.04335893286501E-02
+CpuTime:3390625096.21875
+ProcessId: 900
+Name: DESKTOP-JK64T46
+ParentProcessId: 9244
+ThreadCount: 19
+HandleCount: 592
+ProMemPercent:1.68975585374021E-03
+CpuTime:16562500.859375
+ProcessId: 11660
+Name: DESKTOP-JK64T46
+ParentProcessId: 4068
+ThreadCount: 7
+HandleCount: 276
+ProMemPercent:4.99363849384286E-04
+CpuTime:1406250.125
+ProcessId: 2200
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 9
+HandleCount: 284
+ProMemPercent:12.200320464371
+CpuTime:1084375005.35938
+ProcessId: 5428
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 1
+HandleCount: 38
+ProMemPercent:1.56274571277617E-04
+CpuTime:.9375
+ProcessId: 5212
+Name: DESKTOP-JK64T46
+ParentProcessId: 5428
+ThreadCount: 9
+HandleCount: 250
+ProMemPercent:9.18752152725878E-04
+CpuTime:12968750.5
+ProcessId: 14744
+Name: DESKTOP-JK64T46
+ParentProcessId: 14864
+ThreadCount: 25
+HandleCount: 446
+ProMemPercent:5.30324963103631E-03
+CpuTime:1093750014.75
+ProcessId: 12500
+Name: DESKTOP-JK64T46
+ParentProcessId: 14744
+ThreadCount: 6
+HandleCount: 247
+ProMemPercent:6.98686053094181
+CpuTime:.046875
+ProcessId: 12652
+Name: DESKTOP-JK64T46
+ParentProcessId: 12500
+ThreadCount: 1
+HandleCount: 86
+ProMemPercent:2.12519442898142E-04
+CpuTime:.15625
+ProcessId: 12152
+Name: DESKTOP-JK64T46
+ParentProcessId: 14744
+ThreadCount: 20
+HandleCount: 230
+ProMemPercent:1.41566081279954E-03
+CpuTime:20312501.109375
+ProcessId: 11908
+Name: DESKTOP-JK64T46
+ParentProcessId: 852
+ThreadCount: 31
+HandleCount: 664
+ProMemPercent:.18943759117825
+CpuTime:93750.078125
+ProcessId: 6096
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 16
+HandleCount: 349
+ProMemPercent:5.67595818920032E-03
+CpuTime:12500003.6875
+ProcessId: 8896
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 331
+ProMemPercent:2.63751536469791E-03
+CpuTime:20312501.796875
+ProcessId: 12880
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 335
+ProMemPercent:2.61038734737725E-03
+CpuTime:10937501.25
+ProcessId: 15036
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 308
+ProMemPercent:3.96135082806664E-03
+CpuTime:17187502.96875
+ProcessId: 5276
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 338
+ProMemPercent:4.56626832262093E-03
+CpuTime:6250002.359375
+ProcessId: 12808
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 302
+ProMemPercent:2.32323749292855E-03
+CpuTime:781250.6875
+ProcessId: 10704
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 274
+ProMemPercent:2.11490824133537E-03
+CpuTime:468750.5
+ProcessId: 12700
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 262
+ProMemPercent:2.09594444117981E-03
+CpuTime:468750.390625
+ProcessId: 3320
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 316
+ProMemPercent:2.6099792287248E-03
+CpuTime:781250.9375
+ProcessId: 1460
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 287
+ProMemPercent:3.25430737596666E-03
+CpuTime:15625003.046875
+ProcessId: 12504
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 329
+ProMemPercent:2.74735583217281E-03
+CpuTime:1406250.984375
+ProcessId: 10900
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 18
+HandleCount: 381
+ProMemPercent:5.71033551046836E-03
+CpuTime:39062504.890625
+ProcessId: 13452
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 14
+HandleCount: 294
+ProMemPercent:4.64393640292741E-03
+CpuTime:35937504.078125
+ProcessId: 12192
+Name: DESKTOP-JK64T46
+ParentProcessId: 5612
+ThreadCount: 1
+HandleCount: 39
+ProMemPercent:1.44353900959098E-04
+CpuTime:0
+ProcessId: 1624
+Name: DESKTOP-JK64T46
+ParentProcessId: 12192
+ThreadCount: 11
+HandleCount: 258
+ProMemPercent:9.69621394787339E-04
+CpuTime:4375000.265625
+ProcessId: 11504
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 21
+HandleCount: 444
+ProMemPercent:7.28265805857364E-03
+CpuTime:31250006.515625
+ProcessId: 7504
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 13
+HandleCount: 244
+ProMemPercent:2.63204059311768E-03
+CpuTime:312500.234375
+ProcessId: 11512
+Name: DESKTOP-JK64T46
+ParentProcessId: 13892
+ThreadCount: 13
+HandleCount: 191
+ProMemPercent:9.85124257542284E-04
+CpuTime:.3125
+ProcessId: 14488
+Name: DESKTOP-JK64T46
+ParentProcessId: 12192
+ThreadCount: 10
+HandleCount: 182
+ProMemPercent:4.98047561362919E-04
+CpuTime:.15625

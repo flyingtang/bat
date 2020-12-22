@@ -1,0 +1,201 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+AvgDiskBytesPerRead: 0
+AvgDiskBytesPerTransfer: 0
+AvgDiskBytesPerWrite: 0
+AvgDiskQueueLength: 0
+AvgDiskReadQueueLength: 0
+AvgDisksecPerRead: 0
+AvgDisksecPerTransfer: 0
+AvgDisksecPerWrite: 0
+AvgDiskWriteQueueLength: 0
+Caption: 
+CurrentDiskQueueLength: 0
+Description: 
+DiskBytesPersec: 0
+DiskReadBytesPersec: 0
+DiskReadsPersec: 0
+DiskTransfersPersec: 0
+DiskWriteBytesPersec: 0
+DiskWritesPersec: 0
+FreeMegabytes: 484276
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+Name: _Total
+PercentDiskReadTime: 0
+PercentDiskTime: 0
+PercentDiskWriteTime: 0
+PercentFreeSpace: 45
+PercentIdleTime: 100
+SplitIOPerSec: 0
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+
+AvgDiskBytesPerRead: 0
+AvgDiskBytesPerTransfer: 0
+AvgDiskBytesPerWrite: 0
+AvgDiskQueueLength: 0
+AvgDiskReadQueueLength: 0
+AvgDisksecPerRead: 0
+AvgDisksecPerTransfer: 0
+AvgDisksecPerWrite: 0
+AvgDiskWriteQueueLength: 0
+Caption: 
+CurrentDiskQueueLength: 0
+Description: 
+DiskBytesPersec: 0
+DiskReadBytesPersec: 0
+DiskReadsPersec: 0
+DiskTransfersPersec: 0
+DiskWriteBytesPersec: 0
+DiskWritesPersec: 0
+FreeMegabytes: 15566
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+Name: C:
+PercentDiskReadTime: 0
+PercentDiskTime: 0
+PercentDiskWriteTime: 0
+PercentFreeSpace: 13
+PercentIdleTime: 100
+SplitIOPerSec: 0
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+
+AvgDiskBytesPerRead: 0
+AvgDiskBytesPerTransfer: 0
+AvgDiskBytesPerWrite: 0
+AvgDiskQueueLength: 0
+AvgDiskReadQueueLength: 0
+AvgDisksecPerRead: 0
+AvgDisksecPerTransfer: 0
+AvgDisksecPerWrite: 0
+AvgDiskWriteQueueLength: 0
+Caption: 
+CurrentDiskQueueLength: 0
+Description: 
+DiskBytesPersec: 0
+DiskReadBytesPersec: 0
+DiskReadsPersec: 0
+DiskTransfersPersec: 0
+DiskWriteBytesPersec: 0
+DiskWritesPersec: 0
+FreeMegabytes: 51
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+Name: D:
+PercentDiskReadTime: 0
+PercentDiskTime: 0
+PercentDiskWriteTime: 0
+PercentFreeSpace: 11
+PercentIdleTime: 100
+SplitIOPerSec: 0
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+
+AvgDiskBytesPerRead: 0
+AvgDiskBytesPerTransfer: 0
+AvgDiskBytesPerWrite: 0
+AvgDiskQueueLength: 0
+AvgDiskReadQueueLength: 0
+AvgDisksecPerRead: 0
+AvgDisksecPerTransfer: 0
+AvgDisksecPerWrite: 0
+AvgDiskWriteQueueLength: 0
+Caption: 
+CurrentDiskQueueLength: 0
+Description: 
+DiskBytesPersec: 0
+DiskReadBytesPersec: 0
+DiskReadsPersec: 0
+DiskTransfersPersec: 0
+DiskWriteBytesPersec: 0
+DiskWritesPersec: 0
+FreeMegabytes: 191900
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+Name: E:
+PercentDiskReadTime: 0
+PercentDiskTime: 0
+PercentDiskWriteTime: 0
+PercentFreeSpace: 62
+PercentIdleTime: 100
+SplitIOPerSec: 0
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+
+AvgDiskBytesPerRead: 0
+AvgDiskBytesPerTransfer: 0
+AvgDiskBytesPerWrite: 0
+AvgDiskQueueLength: 0
+AvgDiskReadQueueLength: 0
+AvgDisksecPerRead: 0
+AvgDisksecPerTransfer: 0
+AvgDisksecPerWrite: 0
+AvgDiskWriteQueueLength: 0
+Caption: 
+CurrentDiskQueueLength: 0
+Description: 
+DiskBytesPersec: 0
+DiskReadBytesPersec: 0
+DiskReadsPersec: 0
+DiskTransfersPersec: 0
+DiskWriteBytesPersec: 0
+DiskWritesPersec: 0
+FreeMegabytes: 180196
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+Name: F:
+PercentDiskReadTime: 0
+PercentDiskTime: 0
+PercentDiskWriteTime: 0
+PercentFreeSpace: 55
+PercentIdleTime: 100
+SplitIOPerSec: 0
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+
+AvgDiskBytesPerRead: 0
+AvgDiskBytesPerTransfer: 0
+AvgDiskBytesPerWrite: 0
+AvgDiskQueueLength: 0
+AvgDiskReadQueueLength: 0
+AvgDisksecPerRead: 0
+AvgDisksecPerTransfer: 0
+AvgDisksecPerWrite: 0
+AvgDiskWriteQueueLength: 0
+Caption: 
+CurrentDiskQueueLength: 0
+Description: 
+DiskBytesPersec: 0
+DiskReadBytesPersec: 0
+DiskReadsPersec: 0
+DiskTransfersPersec: 0
+DiskWriteBytesPersec: 0
+DiskWritesPersec: 0
+FreeMegabytes: 96563
+Frequency_Object: 
+Frequency_PerfTime: 
+Frequency_Sys100NS: 
+Name: G:
+PercentDiskReadTime: 0
+PercentDiskTime: 0
+PercentDiskWriteTime: 0
+PercentFreeSpace: 29
+PercentIdleTime: 100
+SplitIOPerSec: 0
+Timestamp_Object: 
+Timestamp_PerfTime: 
+Timestamp_Sys100NS: 
+

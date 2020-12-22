@@ -1,0 +1,577 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+AdapterType: 
+AdapterTypeId: 
+AutoSense: 
+Availability: 3
+Caption: [00000000] Microsoft Kernel Debug Network Adapter
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: Microsoft Kernel Debug Network Adapter
+DeviceID: 0
+ErrorCleared: 
+ErrorDescription: 
+GUID: 
+Index: 0
+InstallDate: 
+Installed: True
+InterfaceIndex: 7
+LastErrorCode: 
+MACAddress: 
+Manufacturer: Microsoft
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Microsoft Kernel Debug Network Adapter
+NetConnectionID: 
+NetConnectionStatus: 
+NetEnabled: 
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: False
+PNPDeviceID: ROOT\KDNIC\0000
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Microsoft Kernel Debug Network Adapter
+ServiceName: kdnic
+Speed: 
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 
+AdapterTypeId: 
+AutoSense: 
+Availability: 3
+Caption: [00000001] Realtek PCIe GbE Family Controller
+ConfigManagerErrorCode: 22
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: Realtek PCIe GbE Family Controller
+DeviceID: 1
+ErrorCleared: 
+ErrorDescription: 
+GUID: {63873666-EF0C-4A32-B341-383C16BC08FE}
+Index: 1
+InstallDate: 
+Installed: True
+InterfaceIndex: 9
+LastErrorCode: 
+MACAddress: 
+Manufacturer: Realtek
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Realtek PCIe GbE Family Controller
+NetConnectionID: 以太网
+NetConnectionStatus: 4
+NetEnabled: False
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: True
+PNPDeviceID: PCI\VEN_10EC&DEV_8168&SUBSYS_843C103C&REV_15\01000000684CE00000
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Realtek PCIe GbE Family Controller
+ServiceName: rt640x64
+Speed: 
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 
+AdapterTypeId: 
+AutoSense: 
+Availability: 3
+Caption: [00000002] Bluetooth Device (RFCOMM Protocol TDI)
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: Bluetooth Device (RFCOMM Protocol TDI)
+DeviceID: 2
+ErrorCleared: 
+ErrorDescription: 
+GUID: 
+Index: 2
+InstallDate: 
+Installed: True
+InterfaceIndex: 2
+LastErrorCode: 
+MACAddress: 
+Manufacturer: Microsoft
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Bluetooth Device (RFCOMM Protocol TDI)
+NetConnectionID: 
+NetConnectionStatus: 
+NetEnabled: 
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: False
+PNPDeviceID: BTH\MS_RFCOMM\6&1F5A82A4&0&0
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Bluetooth Device (RFCOMM Protocol TDI)
+ServiceName: RFCOMM
+Speed: 
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 以太网 802.3
+AdapterTypeId: 0
+AutoSense: 
+Availability: 3
+Caption: [00000003] Bluetooth Device (Personal Area Network)
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: Bluetooth Device (Personal Area Network)
+DeviceID: 3
+ErrorCleared: 
+ErrorDescription: 
+GUID: {2680216A-0568-4923-86FD-396CDCEEBB00}
+Index: 3
+InstallDate: 
+Installed: True
+InterfaceIndex: 6
+LastErrorCode: 
+MACAddress: 74:40:BB:DA:04:20
+Manufacturer: Microsoft
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Bluetooth Device (Personal Area Network)
+NetConnectionID: 蓝牙网络连接
+NetConnectionStatus: 7
+NetEnabled: False
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: True
+PNPDeviceID: BTH\MS_BTHPAN\6&1F5A82A4&0&2
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Bluetooth Device (Personal Area Network)
+ServiceName: BthPan
+Speed: 3000000
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 以太网 802.3
+AdapterTypeId: 0
+AutoSense: 
+Availability: 3
+Caption: [00000004] Microsoft Wi-Fi Direct Virtual Adapter
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: Microsoft Wi-Fi Direct Virtual Adapter
+DeviceID: 4
+ErrorCleared: 
+ErrorDescription: 
+GUID: 
+Index: 4
+InstallDate: 
+Installed: True
+InterfaceIndex: 3
+LastErrorCode: 
+MACAddress: 76:40:BB:DA:04:1F
+Manufacturer: Microsoft
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Microsoft Wi-Fi Direct Virtual Adapter
+NetConnectionID: 
+NetConnectionStatus: 
+NetEnabled: 
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: False
+PNPDeviceID: {5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&71CFEC6&0&01
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Microsoft Wi-Fi Direct Virtual Adapter
+ServiceName: vwifimp
+Speed: 9223372036854775807
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 隧道
+AdapterTypeId: 15
+AutoSense: 
+Availability: 3
+Caption: [00000005] Microsoft Teredo Tunneling Adapter
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: Microsoft Teredo Tunneling Adapter
+DeviceID: 5
+ErrorCleared: 
+ErrorDescription: 
+GUID: 
+Index: 5
+InstallDate: 
+Installed: True
+InterfaceIndex: 12
+LastErrorCode: 
+MACAddress: 
+Manufacturer: Microsoft
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Microsoft Teredo Tunneling Adapter
+NetConnectionID: 
+NetConnectionStatus: 
+NetEnabled: 
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: False
+PNPDeviceID: SWD\IP_TUNNEL_VBUS\TEREDO_TUNNEL_DEVICE
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Microsoft Teredo Tunneling Adapter
+ServiceName: tunnel
+Speed: 100000
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 以太网 802.3
+AdapterTypeId: 0
+AutoSense: 
+Availability: 3
+Caption: [00000006] Realtek RTL8821CE 802.11ac PCIe Adapter
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: Realtek RTL8821CE 802.11ac PCIe Adapter
+DeviceID: 6
+ErrorCleared: 
+ErrorDescription: 
+GUID: {2339A2F0-DF6D-40C0-8EDC-2FDAD046CC6A}
+Index: 6
+InstallDate: 
+Installed: True
+InterfaceIndex: 5
+LastErrorCode: 
+MACAddress: 74:40:BB:DA:04:1F
+Manufacturer: Realtek Semiconductor Corp.
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Realtek RTL8821CE 802.11ac PCIe Adapter
+NetConnectionID: WLAN
+NetConnectionStatus: 2
+NetEnabled: True
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: True
+PNPDeviceID: PCI\VEN_10EC&DEV_C821&SUBSYS_831A103C&REV_00\00E04CFFFEC8210100
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Realtek RTL8821CE 802.11ac PCIe Adapter
+ServiceName: RTWlanE
+Speed: 243650000
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 以太网 802.3
+AdapterTypeId: 0
+AutoSense: 
+Availability: 3
+Caption: [00000008] VMware Virtual Ethernet Adapter for VMnet1
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: VMware Virtual Ethernet Adapter for VMnet1
+DeviceID: 8
+ErrorCleared: 
+ErrorDescription: 
+GUID: {E427505A-C171-4EF9-A05A-54F7042E3D23}
+Index: 8
+InstallDate: 
+Installed: True
+InterfaceIndex: 14
+LastErrorCode: 
+MACAddress: 00:50:56:C0:00:01
+Manufacturer: VMware, Inc.
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: VMware Virtual Ethernet Adapter for VMnet1
+NetConnectionID: VMware Network Adapter VMnet1
+NetConnectionStatus: 2
+NetEnabled: True
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: True
+PNPDeviceID: ROOT\VMWARE\0000
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: VMware Virtual Ethernet Adapter for VMnet1
+ServiceName: VMnetAdapter
+Speed: 100000000
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 隧道
+AdapterTypeId: 15
+AutoSense: 
+Availability: 3
+Caption: [00000009] Microsoft ISATAP Adapter
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: Microsoft ISATAP Adapter
+DeviceID: 9
+ErrorCleared: 
+ErrorDescription: 
+GUID: 
+Index: 9
+InstallDate: 
+Installed: True
+InterfaceIndex: 13
+LastErrorCode: 
+MACAddress: 
+Manufacturer: Microsoft
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Microsoft ISATAP Adapter #2
+NetConnectionID: 
+NetConnectionStatus: 
+NetEnabled: 
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: False
+PNPDeviceID: SWD\IP_TUNNEL_VBUS\ISATAP_1
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Microsoft ISATAP Adapter
+ServiceName: tunnel
+Speed: 100000
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 以太网 802.3
+AdapterTypeId: 0
+AutoSense: 
+Availability: 3
+Caption: [00000010] VMware Virtual Ethernet Adapter for VMnet8
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: VMware Virtual Ethernet Adapter for VMnet8
+DeviceID: 10
+ErrorCleared: 
+ErrorDescription: 
+GUID: {BB877420-1817-472A-A656-C3B341400D72}
+Index: 10
+InstallDate: 
+Installed: True
+InterfaceIndex: 10
+LastErrorCode: 
+MACAddress: 00:50:56:C0:00:08
+Manufacturer: VMware, Inc.
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: VMware Virtual Ethernet Adapter for VMnet8
+NetConnectionID: VMware Network Adapter VMnet8
+NetConnectionStatus: 2
+NetEnabled: True
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: True
+PNPDeviceID: ROOT\VMWARE\0001
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: VMware Virtual Ethernet Adapter for VMnet8
+ServiceName: VMnetAdapter
+Speed: 100000000
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 隧道
+AdapterTypeId: 15
+AutoSense: 
+Availability: 3
+Caption: [00000012] Microsoft ISATAP Adapter
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: Microsoft ISATAP Adapter
+DeviceID: 12
+ErrorCleared: 
+ErrorDescription: 
+GUID: 
+Index: 12
+InstallDate: 
+Installed: True
+InterfaceIndex: 8
+LastErrorCode: 
+MACAddress: 
+Manufacturer: Microsoft
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Microsoft ISATAP Adapter #4
+NetConnectionID: 
+NetConnectionStatus: 
+NetEnabled: 
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: False
+PNPDeviceID: SWD\IP_TUNNEL_VBUS\ISATAP_3
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Microsoft ISATAP Adapter
+ServiceName: tunnel
+Speed: 100000
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 以太网 802.3
+AdapterTypeId: 0
+AutoSense: 
+Availability: 3
+Caption: [00000014] TAP-Windows Adapter V9
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: TAP-Windows Adapter V9
+DeviceID: 14
+ErrorCleared: 
+ErrorDescription: 
+GUID: {225A9B57-EE81-4DCC-9D0B-6D2BEE0DB52E}
+Index: 14
+InstallDate: 
+Installed: True
+InterfaceIndex: 4
+LastErrorCode: 
+MACAddress: 00:FF:22:5A:9B:57
+Manufacturer: TAP-Windows Provider V9
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: TAP-Windows Adapter V9
+NetConnectionID: SSTAP 1
+NetConnectionStatus: 7
+NetEnabled: False
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: True
+PNPDeviceID: ROOT\NET\0001
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: TAP-Windows Adapter V9
+ServiceName: tap0901
+Speed: 100000000
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 
+AdapterTypeId: 
+AutoSense: 
+Availability: 3
+Caption: [00000016] Microsoft ISATAP Adapter
+ConfigManagerErrorCode: 
+ConfigManagerUserConfig: 
+CreationClassName: Win32_NetworkAdapter
+Description: Microsoft ISATAP Adapter
+DeviceID: 16
+ErrorCleared: 
+ErrorDescription: 
+GUID: 
+Index: 16
+InstallDate: 
+Installed: True
+InterfaceIndex: 15
+LastErrorCode: 
+MACAddress: 
+Manufacturer: 
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Microsoft ISATAP Adapter
+NetConnectionID: 
+NetConnectionStatus: 
+NetEnabled: 
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: False
+PNPDeviceID: 
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Microsoft ISATAP Adapter
+ServiceName: 
+Speed: 
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+
+AdapterType: 隧道
+AdapterTypeId: 15
+AutoSense: 
+Availability: 3
+Caption: [00000017] Microsoft ISATAP Adapter
+ConfigManagerErrorCode: 0
+ConfigManagerUserConfig: False
+CreationClassName: Win32_NetworkAdapter
+Description: Microsoft ISATAP Adapter
+DeviceID: 17
+ErrorCleared: 
+ErrorDescription: 
+GUID: 
+Index: 17
+InstallDate: 
+Installed: True
+InterfaceIndex: 11
+LastErrorCode: 
+MACAddress: 
+Manufacturer: Microsoft
+MaxNumberControlled: 0
+MaxSpeed: 
+Name: Microsoft ISATAP Adapter
+NetConnectionID: 
+NetConnectionStatus: 
+NetEnabled: 
+NetworkAddresses: 
+PermanentAddress: 
+PhysicalAdapter: False
+PNPDeviceID: SWD\IP_TUNNEL_VBUS\ISATAP_0
+PowerManagementCapabilities: 
+PowerManagementSupported: False
+ProductName: Microsoft ISATAP Adapter
+ServiceName: tunnel
+Speed: 100000
+Status: 
+StatusInfo: 
+SystemCreationClassName: Win32_ComputerSystem
+SystemName: DESKTOP-JK64T46
+TimeOfLastReset: 20201222215446.492323+480
+

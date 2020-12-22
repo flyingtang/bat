@@ -1,0 +1,845 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+Caption: DESKTOP-JK64T46\Administrator
+Description: 管理计算机(域)的内置帐户
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Administrator
+SID: S-1-5-21-1378040621-233758120-3585781211-500
+SIDType: 1
+Status: Degraded
+
+Caption: DESKTOP-JK64T46\DefaultAccount
+Description: 系统管理的用户帐户。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: DefaultAccount
+SID: S-1-5-21-1378040621-233758120-3585781211-503
+SIDType: 1
+Status: Degraded
+
+Caption: DESKTOP-JK64T46\geesunn
+Description: 
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: geesunn
+SID: S-1-5-21-1378040621-233758120-3585781211-1001
+SIDType: 1
+Status: OK
+
+Caption: DESKTOP-JK64T46\Guest
+Description: 供来宾访问计算机或访问域的内置帐户
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Guest
+SID: S-1-5-21-1378040621-233758120-3585781211-501
+SIDType: 1
+Status: Degraded
+
+Caption: DESKTOP-JK64T46\Everyone
+Description: DESKTOP-JK64T46\Everyone
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Everyone
+SID: S-1-1-0
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\LOCAL
+Description: DESKTOP-JK64T46\LOCAL
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: LOCAL
+SID: S-1-2-0
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\CREATOR OWNER
+Description: DESKTOP-JK64T46\CREATOR OWNER
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: CREATOR OWNER
+SID: S-1-3-0
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\CREATOR GROUP
+Description: DESKTOP-JK64T46\CREATOR GROUP
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: CREATOR GROUP
+SID: S-1-3-1
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\CREATOR OWNER SERVER
+Description: DESKTOP-JK64T46\CREATOR OWNER SERVER
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: CREATOR OWNER SERVER
+SID: S-1-3-2
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\CREATOR GROUP SERVER
+Description: DESKTOP-JK64T46\CREATOR GROUP SERVER
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: CREATOR GROUP SERVER
+SID: S-1-3-3
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\OWNER RIGHTS
+Description: DESKTOP-JK64T46\OWNER RIGHTS
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: OWNER RIGHTS
+SID: S-1-3-4
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\DIALUP
+Description: DESKTOP-JK64T46\DIALUP
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: DIALUP
+SID: S-1-5-1
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\NETWORK
+Description: DESKTOP-JK64T46\NETWORK
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: NETWORK
+SID: S-1-5-2
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\BATCH
+Description: DESKTOP-JK64T46\BATCH
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: BATCH
+SID: S-1-5-3
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\INTERACTIVE
+Description: DESKTOP-JK64T46\INTERACTIVE
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: INTERACTIVE
+SID: S-1-5-4
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\SERVICE
+Description: DESKTOP-JK64T46\SERVICE
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: SERVICE
+SID: S-1-5-6
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\ANONYMOUS LOGON
+Description: DESKTOP-JK64T46\ANONYMOUS LOGON
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: ANONYMOUS LOGON
+SID: S-1-5-7
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\PROXY
+Description: DESKTOP-JK64T46\PROXY
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: PROXY
+SID: S-1-5-8
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\SYSTEM
+Description: DESKTOP-JK64T46\SYSTEM
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: SYSTEM
+SID: S-1-5-18
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\ENTERPRISE DOMAIN CONTROLLERS
+Description: DESKTOP-JK64T46\ENTERPRISE DOMAIN CONTROLLERS
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: ENTERPRISE DOMAIN CONTROLLERS
+SID: S-1-5-9
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\SELF
+Description: DESKTOP-JK64T46\SELF
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: SELF
+SID: S-1-5-10
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\Authenticated Users
+Description: DESKTOP-JK64T46\Authenticated Users
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Authenticated Users
+SID: S-1-5-11
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\RESTRICTED
+Description: DESKTOP-JK64T46\RESTRICTED
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: RESTRICTED
+SID: S-1-5-12
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\TERMINAL SERVER USER
+Description: DESKTOP-JK64T46\TERMINAL SERVER USER
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: TERMINAL SERVER USER
+SID: S-1-5-13
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\REMOTE INTERACTIVE LOGON
+Description: DESKTOP-JK64T46\REMOTE INTERACTIVE LOGON
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: REMOTE INTERACTIVE LOGON
+SID: S-1-5-14
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\IUSR
+Description: DESKTOP-JK64T46\IUSR
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: IUSR
+SID: S-1-5-17
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\LOCAL SERVICE
+Description: DESKTOP-JK64T46\LOCAL SERVICE
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: LOCAL SERVICE
+SID: S-1-5-19
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\NETWORK SERVICE
+Description: DESKTOP-JK64T46\NETWORK SERVICE
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: NETWORK SERVICE
+SID: S-1-5-20
+SIDType: 5
+Status: OK
+
+Caption: DESKTOP-JK64T46\BUILTIN
+Description: DESKTOP-JK64T46\BUILTIN
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: BUILTIN
+SID: S-1-5-32
+SIDType: 3
+Status: OK
+
+Caption: DESKTOP-JK64T46\Access Control Assistance Operators
+Description: 此组的成员可以远程查询此计算机上资源的授权属性和权限。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Access Control Assistance Operators
+SID: S-1-5-32-579
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Administrators
+Description: 管理员对计算机/域有不受限制的完全访问权
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Administrators
+SID: S-1-5-32-544
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Backup Operators
+Description: 备份操作员为了备份或还原文件可以替代安全限制
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Backup Operators
+SID: S-1-5-32-551
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Cryptographic Operators
+Description: 授权成员执行加密操作。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Cryptographic Operators
+SID: S-1-5-32-569
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Distributed COM Users
+Description: 成员允许启动、激活和使用此计算机上的分布式 COM 对象。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Distributed COM Users
+SID: S-1-5-32-562
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Event Log Readers
+Description: 此组的成员可以从本地计算机中读取事件日志
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Event Log Readers
+SID: S-1-5-32-573
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Guests
+Description: 按默认值，来宾跟用户组的成员有同等访问权，但来宾帐户的限制更多
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Guests
+SID: S-1-5-32-546
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Hyper-V Administrators
+Description: 此组的成员拥有对 Hyper-V 所有功能的完全且不受限制的访问权限。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Hyper-V Administrators
+SID: S-1-5-32-578
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\IIS_IUSRS
+Description: Internet 信息服务使用的内置组。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: IIS_IUSRS
+SID: S-1-5-32-568
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Network Configuration Operators
+Description: 此组中的成员有部分管理权限来管理网络功能的配置
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Network Configuration Operators
+SID: S-1-5-32-556
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Performance Log Users
+Description: 该组中的成员可以计划进行性能计数器日志记录、启用跟踪记录提供程序，以及在本地或通过远程访问此计算机来收集事件跟踪记录
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Performance Log Users
+SID: S-1-5-32-559
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Performance Monitor Users
+Description: 此组的成员可以从本地和远程访问性能计数器数据
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Performance Monitor Users
+SID: S-1-5-32-558
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Power Users
+Description: 包括高级用户以向下兼容，高级用户拥有有限的管理权限
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Power Users
+SID: S-1-5-32-547
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Remote Desktop Users
+Description: 此组中的成员被授予远程登录的权限
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Remote Desktop Users
+SID: S-1-5-32-555
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Remote Management Users
+Description: 此组的成员可以通过管理协议(例如，通过 Windows 远程管理服务实现的 WS-Management)访问 WMI 资源。这仅适用于授予用户访问权限的 WMI 命名空间。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Remote Management Users
+SID: S-1-5-32-580
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Replicator
+Description: 支持域中的文件复制
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Replicator
+SID: S-1-5-32-552
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\System Managed Accounts Group
+Description: 此组的成员由系统管理。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: System Managed Accounts Group
+SID: S-1-5-32-581
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Users
+Description: 防止用户进行有意或无意的系统范围的更改，但是可以运行大部分应用程序
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Users
+SID: S-1-5-32-545
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\__vmware__
+Description: VMware User Group
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: __vmware__
+SID: S-1-5-21-1378040621-233758120-3585781211-1002
+SIDType: 4
+Status: OK
+
+=========================================
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_UserAccount.Domain="DESKTOP-JK64T46",Name="Administrator"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-21-1378040621-233758120-3585781211-500"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_UserAccount.Domain="DESKTOP-JK64T46",Name="DefaultAccount"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-21-1378040621-233758120-3585781211-503"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_UserAccount.Domain="DESKTOP-JK64T46",Name="geesunn"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-21-1378040621-233758120-3585781211-1001"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_UserAccount.Domain="DESKTOP-JK64T46",Name="Guest"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-21-1378040621-233758120-3585781211-501"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="Everyone"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-1-0"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="LOCAL"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-2-0"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="CREATOR OWNER"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-3-0"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="CREATOR GROUP"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-3-1"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="CREATOR OWNER SERVER"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-3-2"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="CREATOR GROUP SERVER"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-3-3"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="OWNER RIGHTS"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-3-4"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="DIALUP"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-1"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="NETWORK"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-2"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="BATCH"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-3"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="INTERACTIVE"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-4"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="SERVICE"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-6"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="ANONYMOUS LOGON"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-7"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="PROXY"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-8"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="SYSTEM"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-18"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="ENTERPRISE DOMAIN CONTROLLERS"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-9"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="SELF"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-10"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="Authenticated Users"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-11"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="RESTRICTED"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-12"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="TERMINAL SERVER USER"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-13"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="REMOTE INTERACTIVE LOGON"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-14"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="IUSR"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-17"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="LOCAL SERVICE"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-19"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="NETWORK SERVICE"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-20"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="BUILTIN"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Access Control Assistance Operators"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-579"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Administrators"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-544"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Backup Operators"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-551"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Cryptographic Operators"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-569"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Distributed COM Users"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-562"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Event Log Readers"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-573"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Guests"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-546"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Hyper-V Administrators"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-578"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="IIS_IUSRS"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-568"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Network Configuration Operators"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-556"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Performance Log Users"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-559"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Performance Monitor Users"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-558"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Power Users"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-547"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Remote Desktop Users"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-555"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Remote Management Users"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-580"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Replicator"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-552"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="System Managed Accounts Group"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-581"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Users"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-32-545"
+
+Element: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="__vmware__"
+Setting: \\DESKTOP-JK64T46\root\cimv2:Win32_SID.SID="S-1-5-21-1378040621-233758120-3585781211-1002"
+
+=========================================
+Caption: DESKTOP-JK64T46\Access Control Assistance Operators
+Description: 此组的成员可以远程查询此计算机上资源的授权属性和权限。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Access Control Assistance Operators
+SID: S-1-5-32-579
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Administrators
+Description: 管理员对计算机/域有不受限制的完全访问权
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Administrators
+SID: S-1-5-32-544
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Backup Operators
+Description: 备份操作员为了备份或还原文件可以替代安全限制
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Backup Operators
+SID: S-1-5-32-551
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Cryptographic Operators
+Description: 授权成员执行加密操作。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Cryptographic Operators
+SID: S-1-5-32-569
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Distributed COM Users
+Description: 成员允许启动、激活和使用此计算机上的分布式 COM 对象。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Distributed COM Users
+SID: S-1-5-32-562
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Event Log Readers
+Description: 此组的成员可以从本地计算机中读取事件日志
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Event Log Readers
+SID: S-1-5-32-573
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Guests
+Description: 按默认值，来宾跟用户组的成员有同等访问权，但来宾帐户的限制更多
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Guests
+SID: S-1-5-32-546
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Hyper-V Administrators
+Description: 此组的成员拥有对 Hyper-V 所有功能的完全且不受限制的访问权限。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Hyper-V Administrators
+SID: S-1-5-32-578
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\IIS_IUSRS
+Description: Internet 信息服务使用的内置组。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: IIS_IUSRS
+SID: S-1-5-32-568
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Network Configuration Operators
+Description: 此组中的成员有部分管理权限来管理网络功能的配置
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Network Configuration Operators
+SID: S-1-5-32-556
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Performance Log Users
+Description: 该组中的成员可以计划进行性能计数器日志记录、启用跟踪记录提供程序，以及在本地或通过远程访问此计算机来收集事件跟踪记录
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Performance Log Users
+SID: S-1-5-32-559
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Performance Monitor Users
+Description: 此组的成员可以从本地和远程访问性能计数器数据
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Performance Monitor Users
+SID: S-1-5-32-558
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Power Users
+Description: 包括高级用户以向下兼容，高级用户拥有有限的管理权限
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Power Users
+SID: S-1-5-32-547
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Remote Desktop Users
+Description: 此组中的成员被授予远程登录的权限
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Remote Desktop Users
+SID: S-1-5-32-555
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Remote Management Users
+Description: 此组的成员可以通过管理协议(例如，通过 Windows 远程管理服务实现的 WS-Management)访问 WMI 资源。这仅适用于授予用户访问权限的 WMI 命名空间。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Remote Management Users
+SID: S-1-5-32-580
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Replicator
+Description: 支持域中的文件复制
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Replicator
+SID: S-1-5-32-552
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\System Managed Accounts Group
+Description: 此组的成员由系统管理。
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: System Managed Accounts Group
+SID: S-1-5-32-581
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\Users
+Description: 防止用户进行有意或无意的系统范围的更改，但是可以运行大部分应用程序
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: Users
+SID: S-1-5-32-545
+SIDType: 4
+Status: OK
+
+Caption: DESKTOP-JK64T46\__vmware__
+Description: VMware User Group
+Domain: DESKTOP-JK64T46
+InstallDate: 
+LocalAccount: True
+Name: __vmware__
+SID: S-1-5-21-1378040621-233758120-3585781211-1002
+SIDType: 4
+Status: OK
+
+=========================================
+=========================================
+GroupComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Administrators"
+PartComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_UserAccount.Domain="DESKTOP-JK64T46",Name="Administrator"
+
+GroupComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Administrators"
+PartComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_UserAccount.Domain="DESKTOP-JK64T46",Name="geesunn"
+
+GroupComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Guests"
+PartComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_UserAccount.Domain="DESKTOP-JK64T46",Name="Guest"
+
+GroupComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="IIS_IUSRS"
+PartComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="IUSR"
+
+GroupComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Performance Log Users"
+PartComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_UserAccount.Domain="DESKTOP-JK64T46",Name="geesunn"
+
+GroupComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="System Managed Accounts Group"
+PartComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_UserAccount.Domain="DESKTOP-JK64T46",Name="DefaultAccount"
+
+GroupComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Users"
+PartComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="INTERACTIVE"
+
+GroupComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_Group.Domain="DESKTOP-JK64T46",Name="Users"
+PartComponent: \\DESKTOP-JK64T46\root\cimv2:Win32_SystemAccount.Domain="DESKTOP-JK64T46",Name="Authenticated Users"
+
