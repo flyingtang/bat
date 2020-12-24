@@ -62,7 +62,7 @@ function GetServiceInfo()
 		WScript.Echo "SystemName: " & objItem.SystemName
 		WScript.Echo "TagId: " & objItem.TagId
 		WScript.Echo "WaitHint: " & objItem.WaitHint
-		WScript.Echo ""
+	
 	Next
 
 end function
@@ -193,17 +193,18 @@ function GetCPUInfo()
 		WScript.Echo "CpuManufacturer: " & objItem.Manufacturer
 		WScript.Echo "CpuMaxClockSpeed: " & objItem.MaxClockSpeed
 		WScript.Echo "CpuName: " & objItem.Name
-		' WScript.Echo "CpuNumberOfCores: " & objItem.NumberOfCores
-		' WScript.Echo "CpuNumberOfEnabledCore: " & objItem.NumberOfEnabledCore
-		' WScript.Echo "CpuNumberOfLogicalProcessors: " & objItem.NumberOfLogicalProcessors
+
 		WScript.Echo "CpuProcessorId: " & objItem.ProcessorId
 		WScript.Echo "CpuProcessorType: " & objItem.ProcessorType
 		WScript.Echo "CpuRevision: " & objItem.Revision
 		WScript.Echo "CpuRole: " & objItem.Role
-		' WScript.Echo "CpuSecondLevelAddressTranslationExtensions: " & objItem.SecondLevelAddressTranslationExtensions
-		' WScript.Echo "CpuSerialNumber: " & objItem.SerialNumber
 		WScript.Echo "CpuSocketDesignation: " & objItem.SocketDesignation
 		WScript.Echo "CpuSystemName: " & objItem.SystemName
+						' WScript.Echo "CpuNumberOfCores: " & objItem.NumberOfCores
+		' WScript.Echo "CpuNumberOfEnabledCore: " & objItem.NumberOfEnabledCore
+		' WScript.Echo "CpuNumberOfLogicalProcessors: " & objItem.NumberOfLogicalProcessors
+		' WScript.Echo "CpuSecondLevelAddressTranslationExtensions: " & objItem.SecondLevelAddressTranslationExtensions
+		' WScript.Echo "CpuSerialNumber: " & objItem.SerialNumber
 		' WScript.Echo "CpuThreadCount: " & objItem.ThreadCount
 		' WScript.Echo "CpuVirtualizationFirmwareEnabled: " & objItem.VirtualizationFirmwareEnabled
 		' WScript.Echo "CpuVMMonitorModeExtensions: " & objItem.VMMonitorModeExtensions
@@ -234,7 +235,6 @@ function GetSystemInfo()
 		WScript.Echo "SysNumberOfLicensedUsers: " & objItem.NumberOfLicensedUsers
 		WScript.Echo "SysNumberOfProcesses: " & objItem.NumberOfProcesses
 		WScript.Echo "SysNumberOfUsers: " & objItem.NumberOfUsers
-		' WScript.Echo "SysOSArchitecture: " & objItem.OSArchitecture
 		WScript.Echo "SysSerialNumber: " & objItem.SerialNumber
 		WScript.Echo "SysTotalSwapSpaceSize: " & objItem.TotalSwapSpaceSize
 		WScript.Echo "SysTotalVirtualMemorySize: " & objItem.TotalVirtualMemorySize

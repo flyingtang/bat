@@ -1,0 +1,135 @@
+系统信息
+
+```ini
+SysCaption=Microsoft Windows 10 企业版
+SysCSName=DESKTOP-JK64T46
+SysDescription=
+SysFreePhysicalMemory=8166280
+SysFreeSpaceInPagingFiles=9753800
+SysFreeVirtualMemory=13259152
+SysLargeSystemCache=
+SysManufacturer=Microsoft Corporation
+SysMaxNumberOfProcesses=-1
+SysMaxProcessMemorySize=137438953344
+SysName=Microsoft Windows 10 企业版
+SysNumberOfLicensedUsers=
+SysNumberOfProcesses=175
+SysNumberOfUsers=2
+SysSerialNumber=00329-00000-00003-AA066
+SysTotalSwapSpaceSize=
+SysTotalVirtualMemorySize=26640156
+SysTotalVisibleMemorySize=16678684
+SysVersion= 10.0.10240
+Sysruntime=1天19小时11分钟36秒
+```
+
+CPU 信息
+```ini
+CpuAddressWidth=64
+CpuCaption=Intel64 Family 6 Model 158 Stepping 10
+CpuCpuStatus=1
+CpuCreationClassName=Win32_Processor
+CpuCurrentClockSpeed=3000
+CpuCurrentVoltage=10
+CpuDataWidth=64
+CpuDescription=Intel64 Family 6 Model 158 Stepping 10
+CpuLoadPercentage=43
+CpuManufacturer=GenuineIntel
+CpuMaxClockSpeed=3000
+CpuName=Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz
+CpuProcessorId=BFEBFBFF000906EA
+CpuProcessorType=3
+CpuRevision=
+CpuRole=CPU
+CpuSocketDesignation=U3E1
+CpuSystemName=DESKTOP-JK64T46
+CpuCount=1
+```
+
+磁盘信息 列表
+```ini
+DiskName=G:
+DiskAvgDiskBytesPerRead=0
+DiskAvgDiskBytesPerTransfer=4096
+DiskAvgDiskBytesPerWrite=4096
+DiskAvgDisksecPerRead=0
+DiskAvgDisksecPerTransfer=0
+DiskAvgDisksecPerWrite=0
+DiskBytesPersec=65467
+DiskReadBytesPersec=0
+DiskReadsPersec=0
+DiskTransfersPersec=15
+DiskWriteBytesPersec=65467
+DiskWritesPersec=15
+DiskFreeMegabytes=96554
+DiskPercentDiskReadTime=0
+DiskPercentDiskTime=0
+DiskPercentDiskWriteTime=0
+DiskPercentFreeSpace=29
+DiskPercentIdleTime=99
+```
+
+网卡信息 列表
+```ini
+NetworkAdaptorBytesReceivedPersec=0
+NetworkAdaptorBytesSentPersec=0
+NetworkAdaptorBytesTotalPersec=0
+NetworkAdaptorCaption=
+NetworkAdaptorCurrentBandwidth=3000000
+NetworkAdaptorDescription=
+NetworkAdaptorFrequency_Object=
+NetworkAdaptorFrequency_PerfTime=
+NetworkAdaptorFrequency_Sys100NS=
+NetworkAdaptorName=Bluetooth Device [Personal Area Network]
+NetworkAdaptorOffloadedConnections=0
+NetworkAdaptorOutputQueueLength=0
+NetworkAdaptorPacketsOutboundDiscarded=0
+NetworkAdaptorPacketsOutboundErrors=0
+NetworkAdaptorPacketsPersec=0
+NetworkAdaptorPacketsReceivedDiscarded=0
+NetworkAdaptorPacketsReceivedErrors=0
+NetworkAdaptorPacketsReceivedNonUnicastPersec=0
+NetworkAdaptorPacketsReceivedPersec=0
+NetworkAdaptorPacketsReceivedUnicastPersec=0
+NetworkAdaptorPacketsReceivedUnknown=0
+NetworkAdaptorPacketsSentNonUnicastPersec=0
+NetworkAdaptorPacketsSentPersec=0
+NetworkAdaptorPacketsSentUnicastPersec=0
+NetworkAdaptorTCPActiveRSCConnections=0
+NetworkAdaptorTCPRSCAveragePacketSize=0
+NetworkAdaptorTCPRSCCoalescedPacketsPersec=0
+NetworkAdaptorTCPRSCExceptionsPersec=0
+NetworkAdaptorTimestamp_Object=
+NetworkAdaptorTimestamp_PerfTime=
+NetworkAdaptorTimestamp_Sys100NS=
+```
+
+服务信息 列表
+```ini
+ServiceAcceptPause=False
+ServiceAcceptStop=True
+ServiceCaption=Adobe Genuine Monitor Service
+ServiceCheckPoint=0
+ServiceCreationClassName=Win32_Service
+ServiceDelayedAutoStart=False
+ServiceDescription=Adobe Genuine Monitor Service
+ServiceDesktopInteract=False
+ServiceDisplayName=Adobe Genuine Monitor Service
+ServiceErrorControl=Normal
+ServiceExitCode=0
+ServiceInstallDate=
+ServiceName=AGMService
+ServicePathName="C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGMService.exe"
+ServiceProcessId=2096
+ServiceServiceSpecificExitCode=0
+ServiceServiceType=Own Process
+ServiceStarted=True
+ServiceStartMode=Auto
+ServiceStartName=LocalSystem
+ServiceState=Running
+ServiceStatus=OK
+ServiceSystemCreationClassName=Win32_ComputerSystem
+ServiceSystemName=DESKTOP-JK64T46
+ServiceTagId=0
+ServiceWaitHint=0
+```

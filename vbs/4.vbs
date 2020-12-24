@@ -9,7 +9,7 @@ WScript.Echo  DIc.Item("Age")'ÅÐ¶Ï¼üÊÇ·ñ´æÔÚ¡¡
 
 
 
-Class ProcessObject
+Class ClassProcess
     Public sttProcessName
     Public intProcessID
     Public intProcessMemUsed
@@ -22,6 +22,9 @@ Class ProcessObject
         ' Called automatically when all references to class instance are removed
     End Sub
 
+    function ToString()
+        ' todo
+    end function
 
 End Class
 

@@ -1,0 +1,3996 @@
+
+文件夹: \
+主机名:                             DESKTOP-JK64T46
+任务名:                             \360ZipUpdater
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           只使用交互方式
+上次运行时间:                       2020/12/23 9:18:24
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       C:\Program Files (x86)\360\360zip\360zipUpdate.exe /detectupdate
+起始于:                             N/A
+注释:                               此任务可使您安装的360压缩能及时获得最新版本。如果此任务被禁用或删除，则360压缩将无法自动获取最新的功能和安全修补。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       geesunn
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \AdobeGCInvoker-1.0
+下次运行时间:                       2020/12/25 16:29:00
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 16:29:00
+上次结果:                           0
+创建者:                             Adobe Systems Incorporated
+要运行的任务:                       C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGCInvokerUtility.exe -mode=scheduled
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Everyone
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           每天 
+开始时间:                           16:29:00
+开始日期:                           2020/10/9
+结束日期:                           N/A
+天:                                 每 1 天
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \AliWorkBenchUpdater
+下次运行时间:                       2020/12/25 6:40:00
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 5:39:59
+上次结果:                           -2147024894
+创建者:                             DESKTOP-JK64T46\geesunn
+要运行的任务:                       d:\Program Files (x86)\AlibabaSupplier\AliWorkbenchTask.exe /update
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           每天 
+开始时间:                           10:40:00
+开始日期:                           2020/1/1
+结束日期:                           N/A
+天:                                 每 1 天
+月:                                 N/A
+重复: 每:                           1 小时， 0 分钟
+重复: 截止: 时间:                   无
+重复: 截止: 持续时间:               24 小时， 0 分钟
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \BaiduPinyinUpdate
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           只使用交互方式
+上次运行时间:                       2020/12/23 9:13:24
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       e:\Program Files (x86)\Baidu\BaiduPinyin\5.5.5063.0\bdimeupdate.exe 
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       geesunn
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Git for Windows Updater
+下次运行时间:                       2020/12/25 16:28:20
+模式:                               就绪
+登录状态:                           只使用交互方式
+上次运行时间:                       2020/12/24 16:28:19
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       "C:\Program Files (x86)\Git\git-bash.exe" --hide --no-needs-console --command=cmd\git.exe update-git-for-windows --quiet --gui
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       geesunn
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           每天 
+开始时间:                           16:28:20
+开始日期:                           2020/7/17
+结束日期:                           N/A
+天:                                 每 1 天
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \RTKCPL
+下次运行时间:                       N/A
+模式:                               正在运行
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 9:09:24
+上次结果:                           267009
+创建者:                             Realtek
+要运行的任务:                       "C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe" -s
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \StartCN
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 9:08:23
+上次结果:                           1
+创建者:                             WORKGROUP\DESKTOP-THPC04N$
+要运行的任务:                       "C:\Program Files\AMD\CNext\CNext\cncmd.exe" startwithdelay
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft
+信息: 目前在你的访问级别上不存在任何可用的计划任务。
+
+文件夹: \Microsoft\Office
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Office\Office 15 Subscription Heartbeat
+下次运行时间:                       2020/12/26 2:36:22
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 3:13:52
+上次结果:                           1
+创建者:                             Microsoft Office
+要运行的任务:                       %ProgramFiles%\Common Files\Microsoft Shared\Office15\OLicenseHeartbeat.exe 
+起始于:                             N/A
+注释:                               Task used to ensure that the Microsoft Office Subscription licensing is current.
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 04:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           每天 
+开始时间:                           0:00:00
+开始日期:                           2010/1/1
+结束日期:                           N/A
+天:                                 每 1 天
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+文件夹: \Microsoft\VisualStudio
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\VisualStudio\VSIX Auto Update 14
+下次运行时间:                       2020/12/25 12:54:02
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 12:54:02
+上次结果:                           -2147024894
+创建者:                             Microsoft VisualStudio
+要运行的任务:                       C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\VSIXAutoUpdate.exe 
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           每天 
+开始时间:                           12:54:02
+开始日期:                           2019/8/23
+结束日期:                           N/A
+天:                                 每 1 天
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+文件夹: \Microsoft\Windows
+信息: 目前在你的访问级别上不存在任何可用的计划任务。
+
+文件夹: \Microsoft\Windows\.NET Framework
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:11
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 02:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:11
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 02:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 64 Critical
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2019/8/21 11:45:51
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 02:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           在空闲时间
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\.NET Framework\.NET Framework NGEN v4.0.30319 Critical
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2019/8/21 11:45:51
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 02:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           在空闲时间
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Active Directory Rights Management Services Client
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated)
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               更新用户的 AD RMS 权限策略模板。如果对服务器上模板分发 Web 服务的身份验证失败，此作业不会提供凭据提示。在此情况下，将无失败提示。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Everyone
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 01:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           每天 
+开始时间:                           3:00:00
+开始日期:                           2006/11/9
+结束日期:                           N/A
+天:                                 每 1 天
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Automated)
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               更新用户的 AD RMS 权限策略模板。如果对服务器上模板分发 Web 服务的身份验证失败，此作业不会提供凭据提示。在此情况下，将无失败提示。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Everyone
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 01:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Active Directory Rights Management Services Client\AD RMS Rights Policy Template Management (Manual)
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               更新用户的 AD RMS 权限策略模板。如果对服务器上模板分发 Web 服务的身份验证失败，此作业将提供凭据提示。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       Everyone
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 01:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\AppID
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\AppID\PolicyConverter
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\appidpolicyconverter.exe 
+起始于:                             N/A
+注释:                               将软件限制策略从 XML 格式转换为二进制格式。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\AppID\SmartScreenSpecific
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 11:55:08
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               用于在 Windows 中收集 SmartScreen 筛选器数据的任务
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试 60 分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\AppID\VerifiedPublisherCertStoreCheck
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\appidcertstorecheck.exe 
+起始于:                             N/A
+注释:                               检查 AppID 证书缓存中是否存在无效或吊销的证书。
+计划任务状态:                       已禁用
+空闲时间:                           仅在空闲 3 分钟后启动, 如果没空闲，重试 1380 分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       LOCAL SERVICE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           系统启动时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Application Experience
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser
+下次运行时间:                       2020/12/26 3:40:26
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 3:26:38
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\compattelrunner.exe 
+起始于:                             N/A
+注释:                               如果已选择加入 Microsoft 客户体验改善计划，则会收集程序遥测信息。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 96:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性, 每小时 
+开始时间:                           3:00:00
+开始日期:                           2008/9/1
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           24 小时， 0 分钟
+重复: 截止: 时间:                   无
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Application Experience\Microsoft Compatibility Appraiser
+下次运行时间:                       2020/12/26 3:48:14
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 3:26:38
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\compattelrunner.exe 
+起始于:                             N/A
+注释:                               如果已选择加入 Microsoft 客户体验改善计划，则会收集程序遥测信息。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 96:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Application Experience\ProgramDataUpdater
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 11:06:15
+上次结果:                           0
+创建者:                             $(@%SystemRoot%\system32\invagent.dll,-701)
+要运行的任务:                       %windir%\system32\compattelrunner.exe -maintenance
+起始于:                             N/A
+注释:                               $(@%SystemRoot%\system32\invagent.dll,-702)
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Application Experience\StartupAppTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 20:26:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\rundll32.exe Startupscan.dll,SusRunTask
+起始于:                             N/A
+注释:                               扫描启动项，并在启动项过多的情况下向用户发出通知。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\ApplicationData
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\ApplicationData\CleanupTemporaryState
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/22 20:21:55
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\rundll32.exe Windows.Storage.ApplicationData.dll,CleanupTemporaryState
+起始于:                             N/A
+注释:                               Cleans up each package's unused temporary files.
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\ApplicationData\DsSvcCleanup
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\dstokenclean.exe 
+起始于:                             N/A
+注释:                               针对数据共享服务执行维护。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\AppxDeploymentClient
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\AppxDeploymentClient\Pre-staged app cleanup
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2019/8/21 11:56:07
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       %windir%\system32\rundll32.exe %windir%\system32\AppxDeploymentClient.dll,AppxPreStageCleanupRunTask
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已禁用
+空闲时间:                           仅在空闲 15 分钟后启动, 如果没空闲，重试 15 分钟
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Autochk
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Autochk\Proxy
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 11:55:08
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\rundll32.exe /d acproxy.dll,PerformAutochkOperations
+起始于:                             N/A
+注释:                               如果已决定参加 Microsoft 客户体验改善计划，则此任务收集和上载自动检查 SQM 数据。
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲 10 分钟后启动, 如果没空闲，重试 525600 分钟
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           系统启动时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Bluetooth
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Bluetooth\UninstallDeviceTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft
+要运行的任务:                       BthUdTask.exe $(Arg0)
+起始于:                             N/A
+注释:                               卸载与指定 Bluetooth 服务 ID 关联的 PnP 设备
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\CertificateServicesClient
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\CertificateServicesClient\UserTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 1:08:28
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               证书服务客户端将自动管理数字标识，如用户和计算机的证书、 密钥以及凭据，以启用注册、漫游和其他服务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\CertificateServicesClient\UserTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 1:08:28
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               证书服务客户端将自动管理数字标识，如用户和计算机的证书、 密钥以及凭据，以启用注册、漫游和其他服务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           系统启动时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\CertificateServicesClient\UserTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 1:08:28
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               证书服务客户端将自动管理数字标识，如用户和计算机的证书、 密钥以及凭据，以启用注册、漫游和其他服务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\CertificateServicesClient\UserTask-Roam
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:48:34
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               证书服务客户端将自动管理数字标识，如用户和计算机的证书、 密钥以及凭据，以启用注册、漫游和其他服务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\CertificateServicesClient\UserTask-Roam
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:48:34
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               证书服务客户端将自动管理数字标识，如用户和计算机的证书、 密钥以及凭据，以启用注册、漫游和其他服务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Chkdsk
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Chkdsk\ProactiveScan
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               NTFS 卷状况扫描
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\CloudExperienceHost
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\CloudExperienceHost\CreateObjectTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2019/8/21 8:53:04
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:00:30
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Customer Experience Improvement Program
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Customer Experience Improvement Program\Consolidator
+下次运行时间:                       2020/12/25 6:00:00
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 0:00:00
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %SystemRoot%\System32\wsqmcons.exe 
+起始于:                             N/A
+注释:                               如果用户已同意参与 Windows 客户体验改善计划，此作业将收集使用情况数据，并向 Microsoft 发送这些数据。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性, 每小时 
+开始时间:                           0:00:00
+开始日期:                           2004/1/2
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           6 小时， 0 分钟
+重复: 截止: 时间:                   无
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Customer Experience Improvement Program\KernelCeipTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/21 20:26:00
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               “内核 CEIP (客户体验改善计划)”任务收集关于系统的其他信息并将此数据发送给 Microsoft。如果用户不同意参加 Windows CEIP，则此任务不执行任何操作。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       LOCAL SERVICE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Customer Experience Improvement Program\Uploader
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 0:30:19
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       %windir%\system32\WSqmCons.exe -u
+起始于:                             N/A
+注释:                               此作业根据用户参与 Windows 客户体验改善计划的情况发送关于 Windows 的数据
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       LOCAL SERVICE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:30:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性
+开始时间:                           0:05:00
+开始日期:                           2020/12/25
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Customer Experience Improvement Program\UsbCeip
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 20:26:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               USB CEIP (客户体验改善计划)任务收集通用串行总线相关的统计信息以及有关你计算机的信息，并将其发送到 Microsoft 的 Windows 设备连接工程组。接收的信息用于帮助改进 Windows 中 USB 的可靠性、稳定性和整体功能。如果用户不同意加入 Windows CEIP，则此任务不执行任何操作。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       Administrators
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Data Integrity Scan
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Data Integrity Scan\Data Integrity Scan
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               扫描容错卷的潜在损坏
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           每周
+开始时间:                           23:00:00
+开始日期:                           2011/1/1
+结束日期:                           N/A
+天:                                 SAT
+月:                                 每 4 周
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Data Integrity Scan\Data Integrity Scan
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               扫描容错卷的潜在损坏
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           系统启动时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Data Integrity Scan\Data Integrity Scan for Crash Recovery
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               扫描容错卷的快速崩溃恢复
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Defrag
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Defrag\ScheduledDefrag
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\defrag.exe -c -h -o -$
+起始于:                             N/A
+注释:                               此任务将优化本地存储驱动器。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Diagnosis
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Diagnosis\Scheduled
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/22 20:21:55
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               Windows 计划的维护任务通过自动修复问题或通过“安全性与维护”来报告问题对计算机系统执行定期维护。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\DiskCleanup
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\DiskCleanup\SilentCleanup
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 4:00:58
+上次结果:                           -2147020576
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\cleanmgr.exe /autoclean /d %systemdrive%
+起始于:                             N/A
+注释:                               该维护任务由系统用来在可用磁盘空间不足时启动无提示自动磁盘清理。
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\DiskDiagnostic
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticDataCollector
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2019/10/8 10:15:09
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\rundll32.exe dfdts.dll,DfdGetDefaultPolicyAndSMART
+起始于:                             N/A
+注释:                               Windows 磁盘诊断会为加入客户体验计划的用户向 Microsoft 报告常规的磁盘和系统信息。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\DiskDiagnostic\Microsoft-Windows-DiskDiagnosticResolver
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\DFDWiz.exe 
+起始于:                             N/A
+注释:                               Microsoft-Windows-DiskDiagnosticResolver 会向用户警告支持自我监视和报告技术(S.M.A.R.T.)标准的硬盘报告的错误。此任务会在检测到 S.M.A.R.T. 错误时由诊断策略服务自动触发。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\DiskFootprint
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\DiskFootprint\Diagnostics
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:11
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       %windir%\system32\disksnapshot.exe 
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 01:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Feedback
+信息: 目前在你的访问级别上不存在任何可用的计划任务。
+
+文件夹: \Microsoft\Windows\Feedback\Siuf
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Feedback\Siuf\DmClient
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:11
+上次结果:                           0
+创建者:                             Microsoft Windows Feedback
+要运行的任务:                       %windir%\system32\dmclient.exe 
+起始于:                             N/A
+注释:                               Update SIUF strings
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:05:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\File Classification Infrastructure
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\File Classification Infrastructure\Property Definition Sync
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               将计算机上的文件分类基础结构分类系统与 Active Directory 域服务中存储的资源属性定义同步。
+计划任务状态:                       已禁用
+空闲时间:                           仅在空闲 1 分钟后启动, 如果没空闲，重试 1 分钟
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:05:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           每天 
+开始时间:                           3:00:00
+开始日期:                           2006/11/9
+结束日期:                           N/A
+天:                                 每 1 天
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+文件夹: \Microsoft\Windows\FileHistory
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\FileHistory\File History (maintenance mode)
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 20:26:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               当系统处于无人参与模式时，将用户文件复制到备份位置以防意外丢失
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       LOCAL SERVICE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\LanguageComponentsInstaller
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\LanguageComponentsInstaller\Installation
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 4:00:58
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               安装与用户语言列表匹配的语言组件。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 01:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\LanguageComponentsInstaller\Installation
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 4:00:58
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               安装与用户语言列表匹配的语言组件。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 01:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           在空闲时间
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Live
+信息: 目前在你的访问级别上不存在任何可用的计划任务。
+
+文件夹: \Microsoft\Windows\Location
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Location\Notifications
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             N/A
+要运行的任务:                       %windir%\System32\LocationNotificationWindows.exe 
+起始于:                             N/A
+注释:                               位置通知
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Authenticated Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Location\WindowsActionDialog
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             N/A
+要运行的任务:                       %windir%\System32\WindowsActionDialog.exe 
+起始于:                             N/A
+注释:                               位置通知
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Authenticated Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Maintenance
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Maintenance\WinSAT
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:55
+上次结果:                           0
+创建者:                             Microsoft
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               度量系统的性能和功能
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       Administrators
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:30:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Maps
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Maps\MapsToastTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               This task shows various Map related toasts
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:00:05
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Maps\MapsUpdateTask
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               此任务查找你下载的脱机使用地图的更新。禁用此任务将阻止 Windows 通知你有更新的地图。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       NETWORK SERVICE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:00:40
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性, 每小时 
+开始时间:                           0:00:00
+开始日期:                           2014/10/21
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           24 小时， 0 分钟
+重复: 截止: 时间:                   无
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+文件夹: \Microsoft\Windows\MemoryDiagnostic
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 4:00:58
+上次结果:                           -2147020576
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               安排用于响应系统事件的内存诊断。
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       Administrators
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 02:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 4:00:58
+上次结果:                           -2147020576
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               安排用于响应系统事件的内存诊断。
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       Administrators
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 02:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 4:00:58
+上次结果:                           -2147020576
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               安排用于响应系统事件的内存诊断。
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       Administrators
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 02:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\MemoryDiagnostic\ProcessMemoryDiagnosticEvents
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 4:00:58
+上次结果:                           -2147020576
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               安排用于响应系统事件的内存诊断。
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       Administrators
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 02:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\MemoryDiagnostic\RunFullMemoryDiagnostic
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 4:00:58
+上次结果:                           -2147020576
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               检测并缓解物理内存(RAM)中的问题。
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       Administrators
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 02:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Mobile Broadband Accounts
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Mobile Broadband Accounts\MNO Metadata Parser
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft
+要运行的任务:                       %SystemRoot%\System32\MbaeParserTask.exe 
+起始于:                             N/A
+注释:                               移动宽带帐户体验元数据分析程序
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:03:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\MUI
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\MUI\LPRemove
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 20:26:46
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\lpremove.exe 
+起始于:                             N/A
+注释:                               启动语言清理工具
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 09:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Multimedia
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Multimedia\SystemSoundsService
+下次运行时间:                       N/A
+模式:                               正在运行
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 9:08:23
+上次结果:                           267009
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               系统声音用户模式代理
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\NetCfg
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\NetCfg\BindingWorkItemQueueHandler
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 9:08:12
+上次结果:                           -2147024894
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               处理挂起的网络绑定引擎任务
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           系统启动时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\NetTrace
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\NetTrace\GatherNetworkInfo
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft
+要运行的任务:                       %windir%\system32\gatherNetworkInfo.vbs 
+起始于:                             $(Arg1)
+注释:                               网络信息收集器
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止
+作为用户运行:                       Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Offline Files
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Offline Files\Background Synchronization
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               当用户在脱机模式下工作时，此任务控制脱机文件的定期后台同步。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Authenticated Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 24:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性, 每小时 
+开始时间:                           0:00:00
+开始日期:                           2008/1/1
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           2 小时， 0 分钟
+重复: 截止: 时间:                   无
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Offline Files\Logon Synchronization
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               当用户登录系统时，此任务会启动脱机文件同步。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       Authenticated Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 24:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\PLA
+信息: 目前在你的访问级别上不存在任何可用的计划任务。
+
+文件夹: \Microsoft\Windows\Plug and Play
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Plug and Play\Device Install Group Policy
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/3/27 10:15:20
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               设备安装组策略更改处理程序
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 24:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Plug and Play\Device Install Reboot Required
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               如果需要重新启动 Windows 才能完成设备安装，则显示一个告知用户执行该操作的对话框
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Plug and Play\Plug and Play Cleanup
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/11/27 20:22:37
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               Windows 保留先前通过 Windows 更新及其他来源安装的所有设备驱动程序包副本，即使安装更新版本的驱动程序后也是如此。此任务将删除不再需要的旧版本驱动程序。将保留各驱动程序包的最新版本。此任务还将删除此系统上长期未检测到的设备所使用的状态。
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 01:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Plug and Play\Sysprep Generalize Drivers
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2015/7/10 20:22:12
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %SystemRoot%\System32\drvinst.exe 6
+起始于:                             N/A
+注释:                               一般化驱动程序状态以准备系统，使其可以在任何硬件配置上启动。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Power Efficiency Diagnostics
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Power Efficiency Diagnostics\AnalyzeSystem
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:56
+上次结果:                           -2147220990
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               此任务对系统进行分析，查找可能导致高能耗的状况。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:05:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\RecoveryEnvironment
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\RecoveryEnvironment\VerifyWinRE
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2019/9/4 10:41:43
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               验证 Windows 恢复环境。
+计划任务状态:                       已禁用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟
+电源管理:                           不用电池启动
+作为用户运行:                       Administrators
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 01:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Registry
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Registry\RegIdleBackup
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/16 21:38:30
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               注册表空闲备份任务
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Servicing
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Servicing\StartComponentCleanup
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 20:26:11
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 01:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\SettingSync
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\SettingSync\BackgroundUploadTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:11
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试 180 分钟 如果空闲结束，停止任务
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\SettingSync\NetworkStateChangeTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/21 11:29:05
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\SettingSync\NetworkStateChangeTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/21 11:29:05
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Shell
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Shell\CreateObjectTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 4:00:59
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               为访问系统数据的 Shell 组件提供支持
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:00:30
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Shell\FamilySafetyMonitor
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\System32\wpcmon.exe 
+起始于:                             N/A
+注释:                               初始化家庭安全监视和实施。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:10:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Shell\FamilySafetyRefresh
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               与家庭安全网站同步最新的设置。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:10:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Shell\IndexerAutomaticMaintenance
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               使搜索索引保持最新
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       LOCAL SERVICE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\SoftwareProtectionPlatform
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTaskLogon
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 9:08:23
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               当有用户登录时，此任务会重新启动软件保护平台服务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\SpacePort
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\SpacePort\SpaceAgentTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\SpaceAgent.exe 
+起始于:                             N/A
+注释:                               存储空间设置
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 06:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           系统启动时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\SpacePort\SpaceAgentTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\SpaceAgent.exe 
+起始于:                             N/A
+注释:                               存储空间设置
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 06:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Sysmain
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Sysmain\HybridDriveCachePrepopulate
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               混合驱动器缓存预填充任务
+计划任务状态:                       已禁用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 02:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Sysmain\HybridDriveCacheRebalance
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               混合驱动器缓存重新平衡维护任务
+计划任务状态:                       已禁用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:10:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Sysmain\ResPriStaticDbSync
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/21 22:33:53
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               保留优先级静态数据库同步维护任务
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:10:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Sysmain\WsSwapAssessmentTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/10 20:22:02
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\rundll32.exe sysmain.dll,PfSvWsSwapAssessmentTask
+起始于:                             N/A
+注释:                               工作集交换评估维护任务
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\SystemRestore
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\SystemRestore\SR
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/22 20:22:28
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\srtasks.exe ExecuteScheduledSPPCreation
+起始于:                             N/A
+注释:                               此任务将创建常规系统保护点。
+计划任务状态:                       已启用
+空闲时间:                           仅在空闲  分钟后启动, 如果没空闲，重试  分钟 如果空闲结束，停止任务
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Task Manager
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Task Manager\Interactive
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/3/10 10:50:34
+上次结果:                           -1073741205
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               以交互式用户的身份运行任务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\TextServicesFramework
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\TextServicesFramework\MsCtfMonitor
+下次运行时间:                       N/A
+模式:                               正在运行
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 9:08:23
+上次结果:                           267009
+创建者:                             N/A
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               TextServicesFramework monitor task
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Time Synchronization
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Time Synchronization\ForceSynchronizeTime
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/7/7 10:04:24
+上次结果:                           -2147467259
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               此任务执行时间同步操作。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       LOCAL SERVICE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Time Synchronization\SynchronizeTime
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/19 0:55:24
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\sc.exe start w32time task_started
+起始于:                             N/A
+注释:                               维护在网络上的所有客户端和服务器的时间和日期同步。如果此服务被停止，时间和日期的同步将不可用。如果此服务被禁用，任何明确依赖它的服务都将不能启动。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       LOCAL SERVICE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Time Zone
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Time Zone\SynchronizeTimeZone
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 20:26:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\tzsync.exe 
+起始于:                             N/A
+注释:                               更新时区信息。如果已停止此任务，则某些时区的本地时间可能不准确。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 01:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\UpdateOrchestrator
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\UpdateOrchestrator\Maintenance Install
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:27:12
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       %systemroot%\system32\usoclient.exe StartInstall
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\UpdateOrchestrator\Policy Install
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             N/A
+要运行的任务:                       %systemroot%\system32\usoclient.exe StartInstall
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\UpdateOrchestrator\Reboot
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2019/8/22 3:30:00
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       C:\Windows\system32\MusNotification.exe Reboot
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\UpdateOrchestrator\Resume On Boot
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             N/A
+要运行的任务:                       %systemroot%\system32\usoclient.exe ResumeUpdate
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           系统启动时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+下次运行时间:                       2020/12/25 8:28:36
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 8:11:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %systemroot%\system32\usoclient.exe StartScan
+起始于:                             N/A
+注释:                               此任务执行计划的 Windows 更新扫描。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性, 每小时 
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           22 小时， 0 分钟
+重复: 截止: 时间:                   无
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+下次运行时间:                       2020/12/25 7:27:14
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 8:11:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %systemroot%\system32\usoclient.exe StartScan
+起始于:                             N/A
+注释:                               此任务执行计划的 Windows 更新扫描。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\UpdateOrchestrator\Schedule Scan
+下次运行时间:                       2020/12/25 6:13:11
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 8:11:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %systemroot%\system32\usoclient.exe StartScan
+起始于:                             N/A
+注释:                               此任务执行计划的 Windows 更新扫描。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\UpdateOrchestrator\USO_UxBroker_Display
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2019/8/21 10:48:25
+上次结果:                           1
+创建者:                             N/A
+要运行的任务:                       C:\windows\system32\MusNotification.exe Display
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\UpdateOrchestrator\USO_UxBroker_ReadyToReboot
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             N/A
+要运行的任务:                       C:\windows\system32\MusNotification.exe ReadyToReboot
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\UPnP
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\UPnP\UPnPHostConfig
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft
+要运行的任务:                       sc.exe config upnphost start= auto
+起始于:                             N/A
+注释:                               将 UPnPHost 服务设置为自动启动
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\WCM
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WCM\WiFiTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 4:03:00
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %SystemRoot%\System32\WiFiTask.exe 
+起始于:                             N/A
+注释:                               根据用户和 Web 交互执行的后台任务
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:10:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\WDI
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WDI\ResolutionHost
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/14 16:54:28
+上次结果:                           1073807364
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               Windows Diagnostic Infrastructure Resolution 主机启用交互式解决方案解决诊断策略服务检测到的系统问题。必要时诊断策略服务在相应的用户会话中触发此任务。如果诊断策略服务未运行，则该任务也不会运行
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Windows Defender
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Windows Defender\Windows Defender Cache Maintenance
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 11:55:22
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       C:\Program Files\Windows Defender\MpCmdRun.exe -IdleTask -TaskName WdCacheMaintenance
+起始于:                             N/A
+注释:                               定期维护任务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Windows Defender\Windows Defender Cleanup
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 11:55:22
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       C:\Program Files\Windows Defender\MpCmdRun.exe -IdleTask -TaskName WdCleanup
+起始于:                             N/A
+注释:                               定期清理任务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Windows Defender\Windows Defender Scheduled Scan
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 12:01:24
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       C:\Program Files\Windows Defender\MpCmdRun.exe Scan -ScheduleJob
+起始于:                             N/A
+注释:                               定期扫描任务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Windows Defender\Windows Defender Verification
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 11:55:22
+上次结果:                           0
+创建者:                             N/A
+要运行的任务:                       C:\Program Files\Windows Defender\MpCmdRun.exe -IdleTask -TaskName WdVerification
+起始于:                             N/A
+注释:                               定期验证任务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Windows Error Reporting
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Windows Error Reporting\QueueReporting
+下次运行时间:                       2020/12/25 11:34:20
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 1:23:44
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\wermgr.exe -upload
+起始于:                             N/A
+注释:                               用于处理等候报告的 Windows 错误报告任务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 04:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           系统启动时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Windows Error Reporting\QueueReporting
+下次运行时间:                       2020/12/25 10:22:09
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 1:23:44
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\wermgr.exe -upload
+起始于:                             N/A
+注释:                               用于处理等候报告的 Windows 错误报告任务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 04:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Windows Error Reporting\QueueReporting
+下次运行时间:                       2020/12/25 8:18:25
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 1:23:44
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\wermgr.exe -upload
+起始于:                             N/A
+注释:                               用于处理等候报告的 Windows 错误报告任务。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           不用电池启动
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 04:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性, 每小时 
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           4 小时， 0 分钟
+重复: 截止: 时间:                   无
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+文件夹: \Microsoft\Windows\Windows Filtering Platform
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Windows Filtering Platform\BfeOnServiceStartTypeChange
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       %windir%\system32\rundll32.exe bfe.dll,BfeOnServiceStartTypeChange
+起始于:                             N/A
+注释:                               禁用基本筛选引擎(BFE)的启动类型时，此任务会调整触发防火墙的服务的启动类型。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Windows Media Sharing
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Windows Media Sharing\UpdateLibrary
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       "%ProgramFiles%\Windows Media Player\wmpnscfg.exe" 
+起始于:                             N/A
+注释:                               此任务可更新用户共享媒体库中缓存的文件夹列表和所有新文件的安全权限。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Authenticated Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\WindowsColorSystem
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WindowsColorSystem\Calibration Loader
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2015/7/10 20:21:57
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               此任务将应用颜色校准设置。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WindowsColorSystem\Calibration Loader
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2015/7/10 20:21:57
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               此任务将应用颜色校准设置。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\WindowsUpdate
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WindowsUpdate\Automatic App Update
+下次运行时间:                       2020/12/25 9:28:54
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 1:02:36
+上次结果:                           -2147023838
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               自动更新用户的 Windows 应用商店应用程序。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 04:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性, 每小时 
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           4 小时， 0 分钟
+重复: 截止: 时间:                   无
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WindowsUpdate\Automatic App Update
+下次运行时间:                       2020/12/25 8:53:03
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/25 1:02:36
+上次结果:                           -2147023838
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               自动更新用户的 Windows 应用商店应用程序。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 04:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WindowsUpdate\Scheduled Start
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/4/1 16:07:52
+上次结果:                           1058
+创建者:                             Microsoft Corporation。
+要运行的任务:                       C:\Windows\system32\sc.exe start wuauserv
+起始于:                             N/A
+注释:                               此任务用于在需要时启动 Windows 更新服务以执行计划的操作(如扫描)。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WindowsUpdate\Scheduled Start
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/4/1 16:07:52
+上次结果:                           1058
+创建者:                             Microsoft Corporation。
+要运行的任务:                       C:\Windows\system32\sc.exe start wuauserv
+起始于:                             N/A
+注释:                               此任务用于在需要时启动 Windows 更新服务以执行计划的操作(如扫描)。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WindowsUpdate\Scheduled Start
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/4/1 16:07:52
+上次结果:                           1058
+创建者:                             Microsoft Corporation。
+要运行的任务:                       C:\Windows\system32\sc.exe start wuauserv
+起始于:                             N/A
+注释:                               此任务用于在需要时启动 Windows 更新服务以执行计划的操作(如扫描)。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           当事件发生时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WindowsUpdate\Scheduled Start
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/4/1 16:07:52
+上次结果:                           1058
+创建者:                             Microsoft Corporation。
+要运行的任务:                       C:\Windows\system32\sc.exe start wuauserv
+起始于:                             N/A
+注释:                               此任务用于在需要时启动 Windows 更新服务以执行计划的操作(如扫描)。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           未定义的
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WindowsUpdate\sih
+下次运行时间:                       2020/12/25 11:32:27
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 13:07:12
+上次结果:                           2379777
+创建者:                             Microsoft Corporation.
+要运行的任务:                       %systemroot%\System32\sihclient.exe 
+起始于:                             N/A
+注释:                               This daily task launches the SIH client (server-initiated healing) to detect and fix system components that are vital to automatic updating of Windows and Microsoft software installed on the machine.  This task can go online, evaluate applicability of h
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           一次性, 每小时 
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           20 小时， 0 分钟
+重复: 截止: 时间:                   无
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WindowsUpdate\sihboot
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation.
+要运行的任务:                       %systemroot%\System32\sihclient.exe /boot
+起始于:                             N/A
+注释:                               This boot task launches the SIH client to finish executing healing actions to fix the system components vital to automatic updating of Windows and Microsoft software instaleld on the machine.  It is enabled only when the daily SIH client task failed to 
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:02:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           系统启动时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Wininet
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Wininet\CacheTask
+下次运行时间:                       N/A
+模式:                               正在运行
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 9:08:23
+上次结果:                           267009
+创建者:                             Microsoft
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               Wininet 缓存任务
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       Users
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 已禁用
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Work Folders
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Work Folders\Work Folders Logon Synchronization
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/23 9:13:24
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               当用户登录到系统时，此任务将启动工作文件夹合作关系的同步。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 24:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Work Folders\Work Folders Maintenance Work
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       2020/12/24 20:22:11
+上次结果:                           0
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               此任务将启动工作文件夹合作关系数据同步的持续良好性能所需的维护工作。
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           在电池模式停止, 不用电池启动
+作为用户运行:                       INTERACTIVE
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 24:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\Workplace Join
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\Workplace Join\Automatic-Device-Join
+下次运行时间:                       N/A
+模式:                               已禁用
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             N/A
+要运行的任务:                       %SystemRoot%\System32\dsregcmd.exe 
+起始于:                             N/A
+注释:                               如果计算机已加入到 Active Directory 域，则注册此计算机。
+计划任务状态:                       已禁用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:05:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           登陆时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Microsoft\Windows\WS
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Microsoft\Windows\WS\WSTask
+下次运行时间:                       N/A
+模式:                               就绪
+登录状态:                           交互方式/后台方式
+上次运行时间:                       1999/11/30 0:00:00
+上次结果:                           267011
+创建者:                             Microsoft Corporation
+要运行的任务:                       COM 处理程序
+起始于:                             N/A
+注释:                               Windows 应用商店维护任务
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       SYSTEM
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 72:00:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           仅在请求时
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 N/A
+月:                                 N/A
+重复: 每:                           N/A
+重复: 截止: 时间:                   N/A
+重复: 截止: 持续时间:               N/A
+重复: 如果还在运行，停止:           N/A
+
+文件夹: \Mozilla
+主机名:                             DESKTOP-JK64T46
+任务名:                             \Mozilla\Firefox Default Browser Agent 308046B0AF4A39CB
+下次运行时间:                       2020/12/25 19:29:05
+模式:                               就绪
+登录状态:                           只使用交互方式
+上次运行时间:                       2020/12/24 19:29:06
+上次结果:                           0
+创建者:                             Mozilla
+要运行的任务:                       C:\Program Files\Mozilla Firefox\default-browser-agent.exe do-task
+起始于:                             N/A
+注释:                               N/A
+计划任务状态:                       已启用
+空闲时间:                           已禁用
+电源管理:                           
+作为用户运行:                       geesunn
+删除没有计划的任务:                 已禁用
+如果运行了 X 小时 X 分钟，停止任务: 00:05:00
+计划:                               计划数据在此格式中不可用。
+计划类型:                           每天 
+开始时间:                           N/A
+开始日期:                           N/A
+结束日期:                           N/A
+天:                                 每 1 天
+月:                                 N/A
+重复: 每:                           已禁用
+重复: 截止: 时间:                   已禁用
+重复: 截止: 持续时间:               已禁用
+重复: 如果还在运行，停止:           已禁用
+
