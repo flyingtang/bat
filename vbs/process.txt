@@ -1,5 +1,5 @@
 Microsoft (R) Windows Script Host Version 5.812
-°æÈ¨ËùÓÐ(C) Microsoft Corporation¡£±£ÁôËùÓÐÈ¨Àû¡£
+ï¿½ï¿½È¨ï¿½ï¿½ï¿½ï¿½(C) Microsoft Corporationï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¨ï¿½ï¿½ï¿½ï¿½
 
 Caption: System Idle Process
 CommandLine: 
@@ -18,7 +18,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: System Idle Process
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 0
 OtherTransferCount: 0
 PageFaults: 1
@@ -64,7 +64,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: System
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 245766
 OtherTransferCount: 5866048
 PageFaults: 2281003
@@ -110,7 +110,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: smss.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 505
 OtherTransferCount: 11944
 PageFaults: 948
@@ -156,7 +156,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: csrss.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 59514
 OtherTransferCount: 2341661
 PageFaults: 16677
@@ -202,7 +202,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: csrss.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 190134
 OtherTransferCount: 4993326
 PageFaults: 324060
@@ -248,7 +248,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: wininit.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 951
 OtherTransferCount: 3244
 PageFaults: 2072
@@ -294,7 +294,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: winlogon.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1292
 OtherTransferCount: 418328
 PageFaults: 24105
@@ -340,7 +340,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: services.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 17373
 OtherTransferCount: 383468
 PageFaults: 64244
@@ -386,7 +386,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: lsass.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 53208
 OtherTransferCount: 4963840
 PageFaults: 48501
@@ -432,7 +432,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 217470
 OtherTransferCount: 3581502
 PageFaults: 554393
@@ -478,7 +478,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 8512
 OtherTransferCount: 366158
 PageFaults: 525543
@@ -524,7 +524,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 191192
 OtherTransferCount: 500107329
 PageFaults: 1698470
@@ -570,7 +570,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: dwm.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1402
 OtherTransferCount: 7490
 PageFaults: 832703
@@ -616,7 +616,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 530652
 OtherTransferCount: 39032154
 PageFaults: 1107288
@@ -662,7 +662,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 234025
 OtherTransferCount: 19099518
 PageFaults: 996930
@@ -708,7 +708,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1116045
 OtherTransferCount: 142376508
 PageFaults: 76497191
@@ -754,7 +754,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1392978
 OtherTransferCount: 47094214
 PageFaults: 393046
@@ -800,7 +800,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 249529
 OtherTransferCount: 4577570
 PageFaults: 12926
@@ -846,7 +846,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: atiesrxx.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 165
 OtherTransferCount: 3208
 PageFaults: 3057
@@ -892,7 +892,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: atieclxx.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 194390
 OtherTransferCount: 8515690
 PageFaults: 7473
@@ -938,7 +938,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: dasHost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 51993
 OtherTransferCount: 20728664
 PageFaults: 10740
@@ -984,7 +984,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1890188
 OtherTransferCount: 316491222
 PageFaults: 19373596
@@ -1030,7 +1030,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: spoolsv.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 103981
 OtherTransferCount: 5489502
 PageFaults: 25700
@@ -1076,7 +1076,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 37442
 OtherTransferCount: 3004076
 PageFaults: 144500
@@ -1122,7 +1122,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 139489
 OtherTransferCount: 4505001
 PageFaults: 38320
@@ -1168,7 +1168,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: mDNSResponder.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 651316
 OtherTransferCount: 33236240
 PageFaults: 24740
@@ -1214,7 +1214,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: AlibabaProtect.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 10432500
 OtherTransferCount: 1292744035
 PageFaults: 25258536
@@ -1260,7 +1260,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: wrapper.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1050456
 OtherTransferCount: 16808307
 PageFaults: 1712
@@ -1306,7 +1306,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: pcas.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 3687
 OtherTransferCount: 150286
 PageFaults: 1120991
@@ -1352,7 +1352,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: AGSService.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 5252
 OtherTransferCount: 71775
 PageFaults: 79613
@@ -1398,7 +1398,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: AGMService.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 410
 OtherTransferCount: 5500
 PageFaults: 5494
@@ -1444,7 +1444,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 10439
 OtherTransferCount: 572861
 PageFaults: 8627
@@ -1490,7 +1490,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: QQProtect.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 146146
 OtherTransferCount: 92688922
 PageFaults: 107914
@@ -1536,7 +1536,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: SunloginClient.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 30815023
 OtherTransferCount: 494321587
 PageFaults: 54456
@@ -1582,7 +1582,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 3543
 OtherTransferCount: 39364
 PageFaults: 126991
@@ -1628,7 +1628,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: SESecurityCenter.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 47659
 OtherTransferCount: 2199578
 PageFaults: 44500
@@ -1674,7 +1674,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: vmnetdhcp.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 136
 OtherTransferCount: 2122
 PageFaults: 2215
@@ -1720,7 +1720,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: vmware-authd.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 44124
 OtherTransferCount: 2200616
 PageFaults: 228642
@@ -1766,7 +1766,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: vmware-usbarbitrator64.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 106006
 OtherTransferCount: 437027
 PageFaults: 4973
@@ -1812,7 +1812,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: wlanext.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 861149
 OtherTransferCount: 51255189
 PageFaults: 21076
@@ -1858,7 +1858,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: vmnat.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1036
 OtherTransferCount: 38284
 PageFaults: 2155
@@ -1904,7 +1904,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: MsMpEng.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 9817244
 OtherTransferCount: 961136125
 PageFaults: 10112616
@@ -1950,7 +1950,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 135585
 OtherTransferCount: 4505903
 PageFaults: 29191
@@ -1996,7 +1996,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: zxAgent.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 988484
 OtherTransferCount: 63443596
 PageFaults: 24963
@@ -2042,7 +2042,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: wwbizsrv.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 3546
 OtherTransferCount: 31412
 PageFaults: 54562
@@ -2088,7 +2088,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: unsecapp.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 85
 OtherTransferCount: 1146
 PageFaults: 3640
@@ -2134,7 +2134,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: java.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 156023
 OtherTransferCount: 4408668
 PageFaults: 17047
@@ -2180,7 +2180,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: conhost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 69
 OtherTransferCount: 1404
 PageFaults: 2163
@@ -2226,7 +2226,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: vmware-hostd.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 3504
 OtherTransferCount: 137644
 PageFaults: 39019
@@ -2272,7 +2272,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: WmiPrvSE.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 179900200
 OtherTransferCount: 816038
 PageFaults: 302523328
@@ -2318,7 +2318,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: SunloginClient.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 241
 OtherTransferCount: 3524
 PageFaults: 21430
@@ -2364,7 +2364,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: NisSrv.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 239518
 OtherTransferCount: 92461768
 PageFaults: 271536
@@ -2410,7 +2410,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: sihost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 9395
 OtherTransferCount: 347964
 PageFaults: 33952
@@ -2456,7 +2456,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: taskhostw.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 20994
 OtherTransferCount: 1905372
 PageFaults: 46228
@@ -2502,7 +2502,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: explorer.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 5840047
 OtherTransferCount: 110144047
 PageFaults: 3852292
@@ -2548,7 +2548,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: ChsIME.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 115669
 OtherTransferCount: 5676048
 PageFaults: 41481
@@ -2594,7 +2594,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: RuntimeBroker.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 72277
 OtherTransferCount: 682872
 PageFaults: 164139
@@ -2640,7 +2640,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: SCMainFrame.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 214
 OtherTransferCount: 1460
 PageFaults: 8333
@@ -2686,7 +2686,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: ShellExperienceHost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 3117
 OtherTransferCount: 21078
 PageFaults: 90184
@@ -2732,7 +2732,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: SearchIndexer.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 3079529
 OtherTransferCount: 224411878
 PageFaults: 279158
@@ -2778,7 +2778,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: InstallAgent.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 447
 OtherTransferCount: 6292
 PageFaults: 9229
@@ -2824,7 +2824,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: baidupinyin.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 695786
 OtherTransferCount: 7229436
 PageFaults: 649338
@@ -2870,7 +2870,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: RadeonSettings.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 231899
 OtherTransferCount: 10368894
 PageFaults: 145362
@@ -2900,13 +2900,13 @@ WriteOperationCount: 168
 WriteTransferCount: 2476892
 
 Caption: HuYanBao.exe
-CommandLine: "C:\Program Files (x86)\»¤ÑÛ±¦\HuYanBao.exe" -a
+CommandLine: "C:\Program Files (x86)\ï¿½ï¿½ï¿½Û±ï¿½\HuYanBao.exe" -a
 CreationClassName: Win32_Process
 CreationDate: 20201221123048.139026+480
 CSCreationClassName: Win32_ComputerSystem
 CSName: DESKTOP-JK64T46
 Description: HuYanBao.exe
-ExecutablePath: C:\Program Files (x86)\»¤ÑÛ±¦\HuYanBao.exe
+ExecutablePath: C:\Program Files (x86)\ï¿½ï¿½ï¿½Û±ï¿½\HuYanBao.exe
 ExecutionState: 
 Handle: 8464
 HandleCount: 366
@@ -2916,7 +2916,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: HuYanBao.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 101031
 OtherTransferCount: 14447054
 PageFaults: 33831
@@ -2962,7 +2962,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: vmware-tray.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 761
 OtherTransferCount: 4946
 PageFaults: 5476
@@ -3008,7 +3008,7 @@ MaximumWorkingSetSize: 39052
 MinimumWorkingSetSize: 37872
 Name: WeChat.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 918810
 OtherTransferCount: 21557211
 PageFaults: 6063739
@@ -3054,7 +3054,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: WeChatWeb.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1747
 OtherTransferCount: 8258
 PageFaults: 15369
@@ -3100,7 +3100,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: WeChatWeb.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1101
 OtherTransferCount: 4930
 PageFaults: 26636
@@ -3146,7 +3146,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: ComputerZTray.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 28748030
 OtherTransferCount: 1239760215
 PageFaults: 233663936
@@ -3192,7 +3192,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: ComputerZService.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 25371482
 OtherTransferCount: 108234047
 PageFaults: 23427551
@@ -3238,7 +3238,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: unsecapp.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 66
 OtherTransferCount: 122
 PageFaults: 44057725
@@ -3284,7 +3284,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: WeChatApp.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 117550
 OtherTransferCount: 5326394
 PageFaults: 124605
@@ -3330,7 +3330,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: DrvMgr.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 231116
 OtherTransferCount: 5526504
 PageFaults: 76628
@@ -3376,7 +3376,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: RtkNGUI64.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 6191
 OtherTransferCount: 52718
 PageFaults: 17964
@@ -3422,7 +3422,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: SQLyog.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 696798
 OtherTransferCount: 9007656
 PageFaults: 152062
@@ -3468,7 +3468,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: fontdrvhost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 10
 OtherTransferCount: 70
 PageFaults: 4512
@@ -3514,7 +3514,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 195
 OtherTransferCount: 992
 PageFaults: 11966
@@ -3560,7 +3560,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: AlibabaprotectUI.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1798
 OtherTransferCount: 34208
 PageFaults: 1004908
@@ -3606,7 +3606,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: goland64.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 5283023
 OtherTransferCount: 123734091
 PageFaults: 4375138
@@ -3652,7 +3652,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: fsnotifier64.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 753047
 OtherTransferCount: 136650854
 PageFaults: 2025
@@ -3698,7 +3698,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: wuapihost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 92
 OtherTransferCount: 1042
 PageFaults: 5315
@@ -3744,7 +3744,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: svchost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 9067
 OtherTransferCount: 51268
 PageFaults: 88931
@@ -3790,7 +3790,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: ApplicationFrameHost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 4790
 OtherTransferCount: 18258
 PageFaults: 47275
@@ -3836,7 +3836,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: Calculator.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 4059
 OtherTransferCount: 26686
 PageFaults: 78308
@@ -3882,7 +3882,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: WinStore.Mobile.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 6694
 OtherTransferCount: 117292
 PageFaults: 32403
@@ -3928,7 +3928,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: SecureCRT.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 103329
 OtherTransferCount: 144167699
 PageFaults: 344510
@@ -3974,7 +3974,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: WmiPrvSE.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 420038
 OtherTransferCount: 17617562
 PageFaults: 6508674
@@ -4020,7 +4020,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: WmiPrvSE.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 14393
 OtherTransferCount: 15562548
 PageFaults: 272271
@@ -4066,7 +4066,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: ___3go_build_main_go.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 2972526
 OtherTransferCount: 177726486
 PageFaults: 6160171
@@ -4112,7 +4112,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: conhost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1822
 OtherTransferCount: 79458
 PageFaults: 3347
@@ -4142,7 +4142,7 @@ WriteOperationCount: 0
 WriteTransferCount: 0
 
 Caption: hh.exe
-CommandLine: "C:\Windows\hh.exe" G:\me\bat\Èí¼þ\Vbsedit(jb51.net)\ScriptÈ«¼¯.chm
+CommandLine: "C:\Windows\hh.exe" G:\me\bat\ï¿½ï¿½ï¿½ï¿½\Vbsedit(jb51.net)\ScriptÈ«ï¿½ï¿½.chm
 CreationClassName: Win32_Process
 CreationDate: 20201221160507.442490+480
 CSCreationClassName: Win32_ComputerSystem
@@ -4158,7 +4158,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: hh.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1461
 OtherTransferCount: 105324
 PageFaults: 25231
@@ -4204,7 +4204,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: Taskmgr.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1643836
 OtherTransferCount: 115930676
 PageFaults: 2377219
@@ -4250,7 +4250,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: ShadowsocksR-dotnet4.0.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 324539
 OtherTransferCount: 182263358
 PageFaults: 164505
@@ -4296,7 +4296,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: ShadowsocksR-dotnet4.0.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 28755
 OtherTransferCount: 389091
 PageFaults: 19573
@@ -4342,7 +4342,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: vbsedit.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 379107
 OtherTransferCount: 1843574
 PageFaults: 294190
@@ -4388,7 +4388,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1456987
 OtherTransferCount: 91672327
 PageFaults: 8490083
@@ -4434,7 +4434,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 13198
 OtherTransferCount: 278742
 PageFaults: 4827
@@ -4480,7 +4480,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 3459
 OtherTransferCount: 20636
 PageFaults: 3130126
@@ -4526,7 +4526,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 434308
 OtherTransferCount: 70093947
 PageFaults: 153498
@@ -4572,7 +4572,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1070
 OtherTransferCount: 7722
 PageFaults: 106230
@@ -4618,7 +4618,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 712
 OtherTransferCount: 8876
 PageFaults: 432345
@@ -4664,7 +4664,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 676
 OtherTransferCount: 8036
 PageFaults: 16140
@@ -4710,7 +4710,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 684
 OtherTransferCount: 8876
 PageFaults: 1239560
@@ -4756,7 +4756,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 675
 OtherTransferCount: 8874
 PageFaults: 125442
@@ -4802,7 +4802,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 675
 OtherTransferCount: 8876
 PageFaults: 14999
@@ -4848,7 +4848,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 676
 OtherTransferCount: 8874
 PageFaults: 26781
@@ -4894,7 +4894,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 675
 OtherTransferCount: 8876
 PageFaults: 15098
@@ -4940,7 +4940,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 705
 OtherTransferCount: 8606
 PageFaults: 985431
@@ -4986,7 +4986,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 674
 OtherTransferCount: 8574
 PageFaults: 18378
@@ -5032,7 +5032,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: RDCMan.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 37337
 OtherTransferCount: 1810138
 PageFaults: 109801
@@ -5078,7 +5078,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: LockAppHost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 625
 OtherTransferCount: 3598
 PageFaults: 196984
@@ -5124,7 +5124,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: winpty-agent.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 22857082
 OtherTransferCount: 66114819562
 PageFaults: 2676
@@ -5170,7 +5170,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: conhost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 22857944
 OtherTransferCount: 1604608685
 PageFaults: 7304
@@ -5216,7 +5216,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: cmd.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 951
 OtherTransferCount: 8364
 PageFaults: 1928
@@ -5262,7 +5262,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 687
 OtherTransferCount: 8128
 PageFaults: 206566
@@ -5308,7 +5308,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 693
 OtherTransferCount: 8160
 PageFaults: 3854996
@@ -5354,7 +5354,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: SystemSettingsBroker.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 35105
 OtherTransferCount: 891392
 PageFaults: 64362
@@ -5400,7 +5400,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: NetworkUXBroker.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 156572
 OtherTransferCount: 23947842
 PageFaults: 67848
@@ -5430,7 +5430,7 @@ WriteOperationCount: 2
 WriteTransferCount: 188
 
 Caption: hh.exe
-CommandLine: "C:\Windows\hh.exe" G:\me\bat\Èí¼þ\Vbsedit(jb51.net)\ScriptÈ«¼¯.chm
+CommandLine: "C:\Windows\hh.exe" G:\me\bat\ï¿½ï¿½ï¿½ï¿½\Vbsedit(jb51.net)\ScriptÈ«ï¿½ï¿½.chm
 CreationClassName: Win32_Process
 CreationDate: 20201222101008.229862+480
 CSCreationClassName: Win32_ComputerSystem
@@ -5446,7 +5446,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: hh.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 21305
 OtherTransferCount: 702904
 PageFaults: 41283
@@ -5492,7 +5492,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: powershell.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 26255
 OtherTransferCount: 1760554
 PageFaults: 65367
@@ -5538,7 +5538,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: conhost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 8719
 OtherTransferCount: 420713
 PageFaults: 34873
@@ -5584,7 +5584,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: powershell.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 16289
 OtherTransferCount: 1074016
 PageFaults: 70993
@@ -5630,7 +5630,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: conhost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 29081
 OtherTransferCount: 858433
 PageFaults: 14889
@@ -5676,7 +5676,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 698
 OtherTransferCount: 8094
 PageFaults: 915176
@@ -5722,7 +5722,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: mmc.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 21134
 OtherTransferCount: 180260
 PageFaults: 84901
@@ -5768,7 +5768,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: MpCmdRun.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 14842
 OtherTransferCount: 778534
 PageFaults: 7561
@@ -5798,7 +5798,7 @@ WriteOperationCount: 3
 WriteTransferCount: 654
 
 Caption: notepad++.exe
-CommandLine: "C:\Program Files (x86)\Notepad++\notepad++.exe"  "C:\Users\geesunn\Desktop\½Å±¾\win2003\windows_more.ps1"
+CommandLine: "C:\Program Files (x86)\Notepad++\notepad++.exe"  "C:\Users\geesunn\Desktop\ï¿½Å±ï¿½\win2003\windows_more.ps1"
 CreationClassName: Win32_Process
 CreationDate: 20201222140407.314281+480
 CSCreationClassName: Win32_ComputerSystem
@@ -5814,7 +5814,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: notepad++.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 70426
 OtherTransferCount: 430628
 PageFaults: 48739
@@ -5860,7 +5860,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: SearchUI.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1331
 OtherTransferCount: 14964
 PageFaults: 18764
@@ -5906,7 +5906,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 683
 OtherTransferCount: 7966
 PageFaults: 157689
@@ -5952,7 +5952,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 685
 OtherTransferCount: 7936
 PageFaults: 54864
@@ -5998,7 +5998,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 686
 OtherTransferCount: 7968
 PageFaults: 50105
@@ -6044,7 +6044,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 684
 OtherTransferCount: 7968
 PageFaults: 109491
@@ -6090,7 +6090,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 695
 OtherTransferCount: 7966
 PageFaults: 129435
@@ -6136,7 +6136,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 681
 OtherTransferCount: 7936
 PageFaults: 45641
@@ -6182,7 +6182,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 680
 OtherTransferCount: 7934
 PageFaults: 31945
@@ -6228,7 +6228,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 680
 OtherTransferCount: 7932
 PageFaults: 29384
@@ -6274,7 +6274,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 686
 OtherTransferCount: 7934
 PageFaults: 44413
@@ -6320,7 +6320,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 683
 OtherTransferCount: 7968
 PageFaults: 74979
@@ -6366,7 +6366,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 685
 OtherTransferCount: 7934
 PageFaults: 51854
@@ -6412,7 +6412,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 682
 OtherTransferCount: 7936
 PageFaults: 161373
@@ -6458,7 +6458,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 684
 OtherTransferCount: 7934
 PageFaults: 134074
@@ -6504,7 +6504,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: cmd.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 5839
 OtherTransferCount: 76488
 PageFaults: 2044
@@ -6550,7 +6550,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: conhost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 35988
 OtherTransferCount: 2306449
 PageFaults: 12965
@@ -6596,7 +6596,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 681
 OtherTransferCount: 7936
 PageFaults: 171661
@@ -6642,7 +6642,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 671
 OtherTransferCount: 7902
 PageFaults: 19625
@@ -6688,7 +6688,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 679
 OtherTransferCount: 7872
 PageFaults: 248070
@@ -6734,7 +6734,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: Code.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 26170
 OtherTransferCount: 1070228
 PageFaults: 53833
@@ -6780,7 +6780,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: Code.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 261
 OtherTransferCount: 768
 PageFaults: 3274
@@ -6826,7 +6826,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: Code.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 544
 OtherTransferCount: 7042
 PageFaults: 547521
@@ -6872,7 +6872,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: Code.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1788
 OtherTransferCount: 45822
 PageFaults: 6590
@@ -6918,7 +6918,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: Code.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 29247
 OtherTransferCount: 572410
 PageFaults: 611545
@@ -6964,7 +6964,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: CodeHelper.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 1728
 OtherTransferCount: 43660
 PageFaults: 7309
@@ -7010,7 +7010,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: conhost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 679
 OtherTransferCount: 22670
 PageFaults: 2620
@@ -7056,7 +7056,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: Code.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 79342
 OtherTransferCount: 1313062
 PageFaults: 279759
@@ -7102,7 +7102,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: Code.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 515
 OtherTransferCount: 10696
 PageFaults: 12574
@@ -7148,7 +7148,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: Code.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 17898
 OtherTransferCount: 1418550
 PageFaults: 80629
@@ -7194,7 +7194,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: Code.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 2877
 OtherTransferCount: 52880
 PageFaults: 46865
@@ -7240,7 +7240,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 679
 OtherTransferCount: 7870
 PageFaults: 73298
@@ -7286,7 +7286,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 689
 OtherTransferCount: 7902
 PageFaults: 68985
@@ -7332,7 +7332,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 679
 OtherTransferCount: 7870
 PageFaults: 69161
@@ -7378,7 +7378,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 689
 OtherTransferCount: 7872
 PageFaults: 46260
@@ -7424,7 +7424,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: WmiApSrv.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 721
 OtherTransferCount: 257282
 PageFaults: 1924
@@ -7470,7 +7470,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 679
 OtherTransferCount: 7872
 PageFaults: 58833
@@ -7516,7 +7516,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 681
 OtherTransferCount: 7872
 PageFaults: 162470
@@ -7562,7 +7562,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 679
 OtherTransferCount: 7872
 PageFaults: 125775
@@ -7608,7 +7608,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 688
 OtherTransferCount: 7872
 PageFaults: 53777
@@ -7654,7 +7654,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: chrome.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 652
 OtherTransferCount: 7870
 PageFaults: 6374
@@ -7700,7 +7700,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: SearchProtocolHost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 856
 OtherTransferCount: 9246
 PageFaults: 2664
@@ -7746,7 +7746,7 @@ MaximumWorkingSetSize:
 MinimumWorkingSetSize: 
 Name: SearchFilterHost.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 51
 OtherTransferCount: 128
 PageFaults: 1578
@@ -7792,7 +7792,7 @@ MaximumWorkingSetSize: 1380
 MinimumWorkingSetSize: 200
 Name: cscript.exe
 OSCreationClassName: Win32_OperatingSystem
-OSName: Microsoft Windows 10 ÆóÒµ°æ|C:\Windows|\Device\Harddisk0\Partition4
+OSName: Microsoft Windows 10 ï¿½ï¿½Òµï¿½ï¿½|C:\Windows|\Device\Harddisk0\Partition4
 OtherOperationCount: 224
 OtherTransferCount: 1662
 PageFaults: 2817

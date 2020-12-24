@@ -1,11 +1,11 @@
 Dim Dic
 Set Dic = CreateObject("Scripting.Dictionary")
-' Dic.Add "Name", "Sirrah" '向Dictionary对象中添加键值对
-' Dic.Add "Age", 23
+Dic.Add "Name", "Sirrah" '向Dictionary对象中添加键值对
+Dic.Add "Age", 23
 
 
 
-' WScript.Echo  DIc.Item("Age")'判断键是否存在　
+WScript.Echo  DIc.Item("Age")'判断键是否存在　
 
 
 
