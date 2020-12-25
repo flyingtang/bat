@@ -2,49 +2,43 @@ Class ObjProcessInfo
     Public arrProcessObj 
     Private intProcessCount
     Public mapIdProcessObj
+    Public mapProcessIdCmdnTask
+    Public mapIdProcessPerfObj
     Private Sub Class_Initialize
         arrProcessObj = Array()
         intProcessCount = 0
         Set mapIdProcessObj = CreateObject("Scripting.Dictionary")
-        WScript.Echo " Called automatically when class is created"
+        Set mapProcessIdCmdnTask = CreateObject("Scripting.Dictionary")
+        Set mapIdProcessPerfObj = CreateObject("Scripting.Dictionary")
     End Sub
 
     Private Sub Class_Terminate
-        ' Called automatically when all references to class instance are removed
-        WScript.Echo " Called automatically when all references to class instance are removed"
       
     End Sub
-
-
 
     sub Collect()
         strComputer = "."
         Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
 
-        ' 动态信息
         Set perfColItems = objWMIService.ExecQuery("Select * from Win32_PerfFormattedData_PerfProc_Process",,48)
-        Set mapIdProcessPerfObj = CreateObject("Scripting.Dictionary")
+       
         Dim objPerfItem 'as Win32_PerfFormattedData_PerfProc_Process
         For Each objPerfItem in perfColItems
             set tmp = New ObjPerfProcess
             tmp.ProcessProcessId = objPerfItem.IDProcess
             tmp.ProcessPercentProcessorTime = objPerfItem.PercentProcessorTime
             tmp.ProcessWorkingSet = objPerfItem.WorkingSet
-            ' 有两个ID 为0 的东东
             if  objPerfItem.IDProcess <> 0 Then 
                 mapIdProcessPerfObj.Add objPerfItem.IDProcess, tmp
             end if 
         Next
 
-
-        ' 命令行读取的数据
         strResult = createobject("wscript.shell").exec("TASKLIST /V /FO LIST").StdOut.ReadAll
         arrSplitStr =  Split(strResult, vbCrLf)
         Dim  arrSplit() 
         ReDim arrSplit(9, 1) 
         currentRows = 0
         for i = 0 to UBound(arrSplitStr) step 1
-            ' 第一行是空行,所以去除
             if i <> 0 Then
                 size  = UBound( arrSplit, 2) 
                 if arrSplitStr(i) = "" Then
@@ -57,7 +51,6 @@ Class ObjProcessInfo
             end if
         next
         
-        Set mapProcessIdCmdnTask = CreateObject("Scripting.Dictionary")
         for i = 0 to  UBound( arrSplit, 2)  step 1
             set tmp = New ObjCmdTask
             tmp.pid=CInt(arrSplit(1, i))
@@ -68,7 +61,6 @@ Class ObjProcessInfo
             end if 
         next
 
-        ' 基本信息
         Set colItems = objWMIService.ExecQuery("Select * from Win32_Process",,48)
         Dim objItem 'as Win32_Process 
         For Each objItem in colItems
@@ -94,14 +86,16 @@ Class ObjProcessInfo
             ' WScript.Echo mapIdProcessObj.Item(arrProcessObj(count).ProcessProcessId).ProcessName
 
             if objItem.ProcessId <> 0 Then
-                set tmp =  mapIdProcessPerfObj.Item(objItem.ProcessId)   
-                arrProcessObj(count).ProcessPercentProcessorTime = tmp.ProcessPercentProcessorTime
-                arrProcessObj(count).ProcessWorkingSet = tmp.ProcessWorkingSet
-                'TODO 问题
-               if  mapProcessIdCmdnTask.Exists(cint(objItem.ProcessId)) Then 
-                set ttmp = mapProcessIdCmdnTask.Item(objItem.ProcessId)
-                arrProcessObj(count).ProcessMemused = ttmp.memused
-                arrProcessObj(count).ProcessCpuused = ttmp.cpuused
+                if mapIdProcessPerfObj.Exists(objItem.ProcessId) Then 
+                    set tmp =  mapIdProcessPerfObj.Item(objItem.ProcessId)   
+                    arrProcessObj(count).ProcessPercentProcessorTime = tmp.ProcessPercentProcessorTime
+                    arrProcessObj(count).ProcessWorkingSet = tmp.ProcessWorkingSet
+                    'TODO 
+                    if  mapProcessIdCmdnTask.Exists(cint(objItem.ProcessId)) Then 
+                        set ttmp = mapProcessIdCmdnTask.Item(objItem.ProcessId)
+                        arrProcessObj(count).ProcessMemused = ttmp.memused
+                        arrProcessObj(count).ProcessCpuused = ttmp.cpuused
+                    end if 
                end if 
             end if 
             mapIdProcessObj.Add arrProcessObj(count).ProcessProcessId, arrProcessObj(count)
@@ -176,7 +170,6 @@ class ObjPerfProcess
 
 end class
 
-' cmd 任务对象
 class ObjCmdTask
     Public pid
     Public memused
@@ -211,6 +204,8 @@ class ObjSystemInfo
     Public SysTotalVisibleMemorySize
     Public SysVersion
     Public Sysruntime
+    Public SysPercentUsedMemory
+    Public SysUsedMemory
     Private intDaySecond  'day
     Private intHourSecond 'day
     Private intMinuteSecond'day
@@ -254,6 +249,8 @@ class ObjSystemInfo
              SysTotalVisibleMemorySize = objItem.TotalVisibleMemorySize
              SysVersion = objItem.Version
              Sysruntime =   GetRuntimeStr(GetRuntimeSecond(objItem.LastBootUpTime))
+             SysUsedMemory =  objItem.TotalVisibleMemorySize - objItem.FreePhysicalMemory
+             SysPercentUsedMemory =  ((objItem.TotalVisibleMemorySize - objItem.FreePhysicalMemory) \ objItem.TotalVisibleMemorySize) * 100
         Next
     end sub
 
@@ -337,6 +334,8 @@ class ObjSystemInfo
         WScript.Echo "SysTotalVisibleMemorySize=" & SysTotalVisibleMemorySize
         WScript.Echo "SysVersion= " & SysVersion
         WScript.Echo "Sysruntime=" &  Sysruntime
+        WScript.Echo "SysUsedMemory=" &  SysUsedMemory
+        WScript.Echo "SysPercentUsedMemory=" &  SysPercentUsedMemory
     end sub
 end class
 
@@ -421,6 +420,157 @@ class ObjCpuInfo
  end class
 
 
+ class ObjDiskInfo
+    Public ObjDisks
+    Public mapNameDiskObj
+    Public Capacity
+    Public VolunmFreeSpace
+    Public VolunmUsedSpace
+     private sub class_Initialize
+         ' Called automatically when class is created
+         ObjDisks = Array()
+         Capacity = 0
+         VolunmFreeSpace = 0
+         Set mapNameDiskObj = CreateObject("Scripting.Dictionary")
+     end sub
+ 
+     private sub class_Terminate
+         ' Called automatically when all references to class instance are removed
+     end sub
+
+     sub CollectVolumn()
+        strComputer = "."
+        Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
+        Set colItems = objWMIService.ExecQuery("Select * from Win32_Volume",,48)
+        
+        Dim objItem 'as Win32_Volume
+        For Each objItem in colItems
+            set tmp = New ObjVolumn
+            tmp.VolunmLabel = objItem.Label
+            tmp.VolunmName = Replace(Replace(objItem.Name, "\", ""), " ", "")
+            tmp.VolunmSerialNumber = objItem.SerialNumber
+            tmp.VolunmFreeSpace = objItem.FreeSpace
+            tmp.VolunmCapacity = objItem.Capacity
+            tmp.VolunmUsedSpace = objItem.Capacity - objItem.FreeSpace
+            tmp.VolunmPercentUsed = tmp.VolunmUsedSpace / objItem.Capacity * 100 
+            tmp.VolunmFileSystem = objItem.FileSystem
+
+            ' tmp.VolunmDriveType = objItem.DriveType
+            select case objItem.DriveType
+                case  "0"
+                    tmp.VolunmDriveType ="Unknown"
+                case  "1"
+                    tmp.VolunmDriveType ="No Root Directory"
+                case  "2"
+                    tmp.VolunmDriveType ="Removable Disk"
+                case  "3"
+                    tmp.VolunmDriveType ="Local Disk"
+                case  "4"
+                    tmp.VolunmDriveType ="Network Drive"
+                case  "5"
+                    tmp.VolunmDriveType ="Compact Disc"
+                case  "6"
+                    tmp.VolunmDriveType ="RAM Disk"
+                case else
+            end select
+       
+            Capacity = Capacity + objItem.Capacity
+            VolunmFreeSpace = VolunmFreeSpace + objItem.FreeSpace
+            mapNameDiskObj.Add tmp.VolunmName, tmp
+         Next
+         VolunmUsedSpace = Capacity - VolunmFreeSpace
+     end sub
+ 
+     sub Collect()
+        Call CollectVolumn
+       ' io ???
+        strComputer = "."
+        Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
+        Set colItems = objWMIService.ExecQuery("Select * from Win32_PerfFormattedData_PerfDisk_LogicalDisk",,48)
+        Dim objItem 'as Win32_PerfFormattedData_PerfDisk_LogicalDisk
+        For Each objItem in colItems
+            if objItem.Name <> "_Total" Then
+                size = UBound(ObjDisks)
+                if size < 0 Then
+                    size = 0
+                end if
+
+                WScript.Echo Size
+                Redim Preserve ObjDisks(size + 1)
+
+                set tmp = New ObjDisk
+                tmp.DiskName = objItem.Name
+                tmp.DiskAvgDiskBytesPerRead = objItem.AvgDiskBytesPerRead
+                tmp.DiskAvgDiskBytesPerTransfer = objItem.AvgDiskBytesPerTransfer
+                tmp.DiskAvgDiskBytesPerWrite = objItem.AvgDiskBytesPerWrite
+                tmp.DiskAvgDisksecPerRead = objItem.AvgDisksecPerRead
+                tmp.DiskAvgDisksecPerTransfer = objItem.AvgDisksecPerTransfer
+                tmp.DiskAvgDisksecPerWrite = objItem.AvgDisksecPerWrite
+                tmp.DiskBytesPersec = objItem.DiskBytesPersec
+                tmp.DiskReadBytesPersec = objItem.DiskReadBytesPersec
+                tmp.DiskReadsPersec = objItem.DiskReadsPersec
+                tmp.DiskTransfersPersec = objItem.DiskTransfersPersec
+                tmp.DiskWriteBytesPersec = objItem.DiskWriteBytesPersec
+                tmp.DiskWritesPersec = objItem.DiskWritesPersec
+                tmp.DiskFreeMegabytes = objItem.FreeMegabytes
+                tmp.DiskPercentDiskReadTime = objItem.PercentDiskReadTime
+                tmp.DiskPercentDiskTime = objItem.PercentDiskTime
+                tmp.DiskPercentDiskWriteTime = objItem.PercentDiskWriteTime
+                tmp.DiskPercentFreeSpace = objItem.PercentFreeSpace
+                tmp.DiskPercentIdleTime = objItem.PercentIdleTime
+
+                if mapNameDiskObj.Exists(tmp.DiskName) Then
+                    set obj = mapNameDiskObj.Item(tmp.DiskName)
+                    tmp.VolunmLabel = obj.VolunmLabel
+                    tmp.VolunmName = obj.VolunmName
+                    tmp.VolunmSerialNumber = obj.VolunmSerialNumber
+                    tmp.VolunmFreeSpace = obj.VolunmFreeSpace
+                    tmp.VolunmCapacity = obj.VolunmCapacity
+                    tmp.VolunmUsedSpace = obj.VolunmUsedSpace
+                    tmp.VolunmPercentUsed = obj.VolunmPercentUsed
+                    tmp.VolunmDriveType = obj.VolunmDriveType
+                    tmp.VolunmFileSystem = obj.VolunmFileSystem
+       
+                end if 
+                set ObjDisks(size) = tmp
+            end if
+        Next
+    end sub
+     
+     sub Print()
+
+        For Each tmp In ObjDisks
+            if not IsEmpty(tmp) Then
+                call tmp.Print
+            end if
+        Next 
+        WScript.Echo "VolunmTotalCapacity=" & Capacity
+        WScript.Echo "VolunmTotalFreeSpace=" & VolunmFreeSpace
+        WScript.Echo "VolunmTotalUsedSpace=" & VolunmUsedSpace
+     end sub
+ end class
+
+
+ class ObjVolumn
+   Public VolunmLabel
+   Public VolunmName
+   Public VolunmSerialNumber
+   Public VolunmFreeSpace
+   Public VolunmCapacity
+   Public VolunmUsedSpace
+   Public VolunmPercentUsed
+   Public VolunmDriveType
+   Public VolunmFileSystem
+     private sub class_Initialize
+         ' Called automatically when class is created
+     end sub
+ 
+     private sub class_Terminate
+         ' Called automatically when all references to class instance are removed
+     end sub
+ end class
+
+
  class ObjDisk
     Public DiskName
     Public DiskAvgDiskBytesPerRead
@@ -441,6 +591,15 @@ class ObjCpuInfo
     Public DiskPercentDiskWriteTime
     Public DiskPercentFreeSpace
     Public DiskPercentIdleTime
+    Public VolunmLabel
+    Public VolunmName
+    Public VolunmSerialNumber
+    Public VolunmFreeSpace
+    Public VolunmCapacity
+    Public VolunmUsedSpace
+    Public VolunmPercentUsed
+    Public VolunmDriveType
+    Public VolunmFileSystem
     private sub class_Initialize
         ' Called automatically when class is created
     end sub
@@ -469,100 +628,43 @@ class ObjCpuInfo
         WScript.Echo "DiskPercentDiskWriteTime=" & DiskPercentDiskWriteTime 
         WScript.Echo "DiskPercentFreeSpace=" & DiskPercentFreeSpace 
         WScript.Echo "DiskPercentIdleTime=" & DiskPercentIdleTime 
+        WScript.Echo "VolunmLabel=" & VolunmLabel
+        WScript.Echo "VolunmName=" & VolunmName
+        WScript.Echo "VolunmSerialNumber=" & VolunmSerialNumber
+        WScript.Echo "VolunmFreeSpace=" & VolunmFreeSpace
+        WScript.Echo "VolunmCapacity=" & VolunmCapacity
+        WScript.Echo "VolunmUsedSpace=" & VolunmUsedSpace
+        WScript.Echo "VolunmPercentUsed=" & VolunmPercentUsed
+        WScript.Echo "VolunmDriveType=" & VolunmDriveType
+        WScript.Echo "VolunmFileSystem=" & VolunmFileSystem
+
      end sub
 end class
 
- class ObjDiskInfo
-    Public ObjDisks
-     private sub class_Initialize
-         ' Called automatically when class is created
-         ObjDisks = Array()
-     end sub
- 
-     private sub class_Terminate
-         ' Called automatically when all references to class instance are removed
-     end sub
- 
-     sub Collect()
-        strComputer = "."
-        Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
-        Set colItems = objWMIService.ExecQuery("Select * from Win32_PerfFormattedData_PerfDisk_LogicalDisk",,48)
-        Dim objItem 'as Win32_PerfFormattedData_PerfDisk_LogicalDisk
-        For Each objItem in colItems
-            if objItem.Name <> "_Total" Then
-                size = UBound(ObjDisks)
-                if size < 0 Then
-                    size = 0
-                end if
-                WScript.Echo Size
-                Redim Preserve ObjDisks(size + 1)
-                set tmp = New ObjDisk
-                tmp.DiskName = objItem.Name
-                tmp.DiskAvgDiskBytesPerRead = objItem.AvgDiskBytesPerRead
-                tmp.DiskAvgDiskBytesPerTransfer = objItem.AvgDiskBytesPerTransfer
-                tmp.DiskAvgDiskBytesPerWrite = objItem.AvgDiskBytesPerWrite
-                tmp.DiskAvgDisksecPerRead = objItem.AvgDisksecPerRead
-                tmp.DiskAvgDisksecPerTransfer = objItem.AvgDisksecPerTransfer
-                tmp.DiskAvgDisksecPerWrite = objItem.AvgDisksecPerWrite
-                tmp.DiskBytesPersec = objItem.DiskBytesPersec
-                tmp.DiskReadBytesPersec = objItem.DiskReadBytesPersec
-                tmp.DiskReadsPersec = objItem.DiskReadsPersec
-                tmp.DiskTransfersPersec = objItem.DiskTransfersPersec
-                tmp.DiskWriteBytesPersec = objItem.DiskWriteBytesPersec
-                tmp.DiskWritesPersec = objItem.DiskWritesPersec
-                tmp.DiskFreeMegabytes = objItem.FreeMegabytes
-                tmp.DiskPercentDiskReadTime = objItem.PercentDiskReadTime
-                tmp.DiskPercentDiskTime = objItem.PercentDiskTime
-                tmp.DiskPercentDiskWriteTime = objItem.PercentDiskWriteTime
-                tmp.DiskPercentFreeSpace = objItem.PercentFreeSpace
-                tmp.DiskPercentIdleTime = objItem.PercentIdleTime
-                set ObjDisks(size) = tmp
-            end if
-        Next
-    end sub
-     
-     sub Print()
-        For Each tmp In ObjDisks
-            if not IsEmpty(tmp) Then
-                call tmp.Print
-            end if
-        Next 
-     end sub
- end class
+class ObjNetworkInterface
+    Public NetworkInterfaceBytesReceivedPersec
+    Public NetworkInterfaceBytesSentPersec
+    Public NetworkInterfaceBytesTotalPersec
+    Public NetworkInterfaceCurrentBandwidth
+    Public NetworkInterfaceName
+    Public NetworkInterfacePacketsPersec
+    Public NetworkInterfacePacketsReceivedDiscarded
+    Public NetworkInterfacePacketsReceivedErrors
+    Public NetworkInterfacePacketsReceivedNonUnicastPersec
+    Public NetworkInterfacePacketsReceivedPersec
+    Public NetworkInterfacePacketsReceivedUnicastPersec
+    Public NetworkInterfacePacketsReceivedUnknown
+    Public NetworkInterfacePacketsSentNonUnicastPersec
+    Public NetworkInterfacePacketsSentPersec
+    Public NetworkInterfacePacketsSentUnicastPersec
+    Public NetworkInterfaceTCPActiveRSCConnections
+    Public NetworkInterfaceTCPRSCAveragePacketSize
+    Public NetworkInterfaceTCPRSCCoalescedPacketsPersec
+    Public NetworkInterfaceTCPRSCExceptionsPersec
+    Public NetworkInterfaceTimestamp_Object
+    Public NetworkInterfaceTimestamp_PerfTime
+    Public NetworkInterfaceTimestamp_Sys100NS
 
-
-class ObjNetworkAdaptor
-    Public NetworkAdaptorBytesReceivedPersec
-    Public NetworkAdaptorBytesSentPersec
-    Public NetworkAdaptorBytesTotalPersec
-    Public NetworkAdaptorCaption
-    Public NetworkAdaptorCurrentBandwidth
-    Public NetworkAdaptorDescription
-    Public NetworkAdaptorFrequency_Object
-    Public NetworkAdaptorFrequency_PerfTime
-    Public NetworkAdaptorFrequency_Sys100NS
-    Public NetworkAdaptorName
-    Public NetworkAdaptorOffloadedConnections
-    Public NetworkAdaptorOutputQueueLength
-    Public NetworkAdaptorPacketsOutboundDiscarded
-    Public NetworkAdaptorPacketsOutboundErrors
-    Public NetworkAdaptorPacketsPersec
-    Public NetworkAdaptorPacketsReceivedDiscarded
-    Public NetworkAdaptorPacketsReceivedErrors
-    Public NetworkAdaptorPacketsReceivedNonUnicastPersec
-    Public NetworkAdaptorPacketsReceivedPersec
-    Public NetworkAdaptorPacketsReceivedUnicastPersec
-    Public NetworkAdaptorPacketsReceivedUnknown
-    Public NetworkAdaptorPacketsSentNonUnicastPersec
-    Public NetworkAdaptorPacketsSentPersec
-    Public NetworkAdaptorPacketsSentUnicastPersec
-    Public NetworkAdaptorTCPActiveRSCConnections
-    Public NetworkAdaptorTCPRSCAveragePacketSize
-    Public NetworkAdaptorTCPRSCCoalescedPacketsPersec
-    Public NetworkAdaptorTCPRSCExceptionsPersec
-    Public NetworkAdaptorTimestamp_Object
-    Public NetworkAdaptorTimestamp_PerfTime
-    Public NetworkAdaptorTimestamp_Sys100NS
     private sub class_Initialize
         ' Called automatically when class is created
     end sub
@@ -576,46 +678,52 @@ class ObjNetworkAdaptor
     end sub
 
     sub Print()
-        WScript.Echo "NetworkAdaptorBytesReceivedPersec=" & NetworkAdaptorBytesReceivedPersec
-        WScript.Echo "NetworkAdaptorBytesSentPersec=" & NetworkAdaptorBytesSentPersec
-        WScript.Echo "NetworkAdaptorBytesTotalPersec=" & NetworkAdaptorBytesTotalPersec
-        WScript.Echo "NetworkAdaptorCaption=" & NetworkAdaptorCaption
-        WScript.Echo "NetworkAdaptorCurrentBandwidth=" & NetworkAdaptorCurrentBandwidth
-        WScript.Echo "NetworkAdaptorDescription=" & NetworkAdaptorDescription
-        WScript.Echo "NetworkAdaptorFrequency_Object=" & NetworkAdaptorFrequency_Object
-        WScript.Echo "NetworkAdaptorFrequency_PerfTime=" & NetworkAdaptorFrequency_PerfTime
-        WScript.Echo "NetworkAdaptorFrequency_Sys100NS=" & NetworkAdaptorFrequency_Sys100NS
-        WScript.Echo "NetworkAdaptorName=" & NetworkAdaptorName
-        WScript.Echo "NetworkAdaptorOffloadedConnections=" & NetworkAdaptorOffloadedConnections
-        WScript.Echo "NetworkAdaptorOutputQueueLength=" & NetworkAdaptorOutputQueueLength
-        WScript.Echo "NetworkAdaptorPacketsOutboundDiscarded=" & NetworkAdaptorPacketsOutboundDiscarded
-        WScript.Echo "NetworkAdaptorPacketsOutboundErrors=" & NetworkAdaptorPacketsOutboundErrors
-        WScript.Echo "NetworkAdaptorPacketsPersec=" & NetworkAdaptorPacketsPersec
-        WScript.Echo "NetworkAdaptorPacketsReceivedDiscarded=" & NetworkAdaptorPacketsReceivedDiscarded
-        WScript.Echo "NetworkAdaptorPacketsReceivedErrors=" & NetworkAdaptorPacketsReceivedErrors
-        WScript.Echo "NetworkAdaptorPacketsReceivedNonUnicastPersec=" & NetworkAdaptorPacketsReceivedNonUnicastPersec
-        WScript.Echo "NetworkAdaptorPacketsReceivedPersec=" & NetworkAdaptorPacketsReceivedPersec
-        WScript.Echo "NetworkAdaptorPacketsReceivedUnicastPersec=" & NetworkAdaptorPacketsReceivedUnicastPersec
-        WScript.Echo "NetworkAdaptorPacketsReceivedUnknown=" & NetworkAdaptorPacketsReceivedUnknown
-        WScript.Echo "NetworkAdaptorPacketsSentNonUnicastPersec=" & NetworkAdaptorPacketsSentNonUnicastPersec
-        WScript.Echo "NetworkAdaptorPacketsSentPersec=" & NetworkAdaptorPacketsSentPersec
-        WScript.Echo "NetworkAdaptorPacketsSentUnicastPersec=" & NetworkAdaptorPacketsSentUnicastPersec
-        WScript.Echo "NetworkAdaptorTCPActiveRSCConnections=" & NetworkAdaptorTCPActiveRSCConnections
-        WScript.Echo "NetworkAdaptorTCPRSCAveragePacketSize=" & NetworkAdaptorTCPRSCAveragePacketSize
-        WScript.Echo "NetworkAdaptorTCPRSCCoalescedPacketsPersec=" & NetworkAdaptorTCPRSCCoalescedPacketsPersec
-        WScript.Echo "NetworkAdaptorTCPRSCExceptionsPersec=" & NetworkAdaptorTCPRSCExceptionsPersec
-        WScript.Echo "NetworkAdaptorTimestamp_Object=" & NetworkAdaptorTimestamp_Object
-        WScript.Echo "NetworkAdaptorTimestamp_PerfTime=" & NetworkAdaptorTimestamp_PerfTime
-        WScript.Echo "NetworkAdaptorTimestamp_Sys100NS=" & NetworkAdaptorTimestamp_Sys100NS
+        
     end sub
 
 end class
 
-class ObjNetworkAdaptorInfo
-    Public ObjNetworkAdaptors
+class ObjNetworkAdaptor
+    Public NetworkAdaptorAdapterType
+    Public NetworkAdaptorAdapterTypeId
+    Public NetworkAdaptorCaption
+    Public NetworkAdaptorDescription
+    Public NetworkAdaptorMACAddress
+    Public NetworkAdaptorManufacturer
+    Public NetworkAdaptorMaxSpeed
+    Public NetworkAdaptorName
+    Public NetworkAdaptorNetConnectionID
+    Public NetworkAdaptorNetConnectionStatus
+    Public NetworkAdaptorNetEnabled
+    Public NetworkAdaptorNetworkAddresses
+    Public NetworkAdaptorPermanentAddress
+    Public NetworkAdaptorPhysicalAdapter
+    Public NetworkAdaptorPNPDeviceID
+    Public NetworkAdaptorProductName
+    Public NetworkAdaptorServiceName
+    Public NetworkAdaptorSpeed
+    Public NetworkAdaptorStatus
+    Public NetworkAdaptorStatusInfo
+
+    Public NetworkAdaptorBytesReceivedPersec
+    Public NetworkAdaptorBytesSentPersec
+    Public NetworkAdaptorBytesTotalPersec
+    Public NetworkAdaptorCurrentBandwidth
+    Public NetworkAdaptorFrequency_Object
+    Public NetworkAdaptorFrequency_PerfTime
+    Public NetworkAdaptorFrequency_Sys100NS
+    Public NetworkAdaptorPacketsPersec
+    Public NetworkAdaptorPacketsReceivedDiscarded
+    Public NetworkAdaptorPacketsReceivedErrors
+    Public NetworkAdaptorPacketsReceivedNonUnicastPersec
+    Public NetworkAdaptorPacketsReceivedPersec
+    Public NetworkAdaptorPacketsReceivedUnicastPersec
+    Public NetworkAdaptorPacketsReceivedUnknown
+    Public NetworkAdaptorPacketsSentNonUnicastPersec
+    Public NetworkAdaptorPacketsSentPersec
+    Public NetworkAdaptorPacketsSentUnicastPersec
     private sub class_Initialize
         ' Called automatically when class is created
-        ObjNetworkAdaptors = Array()
     end sub
 
     private sub class_Terminate
@@ -623,51 +731,161 @@ class ObjNetworkAdaptorInfo
     end sub
 
     sub Collect()
+        
+    end sub
+
+    sub Print()
+       WScript.Echo "NetworkAdaptorAdapterType=" & NetworkAdaptorAdapterType
+       WScript.Echo "NetworkAdaptorAdapterTypeId=" & NetworkAdaptorAdapterTypeId
+       WScript.Echo "NetworkAdaptorCaption=" & NetworkAdaptorCaption
+       WScript.Echo "NetworkAdaptorDescription=" & NetworkAdaptorDescription
+       WScript.Echo "NetworkAdaptorMACAddress=" & NetworkAdaptorMACAddress
+       WScript.Echo "NetworkAdaptorManufacturer=" & NetworkAdaptorManufacturer
+       WScript.Echo "NetworkAdaptorMaxSpeed=" & NetworkAdaptorMaxSpeed
+       WScript.Echo "NetworkAdaptorName=" & NetworkAdaptorName
+       WScript.Echo "NetworkAdaptorNetConnectionID=" & NetworkAdaptorNetConnectionID
+       WScript.Echo "NetworkAdaptorNetConnectionStatus=" & NetworkAdaptorNetConnectionStatus
+       WScript.Echo "NetworkAdaptorNetEnabled=" & NetworkAdaptorNetEnabled
+       WScript.Echo "NetworkAdaptorNetworkAddresses=" & NetworkAdaptorNetworkAddresses
+       WScript.Echo "NetworkAdaptorPermanentAddress=" & NetworkAdaptorPermanentAddress
+       WScript.Echo "NetworkAdaptorPhysicalAdapter=" & NetworkAdaptorPhysicalAdapter
+       WScript.Echo "NetworkAdaptorPNPDeviceID=" & NetworkAdaptorPNPDeviceID
+       WScript.Echo "NetworkAdaptorProductName=" & NetworkAdaptorProductName
+       WScript.Echo "NetworkAdaptorServiceName=" & NetworkAdaptorServiceName
+       WScript.Echo "NetworkAdaptorSpeed=" & NetworkAdaptorSpeed
+       WScript.Echo "NetworkAdaptorStatus=" & NetworkAdaptorStatus
+       WScript.Echo "NetworkAdaptorStatusInfo=" & NetworkAdaptorStatusInfo
+
+       WScript.Echo "NetworkAdaptorBytesReceivedPersec=" & NetworkAdaptorBytesReceivedPersec
+       WScript.Echo "NetworkAdaptorBytesSentPersec=" & NetworkAdaptorBytesSentPersec
+       WScript.Echo "NetworkAdaptorBytesTotalPersec=" & NetworkAdaptorBytesTotalPersec
+       WScript.Echo "NetworkAdaptorCurrentBandwidth=" & NetworkAdaptorCurrentBandwidth
+       WScript.Echo "NetworkAdaptorFrequency_Object=" & NetworkAdaptorFrequency_Object
+       WScript.Echo "NetworkAdaptorFrequency_PerfTime=" & NetworkAdaptorFrequency_PerfTime
+       WScript.Echo "NetworkAdaptorFrequency_Sys100NS=" & NetworkAdaptorFrequency_Sys100NS
+       WScript.Echo "NetworkAdaptorPacketsPersec=" & NetworkAdaptorPacketsPersec
+       WScript.Echo "NetworkAdaptorPacketsReceivedDiscarded=" & NetworkAdaptorPacketsReceivedDiscarded
+       WScript.Echo "NetworkAdaptorPacketsReceivedErrors=" & NetworkAdaptorPacketsReceivedErrors
+       WScript.Echo "NetworkAdaptorPacketsReceivedNonUnicastPersec=" & NetworkAdaptorPacketsReceivedNonUnicastPersec
+       WScript.Echo "NetworkAdaptorPacketsReceivedPersec=" & NetworkAdaptorPacketsReceivedPersec
+       WScript.Echo "NetworkAdaptorPacketsReceivedUnicastPersec=" & NetworkAdaptorPacketsReceivedUnicastPersec
+       WScript.Echo "NetworkAdaptorPacketsReceivedUnknown=" & NetworkAdaptorPacketsReceivedUnknown
+       WScript.Echo "NetworkAdaptorPacketsSentNonUnicastPersec=" & NetworkAdaptorPacketsSentNonUnicastPersec
+       WScript.Echo "NetworkAdaptorPacketsSentPersec=" & NetworkAdaptorPacketsSentPersec
+       WScript.Echo "NetworkAdaptorPacketsSentUnicastPersec=" & NetworkAdaptorPacketsSentUnicastPersec
+    end sub
+end class
+
+class ObjNetworkAdaptorInfo
+    Public ObjNetworkAdaptors
+    Public mapNameInterfaceObj
+    private sub class_Initialize
+        ' Called automatically when class is created
+        ObjNetworkAdaptors = Array()
+        Set mapNameInterfaceObj = CreateObject("Scripting.Dictionary")
+    end sub
+
+    private sub class_Terminate
+        ' Called automatically when all references to class instance are removed
+    end sub
+
+    sub CollectInterface()
         strComputer = "."
         Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
-        Set colItems = objWMIService.ExecQuery("Select * from Win32_PerfFormattedData_Tcpip_NetworkAdapter",,48)
-
-        Dim objItem 
+        Set colItems = objWMIService.ExecQuery("Select * from Win32_PerfRawData_Tcpip_NetworkInterface",,48)
+        
+        Dim objItem 'as Win32_PerfRawData_Tcpip_NetworkInterface
         For Each objItem in colItems
-                size = UBound(ObjNetworkAdaptors)
-                if size < 0 Then
-                    size = 0
-                end if
-                WScript.Echo Size
-                Redim Preserve ObjNetworkAdaptors(size + 1)
-                set tmp = New ObjNetworkAdaptor
-                tmp.NetworkAdaptorBytesReceivedPersec = objItem.BytesReceivedPersec 
-                tmp.NetworkAdaptorBytesSentPersec = objItem.BytesSentPersec 
-                tmp.NetworkAdaptorBytesTotalPersec = objItem.BytesTotalPersec 
-                tmp.NetworkAdaptorCaption = objItem.Caption 
-                tmp.NetworkAdaptorCurrentBandwidth = objItem.CurrentBandwidth 
-                tmp.NetworkAdaptorDescription = objItem.Description 
-                tmp.NetworkAdaptorFrequency_Object = objItem.Frequency_Object 
-                tmp.NetworkAdaptorFrequency_PerfTime = objItem.Frequency_PerfTime 
-                tmp.NetworkAdaptorFrequency_Sys100NS = objItem.Frequency_Sys100NS 
-                tmp.NetworkAdaptorName = objItem.Name 
-                tmp.NetworkAdaptorOffloadedConnections = objItem.OffloadedConnections 
-                tmp.NetworkAdaptorOutputQueueLength = objItem.OutputQueueLength 
-                tmp.NetworkAdaptorPacketsOutboundDiscarded = objItem.PacketsOutboundDiscarded 
-                tmp.NetworkAdaptorPacketsOutboundErrors = objItem.PacketsOutboundErrors 
-                tmp.NetworkAdaptorPacketsPersec = objItem.PacketsPersec 
-                tmp.NetworkAdaptorPacketsReceivedDiscarded = objItem.PacketsReceivedDiscarded 
-                tmp.NetworkAdaptorPacketsReceivedErrors = objItem.PacketsReceivedErrors 
-                tmp.NetworkAdaptorPacketsReceivedNonUnicastPersec = objItem.PacketsReceivedNonUnicastPersec 
-                tmp.NetworkAdaptorPacketsReceivedPersec = objItem.PacketsReceivedPersec 
-                tmp.NetworkAdaptorPacketsReceivedUnicastPersec = objItem.PacketsReceivedUnicastPersec 
-                tmp.NetworkAdaptorPacketsReceivedUnknown = objItem.PacketsReceivedUnknown 
-                tmp.NetworkAdaptorPacketsSentNonUnicastPersec = objItem.PacketsSentNonUnicastPersec 
-                tmp.NetworkAdaptorPacketsSentPersec = objItem.PacketsSentPersec 
-                tmp.NetworkAdaptorPacketsSentUnicastPersec = objItem.PacketsSentUnicastPersec 
-                tmp.NetworkAdaptorTCPActiveRSCConnections = objItem.TCPActiveRSCConnections 
-                tmp.NetworkAdaptorTCPRSCAveragePacketSize = objItem.TCPRSCAveragePacketSize 
-                tmp.NetworkAdaptorTCPRSCCoalescedPacketsPersec = objItem.TCPRSCCoalescedPacketsPersec 
-                tmp.NetworkAdaptorTCPRSCExceptionsPersec = objItem.TCPRSCExceptionsPersec 
-                tmp.NetworkAdaptorTimestamp_Object = objItem.Timestamp_Object 
-                tmp.NetworkAdaptorTimestamp_PerfTime = objItem.Timestamp_PerfTime 
-                tmp.NetworkAdaptorTimestamp_Sys100NS = objItem.Timestamp_Sys100NS 
-                set ObjNetworkAdaptors(size) = tmp
+            set tmp = New ObjNetworkInterface
+            tmp.NetworkInterfaceBytesReceivedPersec = objItem.BytesReceivedPersec
+            tmp.NetworkInterfaceBytesSentPersec = objItem.BytesSentPersec
+            tmp.NetworkInterfaceBytesTotalPersec = objItem.BytesTotalPersec
+            tmp.NetworkInterfaceCurrentBandwidth = objItem.CurrentBandwidth
+            tmp.NetworkInterfaceName = objItem.Name
+            tmp.NetworkInterfacePacketsPersec = objItem.PacketsReceivedNonUnicastPersec
+            tmp.NetworkInterfacePacketsReceivedDiscarded = objItem.PacketsReceivedDiscarded
+            tmp.NetworkInterfacePacketsReceivedErrors = objItem.PacketsReceivedErrors
+            tmp.NetworkInterfacePacketsReceivedNonUnicastPersec = objItem.PacketsReceivedNonUnicastPersec
+            tmp.NetworkInterfacePacketsReceivedPersec = objItem.PacketsReceivedPersec
+            tmp.NetworkInterfacePacketsReceivedUnicastPersec = objItem.PacketsReceivedUnicastPersec
+            tmp.NetworkInterfacePacketsReceivedUnknown = objItem.PacketsReceivedUnknown
+            tmp.NetworkInterfacePacketsSentNonUnicastPersec = objItem.PacketsSentNonUnicastPersec
+            tmp.NetworkInterfacePacketsSentPersec = objItem.PacketsSentPersec
+            tmp.NetworkInterfacePacketsSentUnicastPersec = objItem.PacketsSentUnicastPersec
+            tmp.NetworkInterfaceTimestamp_Object = objItem.Timestamp_Object
+            tmp.NetworkInterfaceTimestamp_PerfTime = objItem.Timestamp_PerfTime
+            tmp.NetworkInterfaceTimestamp_Sys100NS = objItem.Timestamp_Sys100NS
+            WScript.Echo "xxxxxx:" & tmp.NetworkInterfaceName
+            mapNameInterfaceObj.Add tmp.NetworkInterfaceName, tmp
+        Next
+    end sub
+
+    sub Collect()
+        Call CollectInterface
+        strComputer = "."
+        Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
+        Set colItems = objWMIService.ExecQuery("Select * from Win32_NetworkAdapter",,48)
+        
+        Dim objItem 'as Win32_NetworkAdapter
+        For Each objItem in colItems    
+            size = UBound(ObjNetworkAdaptors)
+            if size < 0 Then
+                size = 0
+            end if
+            WScript.Echo Size
+            Redim Preserve ObjNetworkAdaptors(size + 1)
+            set tmp = New ObjNetworkAdaptor
+            tmp.NetworkAdaptorAdapterType = objItem.AdapterType
+            tmp.NetworkAdaptorAdapterTypeId = objItem.AdapterTypeId
+            tmp.NetworkAdaptorCaption = objItem.Caption
+            tmp.NetworkAdaptorDescription = objItem.Description
+            tmp.NetworkAdaptorMACAddress = objItem.MACAddress
+            tmp.NetworkAdaptorManufacturer = objItem.Manufacturer
+            tmp.NetworkAdaptorMaxSpeed = objItem.MaxSpeed
+            tmp.NetworkAdaptorName = objItem.Name
+            tmp.NetworkAdaptorNetConnectionID = objItem.NetConnectionID
+            tmp.NetworkAdaptorNetConnectionStatus = objItem.NetConnectionStatus
+
+            ' if objItem.NetEnabled = True Then
+            '     tmp.NetworkAdaptorNetEnabled = "up"
+            ' else
+            '     tmp.NetworkAdaptorNetEnabled = "down"
+            ' end if
+
+            ' tmp.NetworkAdaptorNetEnabled = objItem.NetEnabled
+            tmp.NetworkAdaptorNetworkAddresses = objItem.NetworkAddresses
+            tmp.NetworkAdaptorPermanentAddress = objItem.PermanentAddress
+            ' tmp.NetworkAdaptorPhysicalAdapter = objItem.PhysicalAdapter
+            tmp.NetworkAdaptorPNPDeviceID = objItem.PNPDeviceID
+            tmp.NetworkAdaptorProductName = objItem.ProductName
+            tmp.NetworkAdaptorServiceName = objItem.ServiceName
+            tmp.NetworkAdaptorSpeed = objItem.Speed
+            tmp.NetworkAdaptorStatus = objItem.Status
+            tmp.NetworkAdaptorStatusInfo = objItem.StatusInfo
+
+            WScript.Echo "tmp.NetworkAdaptorName:" & tmp.NetworkAdaptorName
+            if mapNameInterfaceObj.Exists(tmp.NetworkAdaptorName) Then
+                set obj = mapNameInterfaceObj.Item(tmp.NetworkAdaptorName) 
+                tmp.NetworkAdaptorBytesReceivedPersec = obj.NetworkInterfaceBytesReceivedPersec 
+                tmp.NetworkAdaptorBytesSentPersec = obj.NetworkInterfaceBytesSentPersec 
+                tmp.NetworkAdaptorBytesTotalPersec = obj.NetworkInterfaceBytesTotalPersec 
+                tmp.NetworkAdaptorCurrentBandwidth = obj.NetworkInterfaceCurrentBandwidth 
+                tmp.NetworkAdaptorFrequency_Object = obj.NetworkInterfaceTimestamp_Object 
+                tmp.NetworkAdaptorFrequency_PerfTime = obj.NetworkInterfaceTimestamp_PerfTime 
+                tmp.NetworkAdaptorFrequency_Sys100NS = obj.NetworkInterfaceTimestamp_Sys100NS
+                tmp.NetworkAdaptorPacketsPersec = obj.NetworkInterfacePacketsPersec 
+                tmp.NetworkAdaptorPacketsReceivedDiscarded = obj.NetworkInterfacePacketsReceivedDiscarded 
+                tmp.NetworkAdaptorPacketsReceivedErrors = obj.NetworkInterfacePacketsReceivedErrors 
+                tmp.NetworkAdaptorPacketsReceivedNonUnicastPersec = obj.NetworkInterfacePacketsReceivedNonUnicastPersec 
+                tmp.NetworkAdaptorPacketsReceivedPersec = obj.NetworkInterfacePacketsReceivedPersec 
+                tmp.NetworkAdaptorPacketsReceivedUnicastPersec = obj.NetworkInterfacePacketsReceivedUnicastPersec 
+                tmp.NetworkAdaptorPacketsReceivedUnknown = obj.NetworkInterfacePacketsReceivedUnknown 
+                tmp.NetworkAdaptorPacketsSentNonUnicastPersec = obj.NetworkInterfacePacketsSentNonUnicastPersec 
+                tmp.NetworkAdaptorPacketsSentPersec = obj.NetworkInterfacePacketsSentPersec 
+                tmp.NetworkAdaptorPacketsSentUnicastPersec = obj.NetworkInterfacePacketsSentUnicastPersec 
+
+            end if
+            set ObjNetworkAdaptors(size) = tmp
         Next
     end sub
 
@@ -680,8 +898,6 @@ class ObjNetworkAdaptorInfo
     end sub
 
 end class
-
-
 
 class ObjService
     Public ServiceAcceptPause
@@ -843,7 +1059,7 @@ class ObjSchTaskInfo
         currentRows = 0
         isFirst = 1
         for i = 0 to UBound(arrSplitStr) step 1
-            ' 第一行是空行,所以去除
+            ' ??????????,???????
             if i <> 0 Then
                 size  = UBound( arrSplit, 2) 
                 if arrSplitStr(i) = "" Then
@@ -854,7 +1070,7 @@ class ObjSchTaskInfo
                     tmp = Split(arrSplitStr(i), ":", 2)
                     if isFirst = 1 Then
                         isFirst = 0
-                        if tmp(0) = "文件夹" Then
+                        if tmp(0) = "?????" Then
                             curentfolder = tmp(1)
                         end if
                         arrSplit(currentRows, size-1) = curentfolder
@@ -875,18 +1091,23 @@ class ObjSchTaskInfo
             end if
             Redim Preserve ObjSchTasks(size + 1)
             set tmp = New ObjSchTask
-            tmp.SchTaskName = arrSplit(2, i)
+             tmp.SchTaskName = arrSplit(2, i)
+             tmp.SchTaskNextRuntime = arrSplit(3, i)
+             tmp.SchTaskMode = arrSplit(4, i)
+             tmp.SchTaskLastRuntime = arrSplit(4, i)
+             tmp.SchTaskLastResult= arrSplit(7, i)
+             tmp.SchTask = arrSplit(9, i)
+             tmp.SchTaskStatus = arrSplit(12, i)
             set ObjSchTasks(size) = tmp
         next
     end sub
 
     sub Print()
-        Call ObjSchTasks(0).Print
-        ' For Each tmp In ObjServices
-        '     if not IsEmpty(tmp) Then
-        '         call tmp.Print
-        '     end if
-        ' Next 
+        For Each tmp In ObjSchTasks
+            if not IsEmpty(tmp) Then
+                call tmp.Print
+            end if
+        Next 
     end sub
 end class
 
@@ -894,6 +1115,12 @@ end class
 
 class ObjSchTask
     Public SchTaskName 
+    Public SchTaskNextRuntime
+    Public SchTaskLastRuntime 
+    Public SchTaskLastResult 
+    Public SchTaskMode 
+    Public SchTaskStatus 
+    Public SchTask
     private sub class_Initialize
         ' Called automatically when class is created
     end sub
@@ -907,37 +1134,99 @@ class ObjSchTask
     end sub
 
     sub Print()
-        WScript.Echo "SchTaskName=" & SchTaskName
+       WScript.Echo "SchTaskName=" & SchTaskName 
+       WScript.Echo "SchTaskNextRuntim=" & SchTaskNextRuntime
+       WScript.Echo "SchTaskLastRuntime=" & SchTaskLastRuntime 
+       WScript.Echo "SchTaskLastResult=" & SchTaskLastResult 
+       WScript.Echo "SchTaskName=" & SchTaskName 
+       WScript.Echo "SchTaskMode=" & SchTaskMode 
+       WScript.Echo "SchTaskStatus=" & SchTaskStatus 
+       WScript.Echo "SchTask=" & SchTask
     end sub
+end class
+
+
+class ObjTcpInfo
+    Public TcpConnectionFailures
+    Public TcpConnectionsActive
+    Public TcpConnectionsEstablished
+    Public TcpConnectionsPassive
+    Public TcpConnectionsReset
+    Public TcpSegmentsPersec
+    Public TcpSegmentsReceivedPersec
+    Public TcpSegmentsRetransmittedPersec
+    Public TcpSegmentsSentPersec
+
+    private sub class_Initialize
+        ' Called automatically when class is created
+    end sub
+
+    private sub class_Terminate
+        ' Called automatically when all references to class instance are removed
+    end sub
+
+    sub Collect()
+        strComputer = "."
+        Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
+        Set colItems = objWMIService.ExecQuery("Select * from Win32_PerfRawData_Tcpip_TCPv4",,48)
+        
+        Dim objItem 'as Win32_PerfRawData_Tcpip_TCPv4
+        For Each objItem in colItems
+            TcpConnectionFailures = objItem.ConnectionFailures
+            TcpConnectionsActive = objItem.ConnectionsActive
+            TcpConnectionsEstablished = objItem.ConnectionsEstablished
+            TcpConnectionsPassive = objItem.ConnectionsPassive
+            TcpConnectionsReset = objItem.ConnectionsReset
+            TcpSegmentsPersec = objItem.SegmentsPersec
+            TcpSegmentsReceivedPersec = objItem.SegmentsReceivedPersec
+            TcpSegmentsRetransmittedPersec = objItem.SegmentsRetransmittedPersec
+            TcpSegmentsSentPersec = objItem.SegmentsSentPersec
+        Next
+    end sub
+
+    sub Print()
+        WScript.Echo "TcpConnectionFailures=" & TcpConnectionFailures
+        WScript.Echo "TcpConnectionsActive=" & TcpConnectionsActive
+        WScript.Echo "TcpConnectionsEstablished=" & TcpConnectionsEstablished
+        WScript.Echo "TcpConnectionsPassive=" & TcpConnectionsPassive
+        WScript.Echo "TcpConnectionsReset=" & TcpConnectionsReset
+        WScript.Echo "TcpSegmentsPersec=" & TcpSegmentsPersec
+        WScript.Echo "TcpSegmentsReceivedPersec=" & TcpSegmentsReceivedPersec
+        WScript.Echo "TcpSegmentsRetransmittedPersec=" & TcpSegmentsRetransmittedPersec
+        WScript.Echo "TcpSegmentsSentPersec=" & TcpSegmentsSentPersec
+    end sub
+
 end class
 
 
 
 
 
+set  objProInfo = New ObjProcessInfo
+objProInfo.Collect
+objProInfo.Print
 
-' set  objProInfo = New ObjProcessInfo
-' objProInfo.Collect
-' objProInfo.Print
-
-' set objSyInfo = New ObjSystemInfo
-' objSyInfo.Collect
-' objSyInfo.Print
-
-
-' set objSyInfo = New ObjCpuInfo
-' objSyInfo.Collect
-' objSyInfo.Print
-
-' set objSyInfo = New ObjDiskInfo
-' objSyInfo.Collect
-' objSyInfo.Print
-
-' set objSyInfo = New ObjNetworkAdaptorInfo
-' objSyInfo.Collect
-' objSyInfo.Print
+set objSysInfo = New ObjSystemInfo
+objSysInfo.Collect
+objSysInfo.Print
 
 
-set objSyInfo = New ObjSchTaskInfo
-objSyInfo.Collect
-objSyInfo.Print
+set objCpInfo = New ObjCpuInfo
+objCpInfo.Collect
+objCpInfo.Print
+
+set objDisInfo = New ObjDiskInfo
+objDisInfo.Collect
+objDisInfo.Print
+
+set objNetworkInfo = New ObjNetworkAdaptorInfo
+objNetworkInfo.Collect
+objNetworkInfo.Print
+
+set objSchInfo = New ObjSchTaskInfo
+objSchInfo.Collect
+objSchInfo.Print
+
+set objTcInfo = New ObjTcpInfo
+objTcInfo.Collect
+objTcInfo.Print
