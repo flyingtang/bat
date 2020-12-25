@@ -1,4 +1,3 @@
-
 class ObjSchTaskInfo
     Public ObjSchTasks
     Public  rowCont 
@@ -17,16 +16,18 @@ class ObjSchTaskInfo
         ' WScript.Echo strResult
         arrSplitStr =  Split(strResult, vbCrLf)
 
-        Dim  arrSplit() ,curentfolder
+        Dim  arrSplit() ,curentfolder, arrSplitKey()
         ReDim arrSplit(rowCont, 1) 
+        ReDim arrSplitKey(rowCont, 1) 
         currentRows = 0
         isFirst = 1
         for i = 0 to UBound(arrSplitStr) step 1
             ' 第一行是空行,所以去除
             if i <> 0 Then
-                size  = UBound( arrSplit, 2) 
+                size  = UBound(arrSplit, 2) 
                 if arrSplitStr(i) = "" Then
                     ReDim Preserve arrSplit(rowCont, size+1) 
+                    ReDim Preserve arrSplitKey(rowCont, size+1) 
                     currentRows = 0
                     isFirst = 1
                 else
@@ -37,35 +38,60 @@ class ObjSchTaskInfo
                             curentfolder = tmp(1)
                         end if
                         arrSplit(currentRows, size-1) = curentfolder
+                        arrSplitKey(currentRows, size-1) = tmp(0)
                     else   
-                        
                         arrSplit(currentRows, size-1) = tmp(1)
+                        arrSplitKey(currentRows, size-1) = tmp(0)
                     end if 
                     currentRows = currentRows + 1    
                 end if
             end if
         next
         
-      
-        for i = 0 to  UBound( arrSplit, 2)  step 1
-            size = UBound(ObjSchTasks)
-            if size < 0 Then
-                size = 0
-            end if
-            Redim Preserve ObjSchTasks(size + 1)
-            set tmp = New ObjSchTask
-            tmp.SchTaskName = arrSplit(2, i)
-            set ObjSchTasks(size) = tmp
+        intCoumnSize = UBound(arrSplitKey, 2)
+        for i = 0 to  intCoumnSize  step 1
+            if i < intCoumnSize -1 Then
+                size = UBound(ObjSchTasks)
+                if size < 0 Then
+                    size = 0
+                end if
+                Redim Preserve ObjSchTasks(size + 1)
+                set tmp = New ObjSchTask
+
+                for j = 0 to rowCont step 1
+                    strKeyName = arrSplitKey(j, i)
+                    select case strKeyName
+                        case "任务名"
+                            tmp.SchTaskName = arrSplit(j, i)
+                        case "下次运行时间"
+                            tmp.SchTaskNextRuntime = arrSplit(j, i)
+                        case "模式"
+                            tmp.SchTaskMode = arrSplit(j, i)
+                        case "上次运行时间"
+                            tmp.SchTaskLastRuntime = arrSplit(j, i)
+                        case "上次结果"
+                            tmp.SchTaskLastResult = arrSplit(j, i)
+                        case "要运行的任务"
+                            tmp.SchTask = arrSplit(j, i)
+                        case "计划任务状态"
+                            tmp.SchTaskStatus = arrSplit(j, i)
+                        case "计划的类型"
+                            tmp.SchTaskType = arrSplit(j, i)
+                        case else
+                            
+                    end select
+                next
+                set ObjSchTasks(size) = tmp
+            end if 
         next
     end sub
 
     sub Print()
-        Call ObjSchTasks(0).Print
-        ' For Each tmp In ObjServices
-        '     if not IsEmpty(tmp) Then
-        '         call tmp.Print
-        '     end if
-        ' Next 
+        For Each tmp In ObjSchTasks
+            if not IsEmpty(tmp) Then
+                call tmp.Print
+            end if
+        Next 
     end sub
 end class
 
@@ -73,6 +99,13 @@ end class
 
 class ObjSchTask
     Public SchTaskName 
+    Public SchTaskNextRuntime
+    Public SchTaskLastRuntime 
+    Public SchTaskLastResult 
+    Public SchTaskMode 
+    Public SchTaskStatus 
+    Public SchTask
+    Public SchTaskType
     private sub class_Initialize
         ' Called automatically when class is created
     end sub
@@ -86,11 +119,17 @@ class ObjSchTask
     end sub
 
     sub Print()
-        WScript.Echo "SchTaskName=" & SchTaskName
+       WScript.Echo "SchTaskName=" & SchTaskName 
+       WScript.Echo "SchTaskNextRuntim=" & SchTaskNextRuntime
+       WScript.Echo "SchTaskLastRuntime=" & SchTaskLastRuntime 
+       WScript.Echo "SchTaskLastResult=" & SchTaskLastResult 
+       WScript.Echo "SchTaskName=" & SchTaskName 
+       WScript.Echo "SchTaskMode=" & SchTaskMode 
+       WScript.Echo "SchTaskStatus=" & SchTaskStatus 
+       WScript.Echo "SchTask=" & SchTask
+       WScript.Echo "SchTaskType=" & SchTaskType
     end sub
 end class
-
-
 
 set objSyInfo = New ObjSchTaskInfo
 objSyInfo.Collect

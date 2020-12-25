@@ -1,0 +1,163 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+BytesReceivedPersec: 1151068671
+BytesSentPersec: 1160166494
+BytesTotalPersec: 2311235165
+Caption: 
+CurrentBandwidth: 243650000
+Description: 
+Frequency_Object: 0
+Frequency_PerfTime: 2929690
+Frequency_Sys100NS: 10000000
+Name: Realtek RTL8821CE 802.11ac PCIe Adapter
+OffloadedConnections: 0
+OutputQueueLength: 0
+PacketsOutboundDiscarded: 0
+PacketsOutboundErrors: 0
+PacketsPersec: 5225097
+PacketsReceivedDiscarded: 0
+PacketsReceivedErrors: 0
+PacketsReceivedNonUnicastPersec: 868071
+PacketsReceivedPersec: 3098955
+PacketsReceivedUnicastPersec: 2230884
+PacketsReceivedUnknown: 0
+PacketsSentNonUnicastPersec: 67484
+PacketsSentPersec: 2126142
+PacketsSentUnicastPersec: 2058658
+TCPActiveRSCConnections: 0
+TCPRSCAveragePacketSize: 0
+TCPRSCCoalescedPacketsPersec: 0
+TCPRSCExceptionsPersec: 0
+Timestamp_Object: 0
+Timestamp_PerfTime: 584071157274
+Timestamp_Sys100NS: 132533874457170000
+
+BytesReceivedPersec: 0
+BytesSentPersec: 0
+BytesTotalPersec: 0
+Caption: 
+CurrentBandwidth: 100000
+Description: 
+Frequency_Object: 0
+Frequency_PerfTime: 2929690
+Frequency_Sys100NS: 10000000
+Name: isatap.{2339A2F0-DF6D-40C0-8EDC-2FDAD046CC6A}
+OffloadedConnections: 0
+OutputQueueLength: 0
+PacketsOutboundDiscarded: 0
+PacketsOutboundErrors: 0
+PacketsPersec: 0
+PacketsReceivedDiscarded: 0
+PacketsReceivedErrors: 0
+PacketsReceivedNonUnicastPersec: 0
+PacketsReceivedPersec: 0
+PacketsReceivedUnicastPersec: 0
+PacketsReceivedUnknown: 0
+PacketsSentNonUnicastPersec: 0
+PacketsSentPersec: 0
+PacketsSentUnicastPersec: 0
+TCPActiveRSCConnections: 0
+TCPRSCAveragePacketSize: 0
+TCPRSCCoalescedPacketsPersec: 0
+TCPRSCExceptionsPersec: 0
+Timestamp_Object: 0
+Timestamp_PerfTime: 584071157274
+Timestamp_Sys100NS: 132533874457170000
+
+BytesReceivedPersec: 7752
+BytesSentPersec: 505473
+BytesTotalPersec: 513225
+Caption: 
+CurrentBandwidth: 100000
+Description: 
+Frequency_Object: 0
+Frequency_PerfTime: 2929690
+Frequency_Sys100NS: 10000000
+Name: Teredo Tunneling Pseudo-Interface
+OffloadedConnections: 0
+OutputQueueLength: 0
+PacketsOutboundDiscarded: 0
+PacketsOutboundErrors: 0
+PacketsPersec: 3646
+PacketsReceivedDiscarded: 0
+PacketsReceivedErrors: 0
+PacketsReceivedNonUnicastPersec: 0
+PacketsReceivedPersec: 51
+PacketsReceivedUnicastPersec: 51
+PacketsReceivedUnknown: 0
+PacketsSentNonUnicastPersec: 0
+PacketsSentPersec: 3595
+PacketsSentUnicastPersec: 3595
+TCPActiveRSCConnections: 0
+TCPRSCAveragePacketSize: 0
+TCPRSCCoalescedPacketsPersec: 0
+TCPRSCExceptionsPersec: 0
+Timestamp_Object: 0
+Timestamp_PerfTime: 584071157274
+Timestamp_Sys100NS: 132533874457170000
+
+BytesReceivedPersec: 0
+BytesSentPersec: 0
+BytesTotalPersec: 0
+Caption: 
+CurrentBandwidth: 100000
+Description: 
+Frequency_Object: 0
+Frequency_PerfTime: 2929690
+Frequency_Sys100NS: 10000000
+Name: isatap.{E427505A-C171-4EF9-A05A-54F7042E3D23}
+OffloadedConnections: 0
+OutputQueueLength: 0
+PacketsOutboundDiscarded: 0
+PacketsOutboundErrors: 0
+PacketsPersec: 0
+PacketsReceivedDiscarded: 0
+PacketsReceivedErrors: 0
+PacketsReceivedNonUnicastPersec: 0
+PacketsReceivedPersec: 0
+PacketsReceivedUnicastPersec: 0
+PacketsReceivedUnknown: 0
+PacketsSentNonUnicastPersec: 0
+PacketsSentPersec: 0
+PacketsSentUnicastPersec: 0
+TCPActiveRSCConnections: 0
+TCPRSCAveragePacketSize: 0
+TCPRSCCoalescedPacketsPersec: 0
+TCPRSCExceptionsPersec: 0
+Timestamp_Object: 0
+Timestamp_PerfTime: 584071157274
+Timestamp_Sys100NS: 132533874457170000
+
+BytesReceivedPersec: 0
+BytesSentPersec: 0
+BytesTotalPersec: 0
+Caption: 
+CurrentBandwidth: 100000
+Description: 
+Frequency_Object: 0
+Frequency_PerfTime: 2929690
+Frequency_Sys100NS: 10000000
+Name: isatap.{BB877420-1817-472A-A656-C3B341400D72}
+OffloadedConnections: 0
+OutputQueueLength: 0
+PacketsOutboundDiscarded: 0
+PacketsOutboundErrors: 0
+PacketsPersec: 0
+PacketsReceivedDiscarded: 0
+PacketsReceivedErrors: 0
+PacketsReceivedNonUnicastPersec: 0
+PacketsReceivedPersec: 0
+PacketsReceivedUnicastPersec: 0
+PacketsReceivedUnknown: 0
+PacketsSentNonUnicastPersec: 0
+PacketsSentPersec: 0
+PacketsSentUnicastPersec: 0
+TCPActiveRSCConnections: 0
+TCPRSCAveragePacketSize: 0
+TCPRSCCoalescedPacketsPersec: 0
+TCPRSCExceptionsPersec: 0
+Timestamp_Object: 0
+Timestamp_PerfTime: 584071157274
+Timestamp_Sys100NS: 132533874457170000
+

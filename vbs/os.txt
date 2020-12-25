@@ -1,67 +1,61 @@
-Microsoft (R) Windows Script Host Version 5.812
-版权所有(C) Microsoft Corporation。保留所有权利。
-
-BootDevice: \Device\HarddiskVolume2
-BuildNumber: 10240
-BuildType: Multiprocessor Free
-Caption: Microsoft Windows 10 企业版
+BootDevice: \Device\HarddiskVolume1
+BuildNumber: 3790
+BuildType: Uniprocessor Free
+Caption: Microsoft(R) Windows(R) Server 2003 Enterprise x64 Edition
 CodeSet: 936
 CountryCode: 86
 CreationClassName: Win32_OperatingSystem
 CSCreationClassName: Win32_ComputerSystem
-CSDVersion: 
-CSName: DESKTOP-JK64T46
+CSDVersion: Service Pack 2
+CSName: WINDOWS2003-X64
 CurrentTimeZone: 480
 DataExecutionPrevention_32BitApplications: True
 DataExecutionPrevention_Available: True
 DataExecutionPrevention_Drivers: True
-DataExecutionPrevention_SupportPolicy: 2
+DataExecutionPrevention_SupportPolicy: 3
 Debug: False
-Description: 
+Description:
 Distributed: False
-EncryptionLevel: 256
+EncryptionLevel: 168
 ForegroundApplicationBoost: 2
-FreePhysicalMemory: 8429892
-FreeSpaceInPagingFiles: 9538272
-FreeVirtualMemory: 12342936
-InstallDate: 20190821085200.000000+480
-LargeSystemCache: 
-LastBootUpTime: 20201221122955.492346+480
-LocalDateTime: 20201222173726.769000+480
+FreePhysicalMemory: 1666488
+FreeSpaceInPagingFiles: 2050484
+FreeVirtualMemory: 3441600
+InstallDate: 20190109055537.000000+480
+LargeSystemCache: 1
+LastBootUpTime: 20201218165240.500000+480
+LocalDateTime: 20201225093821.765000+480
 Locale: 0804
 Manufacturer: Microsoft Corporation
 MaxNumberOfProcesses: -1
-MaxProcessMemorySize: 137438953344
-Name: Microsoft Windows 10 企业版|C:\Windows|\Device\Harddisk0\Partition4
-NumberOfLicensedUsers: 
-NumberOfProcesses: 163
-NumberOfUsers: 2
-OperatingSystemSKU: 4
-Organization: 
-OSArchitecture: 64 位
+MaxProcessMemorySize: 8589934464
+Name: Microsoft Windows Server 2003 R2 Enterprise x64 Edition|C:\WINDOWS|\Device
+\Harddisk0\Partition1
+NumberOfLicensedUsers: 50
+NumberOfProcesses: 51
+NumberOfUsers: 3
+Organization: geesunn
 OSLanguage: 2052
-OSProductSuite: 256
+OSProductSuite: 274
 OSType: 18
-OtherTypeDescription: 
-PAEEnabled: 
-PlusProductID: 
-PlusVersionNumber: 
-PortableOperatingSystem: False
+OtherTypeDescription: R2
+PAEEnabled:
+PlusProductID:
+PlusVersionNumber:
 Primary: True
-ProductType: 1
+ProductType: 3
 RegisteredUser: geesunn
-SerialNumber: 00329-00000-00003-AA066
-ServicePackMajorVersion: 0
+SerialNumber: 91353-643-0069204-50160
+ServicePackMajorVersion: 2
 ServicePackMinorVersion: 0
-SizeStoredInPagingFiles: 9961472
+SizeStoredInPagingFiles: 2095104
 Status: OK
-SuiteMask: 272
-SystemDevice: \Device\HarddiskVolume4
-SystemDirectory: C:\Windows\system32
+SuiteMask: 274
+SystemDevice: \Device\HarddiskVolume1
+SystemDirectory: C:\WINDOWS\system32
 SystemDrive: C:
-TotalSwapSpaceSize: 
-TotalVirtualMemorySize: 26640156
-TotalVisibleMemorySize: 16678684
-Version: 10.0.10240
-WindowsDirectory: C:\Windows
-
+TotalSwapSpaceSize:
+TotalVirtualMemorySize: 4059252
+TotalVisibleMemorySize: 2096468
+Version: 5.2.3790
+WindowsDirectory: C:\WINDOWS

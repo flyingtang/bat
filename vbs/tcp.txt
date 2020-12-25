@@ -1,0 +1,22 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+Caption: 
+ConnectionFailures: 7323
+ConnectionsActive: 42115
+ConnectionsEstablished: 25
+ConnectionsPassive: 10449
+ConnectionsReset: 2945
+Description: 
+Frequency_Object: 0
+Frequency_PerfTime: 2929690
+Frequency_Sys100NS: 10000000
+Name: 
+SegmentsPersec: 4718633
+SegmentsReceivedPersec: 2607922
+SegmentsRetransmittedPersec: 244192
+SegmentsSentPersec: 2110711
+Timestamp_Object: 0
+Timestamp_PerfTime: 592226086201
+Timestamp_Sys100NS: 132533902292640000
+

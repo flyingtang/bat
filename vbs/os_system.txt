@@ -1,0 +1,31 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+AlignmentFixupsPersec: 0
+Caption: 
+ContextSwitchesPersec: 1224941065
+Description: 
+ExceptionDispatchesPersec: 753812
+FileControlBytesPersec: 74968172202
+FileControlOperationsPersec: 800509641
+FileDataOperationsPersec: 99581376
+FileReadBytesPersec: 73086052479
+FileReadOperationsPersec: 62570618
+FileWriteBytesPersec: 57382800341
+FileWriteOperationsPersec: 37010758
+FloatingEmulationsPersec: 0
+Frequency_Object: 10000000
+Frequency_PerfTime: 2929690
+Frequency_Sys100NS: 10000000
+Name: 
+PercentRegistryQuotaInUse: 164886448
+PercentRegistryQuotaInUse_Base: -1
+Processes: 157
+ProcessorQueueLength: 0
+SystemCallsPersec: -1172253864
+SystemUpTime: 132531592834922958
+Threads: 2721
+Timestamp_Object: 132533396900620970
+Timestamp_PerfTime: 528536964032
+Timestamp_Sys100NS: 132533684900620000
+

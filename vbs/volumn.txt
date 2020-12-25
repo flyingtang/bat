@@ -1,0 +1,228 @@
+Microsoft (R) Windows Script Host Version 5.812
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+Access: 
+Automount: True
+Availability: 
+BlockSize: 4096
+BootVolume: False
+Capacity: 471855104
+Caption: D:\
+Compressed: False
+ConfigManagerErrorCode: 
+ConfigManagerUserConfig: 
+CreationClassName: 
+Description: 
+DeviceID: \\?\Volume{444f6965-698b-45ea-ab0b-948422a9fcd3}\
+DirtyBitSet: 
+DriveLetter: D:
+DriveType: 3
+ErrorCleared: 
+ErrorDescription: 
+ErrorMethodology: 
+FileSystem: NTFS
+FreeSpace: 54366208
+IndexingEnabled: True
+InstallDate: 
+Label: 恢复
+LastErrorCode: 
+MaximumFileNameLength: 255
+Name: D:\
+NumberOfBlocks: 
+PageFilePresent: False
+PNPDeviceID: 
+PowerManagementCapabilities: 
+PowerManagementSupported: 
+Purpose: 
+QuotasEnabled: 
+QuotasIncomplete: 
+QuotasRebuilding: 
+SerialNumber: 1151046211
+Status: 
+StatusInfo: 
+SupportsDiskQuotas: True
+SupportsFileBasedCompression: True
+SystemCreationClassName: 
+SystemName: 
+SystemVolume: False
+
+Access: 
+Automount: True
+Availability: 
+BlockSize: 4096
+BootVolume: True
+Capacity: 119439093760
+Caption: C:\
+Compressed: False
+ConfigManagerErrorCode: 
+ConfigManagerUserConfig: 
+CreationClassName: 
+Description: 
+DeviceID: \\?\Volume{7164ec4b-c3fd-4c9f-b4e6-79cf7baf528c}\
+DirtyBitSet: 
+DriveLetter: C:
+DriveType: 3
+ErrorCleared: 
+ErrorDescription: 
+ErrorMethodology: 
+FileSystem: NTFS
+FreeSpace: 15947919360
+IndexingEnabled: True
+InstallDate: 
+Label: 
+LastErrorCode: 
+MaximumFileNameLength: 255
+Name: C:\
+NumberOfBlocks: 
+PageFilePresent: False
+PNPDeviceID: 
+PowerManagementCapabilities: 
+PowerManagementSupported: 
+Purpose: 
+QuotasEnabled: 
+QuotasIncomplete: 
+QuotasRebuilding: 
+SerialNumber: 749078330
+Status: 
+StatusInfo: 
+SupportsDiskQuotas: True
+SupportsFileBasedCompression: True
+SystemCreationClassName: 
+SystemName: 
+SystemVolume: False
+
+Access: 
+Automount: True
+Availability: 
+BlockSize: 4096
+BootVolume: False
+Capacity: 322123591680
+Caption: E:\
+Compressed: False
+ConfigManagerErrorCode: 
+ConfigManagerUserConfig: 
+CreationClassName: 
+Description: 
+DeviceID: \\?\Volume{935d9f87-d7c8-4c24-8527-aa82980f5b88}\
+DirtyBitSet: 
+DriveLetter: E:
+DriveType: 3
+ErrorCleared: 
+ErrorDescription: 
+ErrorMethodology: 
+FileSystem: NTFS
+FreeSpace: 201222602752
+IndexingEnabled: True
+InstallDate: 
+Label: 软件
+LastErrorCode: 
+MaximumFileNameLength: 255
+Name: E:\
+NumberOfBlocks: 
+PageFilePresent: True
+PNPDeviceID: 
+PowerManagementCapabilities: 
+PowerManagementSupported: 
+Purpose: 
+QuotasEnabled: 
+QuotasIncomplete: 
+QuotasRebuilding: 
+SerialNumber: 752249
+Status: 
+StatusInfo: 
+SupportsDiskQuotas: True
+SupportsFileBasedCompression: True
+SystemCreationClassName: 
+SystemName: 
+SystemVolume: False
+
+Access: 
+Automount: True
+Availability: 
+BlockSize: 4096
+BootVolume: False
+Capacity: 339303460864
+Caption: F:\
+Compressed: False
+ConfigManagerErrorCode: 
+ConfigManagerUserConfig: 
+CreationClassName: 
+Description: 
+DeviceID: \\?\Volume{e54fdf34-1077-46b1-aabd-cb71182755ab}\
+DirtyBitSet: 
+DriveLetter: F:
+DriveType: 3
+ErrorCleared: 
+ErrorDescription: 
+ErrorMethodology: 
+FileSystem: NTFS
+FreeSpace: 188949901312
+IndexingEnabled: True
+InstallDate: 
+Label: 文档
+LastErrorCode: 
+MaximumFileNameLength: 255
+Name: F:\
+NumberOfBlocks: 
+PageFilePresent: False
+PNPDeviceID: 
+PowerManagementCapabilities: 
+PowerManagementSupported: 
+Purpose: 
+QuotasEnabled: 
+QuotasIncomplete: 
+QuotasRebuilding: 
+SerialNumber: 758471
+Status: 
+StatusInfo: 
+SupportsDiskQuotas: True
+SupportsFileBasedCompression: True
+SystemCreationClassName: 
+SystemName: 
+SystemVolume: False
+
+Access: 
+Automount: True
+Availability: 
+BlockSize: 4096
+BootVolume: False
+Capacity: 338776756224
+Caption: G:\
+Compressed: False
+ConfigManagerErrorCode: 
+ConfigManagerUserConfig: 
+CreationClassName: 
+Description: 
+DeviceID: \\?\Volume{c019fd63-75b8-4b5e-afc6-72226837df3e}\
+DirtyBitSet: 
+DriveLetter: G:
+DriveType: 3
+ErrorCleared: 
+ErrorDescription: 
+ErrorMethodology: 
+FileSystem: NTFS
+FreeSpace: 101243711488
+IndexingEnabled: True
+InstallDate: 
+Label: 数据
+LastErrorCode: 
+MaximumFileNameLength: 255
+Name: G:\
+NumberOfBlocks: 
+PageFilePresent: False
+PNPDeviceID: 
+PowerManagementCapabilities: 
+PowerManagementSupported: 
+Purpose: 
+QuotasEnabled: 
+QuotasIncomplete: 
+QuotasRebuilding: 
+SerialNumber: 705221
+Status: 
+StatusInfo: 
+SupportsDiskQuotas: True
+SupportsFileBasedCompression: True
+SystemCreationClassName: 
+SystemName: 
+SystemVolume: False
+
