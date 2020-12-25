@@ -495,7 +495,7 @@ class ObjCpuInfo
                     size = 0
                 end if
 
-                WScript.Echo Size
+
                 Redim Preserve ObjDisks(size + 1)
 
                 set tmp = New ObjDisk
@@ -815,7 +815,6 @@ class ObjNetworkAdaptorInfo
             tmp.NetworkInterfaceTimestamp_Object = objItem.Timestamp_Object
             tmp.NetworkInterfaceTimestamp_PerfTime = objItem.Timestamp_PerfTime
             tmp.NetworkInterfaceTimestamp_Sys100NS = objItem.Timestamp_Sys100NS
-            WScript.Echo "xxxxxx:" & tmp.NetworkInterfaceName
             mapNameInterfaceObj.Add tmp.NetworkInterfaceName, tmp
         Next
     end sub
@@ -832,7 +831,6 @@ class ObjNetworkAdaptorInfo
             if size < 0 Then
                 size = 0
             end if
-            WScript.Echo Size
             Redim Preserve ObjNetworkAdaptors(size + 1)
             set tmp = New ObjNetworkAdaptor
             tmp.NetworkAdaptorAdapterType = objItem.AdapterType
@@ -863,7 +861,6 @@ class ObjNetworkAdaptorInfo
             tmp.NetworkAdaptorStatus = objItem.Status
             tmp.NetworkAdaptorStatusInfo = objItem.StatusInfo
 
-            WScript.Echo "tmp.NetworkAdaptorName:" & tmp.NetworkAdaptorName
             if mapNameInterfaceObj.Exists(tmp.NetworkAdaptorName) Then
                 set obj = mapNameInterfaceObj.Item(tmp.NetworkAdaptorName) 
                 tmp.NetworkAdaptorBytesReceivedPersec = obj.NetworkInterfaceBytesReceivedPersec 
@@ -1040,18 +1037,18 @@ class ObjSchTaskInfo
     Public ObjSchTasks
     Public  rowCont 
     private sub class_Initialize
-        ' Called automatically when class is created
+        
         ObjSchTasks = Array()
         rowCont = 29
     end sub
 
     private sub class_Terminate
-        ' Called automatically when all references to class instance are removed
+        
     end sub
 
     sub Collect()
         strResult = createobject("wscript.shell").exec("SCHTASKS /Query /FO LIST /V").StdOut.ReadAll
-        ' WScript.Echo strResult
+    
         arrSplitStr =  Split(strResult, vbCrLf)
 
         Dim  arrSplit() ,curentfolder
