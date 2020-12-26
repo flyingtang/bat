@@ -14,6 +14,7 @@ For Each objItem in colItems
 	WScript.Echo "SID: " & objItem.SID
 	WScript.Echo "SIDType: " & objItem.SIDType
 	WScript.Echo "Status: " & objItem.Status
+	
 	WScript.Echo ""
 Next
 WScript.Echo "========================================="

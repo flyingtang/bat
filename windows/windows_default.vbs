@@ -420,25 +420,25 @@ class ObjCpuInfo
  end class
 
 
- class ObjDiskInfo
+class ObjDiskInfo
     Public ObjDisks
     Public mapNameDiskObj
     Public Capacity
     Public VolunmFreeSpace
     Public VolunmUsedSpace
-     private sub class_Initialize
-         ' Called automatically when class is created
-         ObjDisks = Array()
-         Capacity = 0
-         VolunmFreeSpace = 0
-         Set mapNameDiskObj = CreateObject("Scripting.Dictionary")
-     end sub
- 
-     private sub class_Terminate
-         ' Called automatically when all references to class instance are removed
-     end sub
+    private sub class_Initialize
+        ' Called automatically when class is created
+        ObjDisks = Array()
+        Capacity = 0
+        VolunmFreeSpace = 0
+        Set mapNameDiskObj = CreateObject("Scripting.Dictionary")
+    end sub
 
-     sub CollectVolumn()
+    private sub class_Terminate
+        ' Called automatically when all references to class instance are removed
+    end sub
+
+    sub CollectVolumn()
         strComputer = "."
         Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
         Set colItems = objWMIService.ExecQuery("Select * from Win32_Volume",,48)
@@ -481,7 +481,7 @@ class ObjCpuInfo
          VolunmUsedSpace = Capacity - VolunmFreeSpace
      end sub
  
-     sub Collect()
+    sub Collect()
         Call CollectVolumn
        ' io ???
         strComputer = "."
@@ -537,8 +537,7 @@ class ObjCpuInfo
         Next
     end sub
      
-     sub Print()
-
+    sub Print()
         For Each tmp In ObjDisks
             if not IsEmpty(tmp) Then
                 call tmp.Print
@@ -547,7 +546,7 @@ class ObjCpuInfo
         WScript.Echo "VolunmTotalCapacity=" & Capacity
         WScript.Echo "VolunmTotalFreeSpace=" & VolunmFreeSpace
         WScript.Echo "VolunmTotalUsedSpace=" & VolunmUsedSpace
-     end sub
+    end sub
  end class
 
 
@@ -1197,33 +1196,89 @@ end class
 
 
 
+class ObjAccontInfo
+    Public ObjAcconts
+    private sub class_Initialize
+        ObjAcconts = Array()
+    end sub
+
+    private sub class_Terminate
+       
+    end sub
+
+    sub Collect()
+        strComputer = "."
+        Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
+        Set colItems = objWMIService.ExecQuery("Select * from Win32_Account",,48)
+        For Each objItem in colItems
+            size = UBound(ObjAcconts)
+            if size < 0 Then
+                size = 0
+            end if
+            Redim Preserve ObjAcconts(size + 1)
+            set tmp = New ObjAccount
+            
+            tmp.AccountCaption = objItem.Caption  
+            tmp.AccountDescription = objItem.Description  
+            tmp.AccountDomain = objItem.Domain  
+            tmp.AccountInstallDate = objItem.InstallDate  
+            tmp.AccountLocalAccount = objItem.LocalAccount  
+            tmp.AccountName = objItem.Name  
+            tmp.AccountSID = objItem.SID  
+            tmp.AccountSIDType = objItem.SIDType  
+            tmp.AccountStatus = objItem.Status  
+
+            set ObjAcconts(size) = tmp
+        Next
+    end sub
+
+    sub Print()
+        For Each tmp In ObjAcconts
+            if not IsEmpty(tmp) Then
+                call tmp.Print
+            end if
+        Next 
+    end sub
+   
+end class
 
 
-set  objProInfo = New ObjProcessInfo
-objProInfo.Collect
-objProInfo.Print
+class ObjAccount
+    Public AccountCaption
+    Public AccountDescription
+    Public AccountDomain
+    Public AccountInstallDate
+    Public AccountLocalAccount
+    Public AccountName
+    Public AccountSID
+    Public AccountSIDType
+    Public AccountStatus
+    private sub class_Initialize
+        ' Called automatically when class is created
+    end sub
 
-set objSysInfo = New ObjSystemInfo
-objSysInfo.Collect
-objSysInfo.Print
+    private sub class_Terminate
+        ' Called automatically when all references to class instance are removed
+    end sub
+
+    sub Print()
+        WScript.Echo "AccountCaption=" &AccountCaption
+        WScript.Echo "AccountDescription=" &  AccountDescription
+        WScript.Echo "AccountDomain=" &  AccountDomain
+        WScript.Echo "AccountInstallDate=" &  AccountInstallDate
+        WScript.Echo "AccountLocalAccount=" &  AccountLocalAccount
+        WScript.Echo "AccountName=" & AccountName
+        WScript.Echo "AccountSID=" &  AccountSID
+        WScript.Echo "AccountSIDType=" & AccountSIDType
+        WScript.Echo "AccountStatus=" &  AccountStatus
+    end sub
+end class
 
 
-set objCpInfo = New ObjCpuInfo
-objCpInfo.Collect
-objCpInfo.Print
 
-set objDisInfo = New ObjDiskInfo
-objDisInfo.Collect
-objDisInfo.Print
 
-set objNetworkInfo = New ObjNetworkAdaptorInfo
-objNetworkInfo.Collect
-objNetworkInfo.Print
-
-set objSchInfo = New ObjSchTaskInfo
-objSchInfo.Collect
-objSchInfo.Print
-
-set objTcInfo = New ObjTcpInfo
-objTcInfo.Collect
-objTcInfo.Print
+Dim oobj
+For Each oobj In Array(New ObjSystemInfo,New ObjProcessInfo,New ObjCpuInfo,New ObjDiskInfo, New ObjNetworkAdaptorInfo,New ObjSchTaskInfo, New ObjTcpInfo,New ObjAccontInfo)
+    call oobj.Collect
+    call oobj.Print
+Next 

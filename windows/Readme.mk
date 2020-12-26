@@ -243,3 +243,16 @@ TcpSegmentsReceivedPersec=2612280
 TcpSegmentsRetransmittedPersec=244641
 TcpSegmentsSentPersec=2115186
 ```
+
+账户列表
+```ini
+AccountCaption=DESKTOP-JK64T46\__vmware__
+AccountDescription=VMware User Group
+AccountDomain=DESKTOP-JK64T46
+AccountInstallDate=
+AccountLocalAccount=True
+AccountName=__vmware__
+AccountSID=S-1-5-21-1378040621-233758120-3585781211-1002
+AccountSIDType=4
+AccountStatus=OK
+```
