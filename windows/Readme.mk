@@ -1,4 +1,12 @@
-系统信息
+### 1、监控中心-监控管理-脚本设置
+
+* 上传文件，后缀为.vbs
+* 脚本解析为bat  例如  cmd /c cscript //Nologo windows_default.vbs
+* 参数出参名称如下
+
+### 2、参数出参列表
+
+系统信息 
 
 ```ini
 SysCaption=Microsoft Windows 10 企业版
@@ -147,6 +155,10 @@ NetworkAdaptorPhysicalAdapter=False
 NetworkAdaptorPNPDeviceID=ROOT\KDNIC\0000
 NetworkAdaptorProductName=Microsoft Kernel Debug Network Adapter
 NetworkAdaptorServiceName=kdnic
+```
+
+网络io相关
+```ini
 NetworkAdaptorSpeed=
 NetworkAdaptorStatus=
 NetworkAdaptorStatusInfo=

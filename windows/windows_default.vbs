@@ -775,27 +775,87 @@ class ObjNetworkAdaptor
     end sub
 end class
 
-class ObjNetworkAdaptorInfo
-    Public ObjNetworkAdaptors
-    Public mapNameInterfaceObj
+
+
+class ObjNetworkAdaptorIO
+    Public NetworkInterfaceBytesReceivedPersec
+    Public NetworkInterfaceBytesSentPersec
+    Public NetworkInterfaceBytesTotalPersec
+    Public NetworkInterfaceCurrentBandwidth
+    Public NetworkInterfaceName
+    Public NetworkInterfacePacketsPersec
+    Public NetworkInterfacePacketsReceivedDiscarded
+    Public NetworkInterfacePacketsReceivedErrors
+    Public NetworkInterfacePacketsReceivedNonUnicastPersec
+    Public NetworkInterfacePacketsReceivedPersec
+    Public NetworkInterfacePacketsReceivedUnicastPersec
+    Public NetworkInterfacePacketsReceivedUnknown
+    Public NetworkInterfacePacketsSentNonUnicastPersec
+    Public NetworkInterfacePacketsSentPersec
+    Public NetworkInterfacePacketsSentUnicastPersec
+    Public NetworkInterfaceTimestamp_Object
+    Public NetworkInterfaceTimestamp_PerfTime
+    Public NetworkInterfaceTimestamp_Sys100NS
     private sub class_Initialize
         ' Called automatically when class is created
-        ObjNetworkAdaptors = Array()
-        Set mapNameInterfaceObj = CreateObject("Scripting.Dictionary")
     end sub
 
     private sub class_Terminate
         ' Called automatically when all references to class instance are removed
     end sub
 
-    sub CollectInterface()
+    sub Collect()
+        
+    end sub
+
+    sub Print()
+       WScript.Echo "NetworkInterfaceBytesReceivedPersec=" & NetworkInterfaceBytesReceivedPersec
+       WScript.Echo "NetworkInterfaceBytesSentPersec=" & NetworkInterfaceBytesSentPersec
+       WScript.Echo "NetworkInterfaceBytesTotalPersec=" & NetworkInterfaceBytesTotalPersec
+       WScript.Echo "NetworkInterfaceCurrentBandwidth=" & NetworkInterfaceCurrentBandwidth
+       WScript.Echo "NetworkInterfaceName=" & NetworkInterfaceName
+       WScript.Echo "NetworkInterfacePacketsPersec=" & NetworkInterfacePacketsPersec
+       WScript.Echo "NetworkInterfacePacketsReceivedDiscarded=" & NetworkInterfacePacketsReceivedDiscarded
+       WScript.Echo "NetworkInterfacePacketsReceivedErrors=" & NetworkInterfacePacketsReceivedErrors
+       WScript.Echo "NetworkInterfacePacketsReceivedNonUnicastPersec=" & NetworkInterfacePacketsReceivedNonUnicastPersec
+       WScript.Echo "NetworkInterfacePacketsReceivedPersec=" & NetworkInterfacePacketsReceivedPersec
+       WScript.Echo "NetworkInterfacePacketsReceivedUnicastPersec=" & NetworkInterfacePacketsReceivedUnicastPersec
+       WScript.Echo "NetworkInterfacePacketsReceivedUnknown=" & NetworkInterfacePacketsReceivedUnknown
+       WScript.Echo "NetworkInterfacePacketsSentNonUnicastPersec=" & NetworkInterfacePacketsSentNonUnicastPersec
+       WScript.Echo "NetworkInterfacePacketsSentPersec=" & NetworkInterfacePacketsSentPersec
+       WScript.Echo "NetworkInterfacePacketsSentUnicastPersec=" & NetworkInterfacePacketsSentUnicastPersec
+       WScript.Echo "NetworkInterfaceTimestamp_Object=" & NetworkInterfaceTimestamp_Object
+       WScript.Echo "NetworkInterfaceTimestamp_PerfTime=" & NetworkInterfaceTimestamp_PerfTime
+       WScript.Echo "NetworkInterfaceTimestamp_Sys100NS=" & NetworkInterfaceTimestamp_Sys100NS
+    end sub
+
+end class
+
+class  ObjNetworkAdaptorIOInfo
+    Public ObjNetworkAdaptorIOs
+    private sub class_Initialize
+        ObjNetworkAdaptorIOs = Array()
+    end sub
+
+    private sub class_Terminate
+        ' Called automatically when all references to class instance are removed
+    end sub
+
+
+    sub Collect()
         strComputer = "."
         Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
         Set colItems = objWMIService.ExecQuery("Select * from Win32_PerfRawData_Tcpip_NetworkInterface",,48)
         
         Dim objItem 'as Win32_PerfRawData_Tcpip_NetworkInterface
         For Each objItem in colItems
-            set tmp = New ObjNetworkInterface
+            size = UBound(ObjNetworkAdaptorIOs)
+            if size < 0 Then
+                size = 0
+            end if
+            Redim Preserve ObjNetworkAdaptorIOs(size + 1)
+
+            set tmp = New ObjNetworkAdaptorIO
             tmp.NetworkInterfaceBytesReceivedPersec = objItem.BytesReceivedPersec
             tmp.NetworkInterfaceBytesSentPersec = objItem.BytesSentPersec
             tmp.NetworkInterfaceBytesTotalPersec = objItem.BytesTotalPersec
@@ -814,12 +874,36 @@ class ObjNetworkAdaptorInfo
             tmp.NetworkInterfaceTimestamp_Object = objItem.Timestamp_Object
             tmp.NetworkInterfaceTimestamp_PerfTime = objItem.Timestamp_PerfTime
             tmp.NetworkInterfaceTimestamp_Sys100NS = objItem.Timestamp_Sys100NS
-            mapNameInterfaceObj.Add tmp.NetworkInterfaceName, tmp
+            set ObjNetworkAdaptorIOs(size) = tmp
         Next
     end sub
 
+    sub Print()
+        For Each tmp In ObjNetworkAdaptorIOs
+            if not IsEmpty(tmp) Then
+                call tmp.Print
+            end if
+        Next 
+    end sub
+end class
+
+class ObjNetworkAdaptorInfo
+    Public ObjNetworkAdaptors
+    ' Public mapNameInterfaceObj
+    private sub class_Initialize
+      
+        ObjNetworkAdaptors = Array()
+        ' Set mapNameInterfaceObj = CreateObject("Scripting.Dictionary")
+    end sub
+
+    private sub class_Terminate
+      
+    end sub
+
+ 
+
     sub Collect()
-        Call CollectInterface
+        ' Call CollectInterface
         strComputer = "."
         Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
         Set colItems = objWMIService.ExecQuery("Select * from Win32_NetworkAdapter",,48)
@@ -860,27 +944,27 @@ class ObjNetworkAdaptorInfo
             tmp.NetworkAdaptorStatus = objItem.Status
             tmp.NetworkAdaptorStatusInfo = objItem.StatusInfo
 
-            if mapNameInterfaceObj.Exists(tmp.NetworkAdaptorName) Then
-                set obj = mapNameInterfaceObj.Item(tmp.NetworkAdaptorName) 
-                tmp.NetworkAdaptorBytesReceivedPersec = obj.NetworkInterfaceBytesReceivedPersec 
-                tmp.NetworkAdaptorBytesSentPersec = obj.NetworkInterfaceBytesSentPersec 
-                tmp.NetworkAdaptorBytesTotalPersec = obj.NetworkInterfaceBytesTotalPersec 
-                tmp.NetworkAdaptorCurrentBandwidth = obj.NetworkInterfaceCurrentBandwidth 
-                tmp.NetworkAdaptorFrequency_Object = obj.NetworkInterfaceTimestamp_Object 
-                tmp.NetworkAdaptorFrequency_PerfTime = obj.NetworkInterfaceTimestamp_PerfTime 
-                tmp.NetworkAdaptorFrequency_Sys100NS = obj.NetworkInterfaceTimestamp_Sys100NS
-                tmp.NetworkAdaptorPacketsPersec = obj.NetworkInterfacePacketsPersec 
-                tmp.NetworkAdaptorPacketsReceivedDiscarded = obj.NetworkInterfacePacketsReceivedDiscarded 
-                tmp.NetworkAdaptorPacketsReceivedErrors = obj.NetworkInterfacePacketsReceivedErrors 
-                tmp.NetworkAdaptorPacketsReceivedNonUnicastPersec = obj.NetworkInterfacePacketsReceivedNonUnicastPersec 
-                tmp.NetworkAdaptorPacketsReceivedPersec = obj.NetworkInterfacePacketsReceivedPersec 
-                tmp.NetworkAdaptorPacketsReceivedUnicastPersec = obj.NetworkInterfacePacketsReceivedUnicastPersec 
-                tmp.NetworkAdaptorPacketsReceivedUnknown = obj.NetworkInterfacePacketsReceivedUnknown 
-                tmp.NetworkAdaptorPacketsSentNonUnicastPersec = obj.NetworkInterfacePacketsSentNonUnicastPersec 
-                tmp.NetworkAdaptorPacketsSentPersec = obj.NetworkInterfacePacketsSentPersec 
-                tmp.NetworkAdaptorPacketsSentUnicastPersec = obj.NetworkInterfacePacketsSentUnicastPersec 
+            ' if mapNameInterfaceObj.Exists(tmp.NetworkAdaptorName) Then
+            '     set obj = mapNameInterfaceObj.Item(tmp.NetworkAdaptorName) 
+            '     tmp.NetworkAdaptorBytesReceivedPersec = obj.NetworkInterfaceBytesReceivedPersec 
+            '     tmp.NetworkAdaptorBytesSentPersec = obj.NetworkInterfaceBytesSentPersec 
+            '     tmp.NetworkAdaptorBytesTotalPersec = obj.NetworkInterfaceBytesTotalPersec 
+            '     tmp.NetworkAdaptorCurrentBandwidth = obj.NetworkInterfaceCurrentBandwidth 
+            '     tmp.NetworkAdaptorFrequency_Object = obj.NetworkInterfaceTimestamp_Object 
+            '     tmp.NetworkAdaptorFrequency_PerfTime = obj.NetworkInterfaceTimestamp_PerfTime 
+            '     tmp.NetworkAdaptorFrequency_Sys100NS = obj.NetworkInterfaceTimestamp_Sys100NS
+            '     tmp.NetworkAdaptorPacketsPersec = obj.NetworkInterfacePacketsPersec 
+            '     tmp.NetworkAdaptorPacketsReceivedDiscarded = obj.NetworkInterfacePacketsReceivedDiscarded 
+            '     tmp.NetworkAdaptorPacketsReceivedErrors = obj.NetworkInterfacePacketsReceivedErrors 
+            '     tmp.NetworkAdaptorPacketsReceivedNonUnicastPersec = obj.NetworkInterfacePacketsReceivedNonUnicastPersec 
+            '     tmp.NetworkAdaptorPacketsReceivedPersec = obj.NetworkInterfacePacketsReceivedPersec 
+            '     tmp.NetworkAdaptorPacketsReceivedUnicastPersec = obj.NetworkInterfacePacketsReceivedUnicastPersec 
+            '     tmp.NetworkAdaptorPacketsReceivedUnknown = obj.NetworkInterfacePacketsReceivedUnknown 
+            '     tmp.NetworkAdaptorPacketsSentNonUnicastPersec = obj.NetworkInterfacePacketsSentNonUnicastPersec 
+            '     tmp.NetworkAdaptorPacketsSentPersec = obj.NetworkInterfacePacketsSentPersec 
+            '     tmp.NetworkAdaptorPacketsSentUnicastPersec = obj.NetworkInterfacePacketsSentUnicastPersec 
 
-            end if
+            ' end if
             set ObjNetworkAdaptors(size) = tmp
         Next
     end sub
@@ -1278,7 +1362,7 @@ end class
 
 
 Dim oobj
-For Each oobj In Array(New ObjSystemInfo,New ObjProcessInfo,New ObjCpuInfo,New ObjDiskInfo, New ObjNetworkAdaptorInfo,New ObjSchTaskInfo, New ObjTcpInfo,New ObjAccontInfo)
+For Each oobj In Array(New ObjSystemInfo,New ObjProcessInfo,New ObjCpuInfo,New ObjDiskInfo, New ObjNetworkAdaptorInfo, New ObjNetworkAdaptorIOInfo,New ObjSchTaskInfo, New ObjTcpInfo,New ObjAccontInfo)
     call oobj.Collect
     call oobj.Print
 Next 
