@@ -1,7 +1,7 @@
 ### 1、监控中心-监控管理-脚本设置
 
 * 上传文件，后缀为.vbs
-* 脚本解析为bat  例如  cmd /c cscript //Nologo windows_default.vbs
+* 脚本解析为bat  例如  cmd /c cscript /Nologo windows_default.vbs
 * 参数出参名称如下
 
 ### 2、参数出参列表
@@ -12,11 +12,11 @@
 SysCaption=Microsoft Windows 10 企业版
 SysCSName=DESKTOP-JK64T46
 SysDescription=
-# 系统物理内存剩余（M）
-SysFreePhysicalMemory=8166280
+# 系统物理内存剩余（G）
+SysFreePhysicalMemory=
 SysFreeSpaceInPagingFiles=9753800
-# 系统虚拟内存剩余
-SysFreeVirtualMemory=13259152
+# 系统虚拟内存剩余 （G）
+SysFreeVirtualMemory=
 SysLargeSystemCache=
 SysManufacturer=Microsoft Corporation
 # 系统进程上限
@@ -34,15 +34,18 @@ SysSerialNumber=00329-00000-00003-AA066
 SysTotalSwapSpaceSize=
 # 虚拟内存总量
 SysTotalVirtualMemorySize=26640156
-# 内存总量 （MB）
-SysTotalVisibleMemorySize=16678684
+# 内存总量 （G）
+SysTotalVisibleMemorySize=
 # 系统版本号
 SysVersion= 10.0.10240
 # 运行时间
 Sysruntime=1天19小时11分钟36秒
+# 内存使用率
+SysPercentUsedMemory=74.2842540814371
 ```
 
 CPU 信息
+
 ```ini
 CpuAddressWidth=64
 CpuCaption=Intel64 Family 6 Model 158 Stepping 10
@@ -65,8 +68,12 @@ CpuSystemName=DESKTOP-JK64T46
 CpuCount=1
 ```
 
+
+
 磁盘信息 列表 （备注： 目前 Disk 和 Volunm 可以当成一样东西）
-```ini
+
+```
+​```ini
 DiskName=G:
 DiskAvgDiskBytesPerRead=0
 DiskAvgDiskBytesPerTransfer=0
@@ -267,4 +274,16 @@ AccountName=__vmware__
 AccountSID=S-1-5-21-1378040621-233758120-3585781211-1002
 AccountSIDType=4
 AccountStatus=OK
+```
+
+
+pagefile
+```ini
+
+PageFileAllocatedBaseSize: 9728
+PageFileCurrentUsage: 353
+PageFilePeakUsage: 395
+#页使用率
+PageFilePercentUsed: 3.62870065789474
+
 ```

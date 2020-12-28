@@ -232,25 +232,25 @@ class ObjSystemInfo
              SysCaption =  objItem.Caption
              SysCSName = objItem.CSName
              SysDescription = objItem.Description
-             SysFreePhysicalMemory = objItem.FreePhysicalMemory
+             SysFreePhysicalMemory = objItem.FreePhysicalMemory  / 1024 / 1024
              SysFreeSpaceInPagingFiles = objItem.FreeSpaceInPagingFiles
-             SysFreeVirtualMemory =  objItem.FreeVirtualMemory
-             SysLargeSystemCache = objItem.LargeSystemCache
+             SysFreeVirtualMemory =  objItem.FreeVirtualMemory / 1024 / 1024
+             SysLargeSystemCache = objItem.LargeSystemCache 
              SysManufacturer = objItem.Manufacturer
              SysMaxNumberOfProcesses =  objItem.MaxNumberOfProcesses
-             SysMaxProcessMemorySize = objItem.MaxProcessMemorySize
+             SysMaxProcessMemorySize = objItem.MaxProcessMemorySize / 1024 / 1024
              SysName = Split(objItem.Name, "|")(0)
              SysNumberOfLicensedUsers = objItem.NumberOfLicensedUsers
              SysNumberOfProcesses =  objItem.NumberOfProcesses
              SysNumberOfUsers =  objItem.NumberOfUsers
              SysSerialNumber = objItem.SerialNumber
-             SysTotalSwapSpaceSize = objItem.TotalSwapSpaceSize
-             SysTotalVirtualMemorySize = objItem.TotalVirtualMemorySize
-             SysTotalVisibleMemorySize = objItem.TotalVisibleMemorySize
+             SysTotalSwapSpaceSize = objItem.TotalSwapSpaceSize  / 1024 /1024
+             SysTotalVirtualMemorySize = objItem.TotalVirtualMemorySize / 1024 /1024
+             SysTotalVisibleMemorySize = objItem.TotalVisibleMemorySize / 1024 /1024
              SysVersion = objItem.Version
              Sysruntime =   GetRuntimeStr(GetRuntimeSecond(objItem.LastBootUpTime))
-             SysUsedMemory =  objItem.TotalVisibleMemorySize - objItem.FreePhysicalMemory
-             SysPercentUsedMemory =  ((objItem.TotalVisibleMemorySize - objItem.FreePhysicalMemory) \ objItem.TotalVisibleMemorySize) * 100
+             SysUsedMemory =  (objItem.TotalVisibleMemorySize - objItem.FreePhysicalMemory ) / 1024 /1024
+             SysPercentUsedMemory =  ((objItem.TotalVisibleMemorySize - objItem.FreePhysicalMemory) / objItem.TotalVisibleMemorySize) * 100
         Next
     end sub
 
@@ -443,18 +443,25 @@ class ObjDiskInfo
         Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
         Set colItems = objWMIService.ExecQuery("Select * from Win32_Volume",,48)
         
+        Dim cc
+        cc = 0.0
         Dim objItem 'as Win32_Volume
         For Each objItem in colItems
             set tmp = New ObjVolumn
             tmp.VolunmLabel = objItem.Label
             tmp.VolunmName = Replace(Replace(objItem.Name, "\", ""), " ", "")
             tmp.VolunmSerialNumber = objItem.SerialNumber
-            tmp.VolunmFreeSpace = objItem.FreeSpace
-            tmp.VolunmCapacity = objItem.Capacity
-            tmp.VolunmUsedSpace = objItem.Capacity - objItem.FreeSpace
-            tmp.VolunmPercentUsed = tmp.VolunmUsedSpace / objItem.Capacity * 100 
+            tmp.VolunmFreeSpace = objItem.FreeSpace / 1024 /1024 /1024 
+            tmp.VolunmCapacity = objItem.Capacity / 1024 /1024 /1024
+            tmp.VolunmUsedSpace = (objItem.Capacity - objItem.FreeSpace ) / 1024 /1024 /1024 
+            tmp.VolunmPercentUsed = (tmp.VolunmUsedSpace /  tmp.VolunmCapacity) * 100 
             tmp.VolunmFileSystem = objItem.FileSystem
-
+            
+            if tmp.VolunmCapacity > 0 Then
+                Capacity = Capacity + tmp.VolunmCapacity
+                VolunmFreeSpace = VolunmFreeSpace +  tmp.VolunmFreeSpace
+            end if 
+            
             ' tmp.VolunmDriveType = objItem.DriveType
             select case objItem.DriveType
                 case  "0"
@@ -473,12 +480,11 @@ class ObjDiskInfo
                     tmp.VolunmDriveType ="RAM Disk"
                 case else
             end select
-       
-            Capacity = Capacity + objItem.Capacity
-            VolunmFreeSpace = VolunmFreeSpace + objItem.FreeSpace
             mapNameDiskObj.Add tmp.VolunmName, tmp
-         Next
-         VolunmUsedSpace = Capacity - VolunmFreeSpace
+            
+        Next
+            VolunmUsedSpace = Capacity - VolunmFreeSpace
+       
      end sub
  
     sub Collect()
@@ -1120,65 +1126,87 @@ class ObjSchTaskInfo
     Public ObjSchTasks
     Public  rowCont 
     private sub class_Initialize
-        
+        ' Called automatically when class is created
         ObjSchTasks = Array()
         rowCont = 29
     end sub
 
     private sub class_Terminate
-        
+        ' Called automatically when all references to class instance are removed
     end sub
 
     sub Collect()
         strResult = createobject("wscript.shell").exec("SCHTASKS /Query /FO LIST /V").StdOut.ReadAll
-    
+        ' WScript.Echo strResult
         arrSplitStr =  Split(strResult, vbCrLf)
 
-        Dim  arrSplit() ,curentfolder
+        Dim  arrSplit() ,curentfolder, arrSplitKey()
         ReDim arrSplit(rowCont, 1) 
+        ReDim arrSplitKey(rowCont, 1) 
         currentRows = 0
         isFirst = 1
         for i = 0 to UBound(arrSplitStr) step 1
-            ' ??????????,???????
+            ' 第一行是空行,所以去除
             if i <> 0 Then
-                size  = UBound( arrSplit, 2) 
+                size  = UBound(arrSplit, 2) 
                 if arrSplitStr(i) = "" Then
                     ReDim Preserve arrSplit(rowCont, size+1) 
+                    ReDim Preserve arrSplitKey(rowCont, size+1) 
                     currentRows = 0
                     isFirst = 1
                 else
                     tmp = Split(arrSplitStr(i), ":", 2)
                     if isFirst = 1 Then
                         isFirst = 0
-                        if tmp(0) = "?????" Then
+                        if tmp(0) = "文件夹" Then
                             curentfolder = tmp(1)
                         end if
                         arrSplit(currentRows, size-1) = curentfolder
+                        arrSplitKey(currentRows, size-1) = tmp(0)
                     else   
-                        
                         arrSplit(currentRows, size-1) = tmp(1)
+                        arrSplitKey(currentRows, size-1) = tmp(0)
                     end if 
                     currentRows = currentRows + 1    
                 end if
             end if
         next
         
-      
-        for i = 0 to  UBound( arrSplit, 2)  step 1
-            size = UBound(ObjSchTasks)
-            if size < 0 Then
-                size = 0
-            end if
-            Redim Preserve ObjSchTasks(size + 1)
-            set tmp = New ObjSchTask
-             tmp.SchTaskName = arrSplit(2, i)
-             tmp.SchTaskNextRuntime = arrSplit(3, i)
-             tmp.SchTaskMode = arrSplit(4, i)
-             tmp.SchTaskLastRuntime = arrSplit(4, i)
-             tmp.SchTaskLastResult= arrSplit(7, i)
-             tmp.SchTask = arrSplit(9, i)
-             tmp.SchTaskStatus = arrSplit(12, i)
-            set ObjSchTasks(size) = tmp
+        intCoumnSize = UBound(arrSplitKey, 2)
+        for i = 0 to  intCoumnSize  step 1
+            if i < intCoumnSize -1 Then
+                size = UBound(ObjSchTasks)
+                if size < 0 Then
+                    size = 0
+                end if
+                Redim Preserve ObjSchTasks(size + 1)
+                set tmp = New ObjSchTask
+
+                for j = 0 to rowCont step 1
+                    strKeyName = arrSplitKey(j, i)
+                    select case strKeyName
+                        case "任务名"
+                            tmp.SchTaskName = arrSplit(j, i)
+                        case "下次运行时间"
+                            tmp.SchTaskNextRuntime = arrSplit(j, i)
+                        case "模式"
+                            tmp.SchTaskMode = arrSplit(j, i)
+                        case "上次运行时间"
+                            tmp.SchTaskLastRuntime = arrSplit(j, i)
+                        case "上次结果"
+                            tmp.SchTaskLastResult = arrSplit(j, i)
+                        case "要运行的任务"
+                            tmp.SchTask = arrSplit(j, i)
+                        case "计划任务状态"
+                            tmp.SchTaskStatus = arrSplit(j, i)
+                        case "计划的类型"
+                            tmp.SchTaskType = arrSplit(j, i)
+                        case else
+                            
+                    end select
+                next
+                set ObjSchTasks(size) = tmp
+            end if 
         next
     end sub
 
@@ -1201,6 +1229,7 @@ class ObjSchTask
     Public SchTaskMode 
     Public SchTaskStatus 
     Public SchTask
+    Public SchTaskType
     private sub class_Initialize
         ' Called automatically when class is created
     end sub
@@ -1222,10 +1251,9 @@ class ObjSchTask
        WScript.Echo "SchTaskMode=" & SchTaskMode 
        WScript.Echo "SchTaskStatus=" & SchTaskStatus 
        WScript.Echo "SchTask=" & SchTask
+       WScript.Echo "SchTaskType=" & SchTaskType
     end sub
 end class
-
-
 class ObjTcpInfo
     Public TcpConnectionFailures
     Public TcpConnectionsActive
@@ -1360,9 +1388,40 @@ end class
 
 
 
+class ObjPageFileInfo
+
+    private sub class_Initialize
+        ' Called automatically when class is created
+    end sub
+
+    private sub class_Terminate
+        ' Called automatically when all references to class instance are removed
+    end sub
+
+    sub Collect()
+        On Error Resume Next
+        strComputer = "."
+        Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
+        Set colItems = objWMIService.ExecQuery("Select * from Win32_PageFileUsage",,48)
+
+        Dim objItem 'as Win32_PageFileUsage
+        For Each objItem in colItems
+            WScript.Echo "PageFileAllocatedBaseSize: " & objItem.AllocatedBaseSize
+            WScript.Echo "PageFileCurrentUsage: " & objItem.CurrentUsage
+            WScript.Echo "PageFilePeakUsage: " & objItem.PeakUsage
+            WScript.Echo "PageFilePercentUsed: " & (objItem.CurrentUsage / objItem.AllocatedBaseSize ) * 100
+        Next
+    end sub
+
+    sub Print()
+        
+    end sub
+end class
+
 
 Dim oobj
-For Each oobj In Array(New ObjSystemInfo,New ObjProcessInfo,New ObjCpuInfo,New ObjDiskInfo, New ObjNetworkAdaptorInfo, New ObjNetworkAdaptorIOInfo,New ObjSchTaskInfo, New ObjTcpInfo,New ObjAccontInfo)
+For Each oobj In Array(New ObjSystemInfo, New ObjPageFileInfo,  New ObjProcessInfo,New ObjCpuInfo,New ObjDiskInfo, New ObjNetworkAdaptorInfo, New ObjNetworkAdaptorIOInfo,New ObjSchTaskInfo, New ObjTcpInfo,New ObjAccontInfo)
     call oobj.Collect
     call oobj.Print
 Next 
+
