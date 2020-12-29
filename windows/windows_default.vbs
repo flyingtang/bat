@@ -1406,10 +1406,10 @@ class ObjPageFileInfo
 
         Dim objItem 'as Win32_PageFileUsage
         For Each objItem in colItems
-            WScript.Echo "PageFileAllocatedBaseSize: " & objItem.AllocatedBaseSize
-            WScript.Echo "PageFileCurrentUsage: " & objItem.CurrentUsage
-            WScript.Echo "PageFilePeakUsage: " & objItem.PeakUsage
-            WScript.Echo "PageFilePercentUsed: " & (objItem.CurrentUsage / objItem.AllocatedBaseSize ) * 100
+            WScript.Echo "PageFileAllocatedBaseSize=" & objItem.AllocatedBaseSize
+            WScript.Echo "PageFileCurrentUsage=" & objItem.CurrentUsage
+            WScript.Echo "PageFilePeakUsage=" & objItem.PeakUsage
+            WScript.Echo "PageFilePercentUsed=" & (objItem.CurrentUsage / objItem.AllocatedBaseSize ) * 100
         Next
     end sub
 

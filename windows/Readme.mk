@@ -280,10 +280,10 @@ AccountStatus=OK
 pagefile
 ```ini
 
-PageFileAllocatedBaseSize: 9728
-PageFileCurrentUsage: 353
-PageFilePeakUsage: 395
+PageFileAllocatedBaseSize=9728
+PageFileCurrentUsage= 353
+PageFilePeakUsage=395
 #页使用率
-PageFilePercentUsed: 3.62870065789474
+PageFilePercentUsed=3.62870065789474
 
 ```
